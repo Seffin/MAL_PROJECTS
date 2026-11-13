@@ -1,0 +1,70 @@
+# REVIEW REPORT — align_song.py
+# Audio duration: 301.60s
+
+Line   4: ദൈവപിതാവിൽ നിന്നുമെപ്പോഴും,
+         start=30.50s  end=35.72s  conf=0.470
+         ⚠  LOW_CONFIDENCE (0.470)
+
+Line   6: തുടങ്ങിയ നല്ലൊരു വേലയിതൊക്കെയും,
+         start=45.26s  end=48.88s  conf=0.095
+         ⚠  LOW_CONFIDENCE (0.095)
+
+Line   7: തക്ക സമയത്തവൻ പൂർത്തിയാക്കും!
+         start=52.12s  end=55.70s  conf=0.150
+         ⚠  LOW_CONFIDENCE (0.150)
+
+Line   8: ക്രിസ്തുവിൻ നാളതിൽ ശോഭിച്ചിടാനായി,
+         start=58.74s  end=63.96s  conf=0.351
+         ⚠  LOW_CONFIDENCE (0.351)
+
+Line  10: നിങ്ങളെ ഓർക്കുമ്പോൾ നന്ദിയേറുന്നു,
+         start=85.48s  end=90.60s  conf=0.461
+         ⚠  LOW_CONFIDENCE (0.461)
+
+Line  14: തുടങ്ങിയ നല്ലൊരു വേലയിതൊക്കെയും,
+         start=111.90s  end=115.52s  conf=0.028
+         ⚠  LOW_CONFIDENCE (0.028)
+
+Line  15: തക്ക സമയത്തവൻ പൂർത്തിയാക്കും!
+         start=118.78s  end=122.36s  conf=0.023
+         ⚠  LOW_CONFIDENCE (0.023)
+
+Line  16: ക്രിസ്തുവിൻ നാളതിൽ ശോഭിച്ചിടാനായി,
+         start=125.40s  end=130.63s  conf=0.321
+         ⚠  LOW_CONFIDENCE (0.321)
+
+Line  22: തുടങ്ങിയ നല്ലൊരു വേലയിതൊക്കെയും,
+         start=191.89s  end=195.55s  conf=0.028
+         ⚠  LOW_CONFIDENCE (0.028)
+
+Line  23: തക്ക സമയത്തവൻ പൂർത്തിയാക്കും!
+         start=198.77s  end=202.37s  conf=0.019
+         ⚠  LOW_CONFIDENCE (0.019)
+
+Line  24: ക്രിസ്തുവിൻ നാളതിൽ ശോഭിച്ചിടാനായി,
+         start=205.41s  end=210.61s  conf=0.272
+         ⚠  LOW_CONFIDENCE (0.272)
+
+Line  25: മഹത്വത്തിന്റെ ഫലങ്ങൾ അവൻ നൽകീടും!
+         start=211.09s  end=215.79s  conf=0.438
+         ⚠  LOW_CONFIDENCE (0.438)
+
+Line  30: തുടങ്ങിയ നല്ലൊരു വേലയിതൊക്കെയും,
+         start=245.23s  end=248.87s  conf=0.020
+         ⚠  LOW_CONFIDENCE (0.020)
+
+Line  31: തക്ക സമയത്തവൻ പൂർത്തിയാക്കും!
+         start=252.09s  end=255.67s  conf=0.056
+         ⚠  LOW_CONFIDENCE (0.056)
+
+Line  32: ക്രിസ്തുവിൻ നാളതിൽ ശോഭിച്ചിടാനായി,
+         start=258.73s  end=263.95s  conf=0.417
+         ⚠  LOW_CONFIDENCE (0.417)
+
+Line  34: ദൈവത്തിൻ പുകഴ്ചയ്ക്കായ് വാഴ്ന്നിടാം,
+         start=270.85s  end=276.57s  conf=0.493
+         ⚠  LOW_CONFIDENCE (0.493)
+
+Line  35: ക്രിസ്തുവിൻ നീതിയിൽ നിലനിൽക്കാം!
+         start=277.95s  end=283.35s  conf=0.449
+         ⚠  LOW_CONFIDENCE (0.449)

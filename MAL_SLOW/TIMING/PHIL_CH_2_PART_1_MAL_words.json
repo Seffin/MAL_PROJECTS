@@ -1,0 +1,960 @@
+[
+  {
+    "line_idx": 2,
+    "text": "ക്രിസ്തുവിൽ ആശ്വാസവും സ്നേഹത്തിൻ ആശ്വാസവും",
+    "start": 31.46,
+    "end": 36.68,
+    "avg_confidence": 0.3216,
+    "flags": [
+      "LOW_CONFIDENCE (0.322)"
+    ],
+    "words": [
+      {
+        "word": "ക്രിസ്തുവിൽ",
+        "start": 31.46,
+        "end": 32.7,
+        "confidence": 0.2892
+      },
+      {
+        "word": "ആശ്വാസവും",
+        "start": 32.74,
+        "end": 33.92,
+        "confidence": 0.2869
+      },
+      {
+        "word": "സ്നേഹത്തിൻ",
+        "start": 34.26,
+        "end": 35.52,
+        "confidence": 0.3347
+      },
+      {
+        "word": "ആശ്വാസവും",
+        "start": 35.58,
+        "end": 36.68,
+        "confidence": 0.3754
+      }
+    ]
+  },
+  {
+    "line_idx": 3,
+    "text": "ആത്മാവിൻ കൂട്ടായ്മയും കരുണയും ഉണ്ടെങ്കിൽ,",
+    "start": 37.26,
+    "end": 42.88,
+    "avg_confidence": 0.531,
+    "flags": [],
+    "words": [
+      {
+        "word": "ആത്മാവിൻ",
+        "start": 37.26,
+        "end": 38.24,
+        "confidence": 0.5671
+      },
+      {
+        "word": "കൂട്ടായ്മയും",
+        "start": 38.24,
+        "end": 39.54,
+        "confidence": 0.6266
+      },
+      {
+        "word": "കരുണയും",
+        "start": 40.0,
+        "end": 40.74,
+        "confidence": 0.6201
+      },
+      {
+        "word": "ഉണ്ടെങ്കിൽ,",
+        "start": 40.8,
+        "end": 42.88,
+        "confidence": 0.3101
+      }
+    ]
+  },
+  {
+    "line_idx": 4,
+    "text": "ഐക്യതയോടെ നാം ഒന്നായി ജീവിച്ച്",
+    "start": 42.92,
+    "end": 47.04,
+    "avg_confidence": 0.2417,
+    "flags": [
+      "LOW_CONFIDENCE (0.242)"
+    ],
+    "words": [
+      {
+        "word": "ഐക്യതയോടെ",
+        "start": 42.92,
+        "end": 44.04,
+        "confidence": 0.1317
+      },
+      {
+        "word": "നാം",
+        "start": 44.24,
+        "end": 45.66,
+        "confidence": 0.1992
+      },
+      {
+        "word": "ഒന്നായി",
+        "start": 45.7,
+        "end": 46.28,
+        "confidence": 0.254
+      },
+      {
+        "word": "ജീവിച്ച്",
+        "start": 46.36,
+        "end": 47.04,
+        "confidence": 0.382
+      }
+    ]
+  },
+  {
+    "line_idx": 5,
+    "text": "താഴ്മയിൽ മറ്റുള്ളോർ നന്മയ്ക്കായ് തേടിടാം!",
+    "start": 48.46,
+    "end": 53.96,
+    "avg_confidence": 0.4803,
+    "flags": [
+      "LOW_CONFIDENCE (0.480)"
+    ],
+    "words": [
+      {
+        "word": "താഴ്മയിൽ",
+        "start": 48.46,
+        "end": 49.16,
+        "confidence": 0.5166
+      },
+      {
+        "word": "മറ്റുള്ളോർ",
+        "start": 49.2,
+        "end": 50.52,
+        "confidence": 0.3629
+      },
+      {
+        "word": "നന്മയ്ക്കായ്",
+        "start": 50.6,
+        "end": 51.68,
+        "confidence": 0.6651
+      },
+      {
+        "word": "തേടിടാം!",
+        "start": 51.84,
+        "end": 53.96,
+        "confidence": 0.3767
+      }
+    ]
+  },
+  {
+    "line_idx": 6,
+    "text": "എല്ലാ നാമത്തിനും മേലായ നാമം!",
+    "start": 54.18,
+    "end": 58.2,
+    "avg_confidence": 0.1217,
+    "flags": [
+      "LOW_CONFIDENCE (0.122)"
+    ],
+    "words": [
+      {
+        "word": "എല്ലാ",
+        "start": 54.18,
+        "end": 54.72,
+        "confidence": 0.1873
+      },
+      {
+        "word": "നാമത്തിനും",
+        "start": 54.82,
+        "end": 55.72,
+        "confidence": 0.0851
+      },
+      {
+        "word": "മേലായ",
+        "start": 56.94,
+        "end": 57.56,
+        "confidence": 0.1152
+      },
+      {
+        "word": "നാമം!",
+        "start": 57.66,
+        "end": 58.2,
+        "confidence": 0.0994
+      }
+    ]
+  },
+  {
+    "line_idx": 7,
+    "text": "യേശുവിൻ നാമം അതിശ്രേഷ്ഠ നാമം!",
+    "start": 59.76,
+    "end": 63.86,
+    "avg_confidence": 0.2888,
+    "flags": [
+      "LOW_CONFIDENCE (0.289)"
+    ],
+    "words": [
+      {
+        "word": "യേശുവിൻ",
+        "start": 59.76,
+        "end": 60.48,
+        "confidence": 0.227
+      },
+      {
+        "word": "നാമം",
+        "start": 60.48,
+        "end": 61.04,
+        "confidence": 0.2419
+      },
+      {
+        "word": "അതിശ്രേഷ്ഠ",
+        "start": 62.26,
+        "end": 63.24,
+        "confidence": 0.3324
+      },
+      {
+        "word": "നാമം!",
+        "start": 63.32,
+        "end": 63.86,
+        "confidence": 0.3537
+      }
+    ]
+  },
+  {
+    "line_idx": 8,
+    "text": "മുട്ടുകളൊക്കെയും തൻ മുൻപിൽ മടങ്ങും!",
+    "start": 65.38,
+    "end": 69.55,
+    "avg_confidence": 0.169,
+    "flags": [
+      "LOW_CONFIDENCE (0.169)"
+    ],
+    "words": [
+      {
+        "word": "മുട്ടുകളൊക്കെയും",
+        "start": 65.38,
+        "end": 67.11,
+        "confidence": 0.3321
+      },
+      {
+        "word": "തൻ",
+        "start": 67.89,
+        "end": 68.19,
+        "confidence": 0.14
+      },
+      {
+        "word": "മുൻപിൽ",
+        "start": 68.23,
+        "end": 68.73,
+        "confidence": 0.069
+      },
+      {
+        "word": "മടങ്ങും!",
+        "start": 68.79,
+        "end": 69.55,
+        "confidence": 0.1349
+      }
+    ]
+  },
+  {
+    "line_idx": 9,
+    "text": "നാവുകളൊക്കെയും വാഴ്ത്തിപ്പറയും!",
+    "start": 71.07,
+    "end": 75.59,
+    "avg_confidence": 0.1741,
+    "flags": [
+      "LOW_CONFIDENCE (0.174)"
+    ],
+    "words": [
+      {
+        "word": "നാവുകളൊക്കെയും",
+        "start": 71.07,
+        "end": 72.69,
+        "confidence": 0.1828
+      },
+      {
+        "word": "വാഴ്ത്തിപ്പറയും!",
+        "start": 73.87,
+        "end": 75.59,
+        "confidence": 0.1655
+      }
+    ]
+  },
+  {
+    "line_idx": 10,
+    "text": "ദൈവരൂപത്തിൽ താൻ ഇരുന്നിട്ടും",
+    "start": 104.95,
+    "end": 109.41,
+    "avg_confidence": 0.4847,
+    "flags": [
+      "LOW_CONFIDENCE (0.485)"
+    ],
+    "words": [
+      {
+        "word": "ദൈവരൂപത്തിൽ",
+        "start": 104.95,
+        "end": 107.77,
+        "confidence": 0.6896
+      },
+      {
+        "word": "താൻ",
+        "start": 107.77,
+        "end": 108.37,
+        "confidence": 0.48
+      },
+      {
+        "word": "ഇരുന്നിട്ടും",
+        "start": 108.41,
+        "end": 109.41,
+        "confidence": 0.2845
+      }
+    ]
+  },
+  {
+    "line_idx": 11,
+    "text": "ദാസന്റെ രൂപം ധരിച്ചവനല്ലോ!",
+    "start": 110.61,
+    "end": 114.79,
+    "avg_confidence": 0.2514,
+    "flags": [
+      "LOW_CONFIDENCE (0.251)"
+    ],
+    "words": [
+      {
+        "word": "ദാസന്റെ",
+        "start": 110.61,
+        "end": 111.79,
+        "confidence": 0.2254
+      },
+      {
+        "word": "രൂപം",
+        "start": 112.05,
+        "end": 112.79,
+        "confidence": 0.2813
+      },
+      {
+        "word": "ധരിച്ചവനല്ലോ!",
+        "start": 113.09,
+        "end": 114.79,
+        "confidence": 0.2474
+      }
+    ]
+  },
+  {
+    "line_idx": 12,
+    "text": "ക്രൂശിലെ മരണത്തോളം താൻ താഴ്ന്ന്",
+    "start": 116.21,
+    "end": 120.53,
+    "avg_confidence": 0.2791,
+    "flags": [
+      "LOW_CONFIDENCE (0.279)"
+    ],
+    "words": [
+      {
+        "word": "ക്രൂശിലെ",
+        "start": 116.21,
+        "end": 116.89,
+        "confidence": 0.4986
+      },
+      {
+        "word": "മരണത്തോളം",
+        "start": 116.97,
+        "end": 118.65,
+        "confidence": 0.2596
+      },
+      {
+        "word": "താൻ",
+        "start": 119.41,
+        "end": 119.77,
+        "confidence": 0.2205
+      },
+      {
+        "word": "താഴ്ന്ന്",
+        "start": 119.79,
+        "end": 120.53,
+        "confidence": 0.1375
+      }
+    ]
+  },
+  {
+    "line_idx": 13,
+    "text": "പിതാവിൻ ഇഷ്ടം തികച്ചവനല്ലോ!",
+    "start": 121.71,
+    "end": 126.97,
+    "avg_confidence": 0.2241,
+    "flags": [
+      "LOW_CONFIDENCE (0.224)"
+    ],
+    "words": [
+      {
+        "word": "പിതാവിൻ",
+        "start": 121.71,
+        "end": 122.53,
+        "confidence": 0.1788
+      },
+      {
+        "word": "ഇഷ്ടം",
+        "start": 123.33,
+        "end": 123.87,
+        "confidence": 0.2151
+      },
+      {
+        "word": "തികച്ചവനല്ലോ!",
+        "start": 124.53,
+        "end": 126.97,
+        "confidence": 0.2784
+      }
+    ]
+  },
+  {
+    "line_idx": 14,
+    "text": "എല്ലാ നാമത്തിനും മേലായ നാമം!",
+    "start": 127.61,
+    "end": 131.61,
+    "avg_confidence": 0.1044,
+    "flags": [
+      "LOW_CONFIDENCE (0.104)"
+    ],
+    "words": [
+      {
+        "word": "എല്ലാ",
+        "start": 127.61,
+        "end": 128.13,
+        "confidence": 0.1465
+      },
+      {
+        "word": "നാമത്തിനും",
+        "start": 128.27,
+        "end": 130.37,
+        "confidence": 0.0874
+      },
+      {
+        "word": "മേലായ",
+        "start": 130.39,
+        "end": 130.99,
+        "confidence": 0.0902
+      },
+      {
+        "word": "നാമം!",
+        "start": 131.07,
+        "end": 131.61,
+        "confidence": 0.0935
+      }
+    ]
+  },
+  {
+    "line_idx": 15,
+    "text": "യേശുവിൻ നാമം അതിശ്രേഷ്ഠ നാമം!",
+    "start": 133.17,
+    "end": 137.29,
+    "avg_confidence": 0.3588,
+    "flags": [
+      "LOW_CONFIDENCE (0.359)"
+    ],
+    "words": [
+      {
+        "word": "യേശുവിൻ",
+        "start": 133.17,
+        "end": 133.91,
+        "confidence": 0.3285
+      },
+      {
+        "word": "നാമം",
+        "start": 133.91,
+        "end": 134.49,
+        "confidence": 0.4688
+      },
+      {
+        "word": "അതിശ്രേഷ്ഠ",
+        "start": 135.69,
+        "end": 136.65,
+        "confidence": 0.3448
+      },
+      {
+        "word": "നാമം!",
+        "start": 136.73,
+        "end": 137.29,
+        "confidence": 0.2929
+      }
+    ]
+  },
+  {
+    "line_idx": 16,
+    "text": "മുട്ടുകളൊക്കെയും തൻ മുൻപിൽ മടങ്ങും!",
+    "start": 138.83,
+    "end": 142.95,
+    "avg_confidence": 0.1718,
+    "flags": [
+      "LOW_CONFIDENCE (0.172)"
+    ],
+    "words": [
+      {
+        "word": "മുട്ടുകളൊക്കെയും",
+        "start": 138.83,
+        "end": 140.51,
+        "confidence": 0.3208
+      },
+      {
+        "word": "തൻ",
+        "start": 141.31,
+        "end": 141.61,
+        "confidence": 0.1249
+      },
+      {
+        "word": "മുൻപിൽ",
+        "start": 141.65,
+        "end": 142.15,
+        "confidence": 0.0872
+      },
+      {
+        "word": "മടങ്ങും!",
+        "start": 142.19,
+        "end": 142.95,
+        "confidence": 0.1543
+      }
+    ]
+  },
+  {
+    "line_idx": 17,
+    "text": "നാവുകളൊക്കെയും വാഴ്ത്തിപ്പറയും!",
+    "start": 144.49,
+    "end": 149.01,
+    "avg_confidence": 0.4213,
+    "flags": [
+      "LOW_CONFIDENCE (0.421)"
+    ],
+    "words": [
+      {
+        "word": "നാവുകളൊക്കെയും",
+        "start": 144.49,
+        "end": 146.17,
+        "confidence": 0.5534
+      },
+      {
+        "word": "വാഴ്ത്തിപ്പറയും!",
+        "start": 147.27,
+        "end": 149.01,
+        "confidence": 0.2892
+      }
+    ]
+  },
+  {
+    "line_idx": 18,
+    "text": "ആകാശത്തിലും ഭൂമിയിലുമുള്ള",
+    "start": 172.79,
+    "end": 176.93,
+    "avg_confidence": 0.6104,
+    "flags": [],
+    "words": [
+      {
+        "word": "ആകാശത്തിലും",
+        "start": 172.79,
+        "end": 174.25,
+        "confidence": 0.623
+      },
+      {
+        "word": "ഭൂമിയിലുമുള്ള",
+        "start": 175.53,
+        "end": 176.93,
+        "confidence": 0.5979
+      }
+    ]
+  },
+  {
+    "line_idx": 19,
+    "text": "സകലത്തിനും മേലെയവൻ ഉയർന്നു!",
+    "start": 178.35,
+    "end": 182.39,
+    "avg_confidence": 0.5536,
+    "flags": [],
+    "words": [
+      {
+        "word": "സകലത്തിനും",
+        "start": 178.35,
+        "end": 179.65,
+        "confidence": 0.6829
+      },
+      {
+        "word": "മേലെയവൻ",
+        "start": 179.79,
+        "end": 181.33,
+        "confidence": 0.6354
+      },
+      {
+        "word": "ഉയർന്നു!",
+        "start": 181.63,
+        "end": 182.39,
+        "confidence": 0.3425
+      }
+    ]
+  },
+  {
+    "line_idx": 20,
+    "text": "താഴ്മയാൽ പരമപിതാവുയർത്തിയ",
+    "start": 183.99,
+    "end": 188.05,
+    "avg_confidence": 0.2853,
+    "flags": [
+      "LOW_CONFIDENCE (0.285)"
+    ],
+    "words": [
+      {
+        "word": "താഴ്മയാൽ",
+        "start": 183.99,
+        "end": 185.31,
+        "confidence": 0.2625
+      },
+      {
+        "word": "പരമപിതാവുയർത്തിയ",
+        "start": 185.43,
+        "end": 188.05,
+        "confidence": 0.3082
+      }
+    ]
+  },
+  {
+    "line_idx": 21,
+    "text": "രാജാധി രാജനായ് വാണിടുന്നു!",
+    "start": 189.69,
+    "end": 193.69,
+    "avg_confidence": 0.7806,
+    "flags": [],
+    "words": [
+      {
+        "word": "രാജാധി",
+        "start": 189.69,
+        "end": 190.85,
+        "confidence": 0.7758
+      },
+      {
+        "word": "രാജനായ്",
+        "start": 191.11,
+        "end": 192.25,
+        "confidence": 0.859
+      },
+      {
+        "word": "വാണിടുന്നു!",
+        "start": 192.51,
+        "end": 193.69,
+        "confidence": 0.707
+      }
+    ]
+  },
+  {
+    "line_idx": 22,
+    "text": "സ്വാർത്ഥതയില്ലാതെ താഴ്മ തൻ ഭാവത്തിൽ",
+    "start": 195.21,
+    "end": 200.34,
+    "avg_confidence": 0.4773,
+    "flags": [
+      "LOW_CONFIDENCE (0.477)"
+    ],
+    "words": [
+      {
+        "word": "സ്വാർത്ഥതയില്ലാതെ",
+        "start": 195.21,
+        "end": 196.85,
+        "confidence": 0.4619
+      },
+      {
+        "word": "താഴ്മ",
+        "start": 198.12,
+        "end": 198.58,
+        "confidence": 0.5293
+      },
+      {
+        "word": "തൻ",
+        "start": 198.66,
+        "end": 198.84,
+        "confidence": 0.4515
+      },
+      {
+        "word": "ഭാവത്തിൽ",
+        "start": 198.86,
+        "end": 200.34,
+        "confidence": 0.4665
+      }
+    ]
+  },
+  {
+    "line_idx": 23,
+    "text": "ക്രിസ്തുവിൻ മാതൃക നമ്മളിൽ കാത്തിടാം!",
+    "start": 200.94,
+    "end": 205.3,
+    "avg_confidence": 0.4597,
+    "flags": [
+      "LOW_CONFIDENCE (0.460)"
+    ],
+    "words": [
+      {
+        "word": "ക്രിസ്തുവിൻ",
+        "start": 200.94,
+        "end": 201.68,
+        "confidence": 0.6607
+      },
+      {
+        "word": "മാതൃക",
+        "start": 201.68,
+        "end": 202.3,
+        "confidence": 0.4246
+      },
+      {
+        "word": "നമ്മളിൽ",
+        "start": 202.4,
+        "end": 203.78,
+        "confidence": 0.5723
+      },
+      {
+        "word": "കാത്തിടാം!",
+        "start": 203.78,
+        "end": 205.3,
+        "confidence": 0.1814
+      }
+    ]
+  },
+  {
+    "line_idx": 24,
+    "text": "ഒരേ മനസ്സോടെ സ്നേഹത്തിൽ നിലനിന്ന്",
+    "start": 206.5,
+    "end": 210.52,
+    "avg_confidence": 0.6763,
+    "flags": [],
+    "words": [
+      {
+        "word": "ഒരേ",
+        "start": 206.5,
+        "end": 206.98,
+        "confidence": 0.5451
+      },
+      {
+        "word": "മനസ്സോടെ",
+        "start": 207.14,
+        "end": 208.18,
+        "confidence": 0.6251
+      },
+      {
+        "word": "സ്നേഹത്തിൽ",
+        "start": 208.64,
+        "end": 209.8,
+        "confidence": 0.7848
+      },
+      {
+        "word": "നിലനിന്ന്",
+        "start": 209.8,
+        "end": 210.52,
+        "confidence": 0.7503
+      }
+    ]
+  },
+  {
+    "line_idx": 25,
+    "text": "ദൈവിക നീതിയിൽ വാണിടാം നാം!",
+    "start": 212.24,
+    "end": 217.88,
+    "avg_confidence": 0.5466,
+    "flags": [],
+    "words": [
+      {
+        "word": "ദൈവിക",
+        "start": 212.24,
+        "end": 212.88,
+        "confidence": 0.6259
+      },
+      {
+        "word": "നീതിയിൽ",
+        "start": 212.98,
+        "end": 214.72,
+        "confidence": 0.6141
+      },
+      {
+        "word": "വാണിടാം",
+        "start": 215.06,
+        "end": 216.0,
+        "confidence": 0.6694
+      },
+      {
+        "word": "നാം!",
+        "start": 216.12,
+        "end": 217.88,
+        "confidence": 0.2769
+      }
+    ]
+  },
+  {
+    "line_idx": 26,
+    "text": "എല്ലാ നാമത്തിനും മേലായ നാമം!",
+    "start": 218.0,
+    "end": 221.98,
+    "avg_confidence": 0.3161,
+    "flags": [
+      "LOW_CONFIDENCE (0.316)"
+    ],
+    "words": [
+      {
+        "word": "എല്ലാ",
+        "start": 218.0,
+        "end": 218.48,
+        "confidence": 0.3165
+      },
+      {
+        "word": "നാമത്തിനും",
+        "start": 218.62,
+        "end": 219.52,
+        "confidence": 0.1618
+      },
+      {
+        "word": "മേലായ",
+        "start": 220.7,
+        "end": 221.36,
+        "confidence": 0.3986
+      },
+      {
+        "word": "നാമം!",
+        "start": 221.46,
+        "end": 221.98,
+        "confidence": 0.3877
+      }
+    ]
+  },
+  {
+    "line_idx": 27,
+    "text": "യേശുവിൻ നാമം അതിശ്രേഷ്ഠ നാമം!",
+    "start": 223.54,
+    "end": 227.66,
+    "avg_confidence": 0.5264,
+    "flags": [],
+    "words": [
+      {
+        "word": "യേശുവിൻ",
+        "start": 223.54,
+        "end": 224.28,
+        "confidence": 0.3397
+      },
+      {
+        "word": "നാമം",
+        "start": 224.28,
+        "end": 224.82,
+        "confidence": 0.5767
+      },
+      {
+        "word": "അതിശ്രേഷ്ഠ",
+        "start": 226.06,
+        "end": 227.02,
+        "confidence": 0.6038
+      },
+      {
+        "word": "നാമം!",
+        "start": 227.1,
+        "end": 227.66,
+        "confidence": 0.5855
+      }
+    ]
+  },
+  {
+    "line_idx": 28,
+    "text": "മുട്ടുകളൊക്കെയും തൻ മുൻപിൽ മടങ്ങും!",
+    "start": 229.18,
+    "end": 233.34,
+    "avg_confidence": 0.3404,
+    "flags": [
+      "LOW_CONFIDENCE (0.340)"
+    ],
+    "words": [
+      {
+        "word": "മുട്ടുകളൊക്കെയും",
+        "start": 229.18,
+        "end": 230.9,
+        "confidence": 0.5184
+      },
+      {
+        "word": "തൻ",
+        "start": 231.66,
+        "end": 231.94,
+        "confidence": 0.2605
+      },
+      {
+        "word": "മുൻപിൽ",
+        "start": 232.0,
+        "end": 232.52,
+        "confidence": 0.237
+      },
+      {
+        "word": "മടങ്ങും!",
+        "start": 232.56,
+        "end": 233.34,
+        "confidence": 0.3456
+      }
+    ]
+  },
+  {
+    "line_idx": 29,
+    "text": "നാവുകളൊക്കെയും വാഴ്ത്തിപ്പറയും!",
+    "start": 234.86,
+    "end": 239.4,
+    "avg_confidence": 0.628,
+    "flags": [],
+    "words": [
+      {
+        "word": "നാവുകളൊക്കെയും",
+        "start": 234.86,
+        "end": 236.38,
+        "confidence": 0.6018
+      },
+      {
+        "word": "വാഴ്ത്തിപ്പറയും!",
+        "start": 237.62,
+        "end": 239.4,
+        "confidence": 0.6542
+      }
+    ]
+  },
+  {
+    "line_idx": 30,
+    "text": "പിതാവാം ദൈവത്തിൻ മഹത്വത്തിനായ്",
+    "start": 240.32,
+    "end": 244.86,
+    "avg_confidence": 0.7348,
+    "flags": [],
+    "words": [
+      {
+        "word": "പിതാവാം",
+        "start": 240.32,
+        "end": 241.78,
+        "confidence": 0.697
+      },
+      {
+        "word": "ദൈവത്തിൻ",
+        "start": 241.92,
+        "end": 242.94,
+        "confidence": 0.6548
+      },
+      {
+        "word": "മഹത്വത്തിനായ്",
+        "start": 243.3,
+        "end": 244.86,
+        "confidence": 0.8525
+      }
+    ]
+  },
+  {
+    "line_idx": 31,
+    "text": "കർത്താവേ യേശുവേ വാഴ്ത്തീടുന്നു!",
+    "start": 246.14,
+    "end": 250.52,
+    "avg_confidence": 0.5849,
+    "flags": [],
+    "words": [
+      {
+        "word": "കർത്താവേ",
+        "start": 246.14,
+        "end": 247.2,
+        "confidence": 0.6447
+      },
+      {
+        "word": "യേശുവേ",
+        "start": 247.58,
+        "end": 248.48,
+        "confidence": 0.6965
+      },
+      {
+        "word": "വാഴ്ത്തീടുന്നു!",
+        "start": 248.96,
+        "end": 250.52,
+        "confidence": 0.4134
+      }
+    ]
+  }
+]

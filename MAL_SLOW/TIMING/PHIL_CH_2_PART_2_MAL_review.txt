@@ -1,0 +1,122 @@
+# REVIEW REPORT — align_song.py
+# Audio duration: 302.04s
+
+Line   2: ഭയത്തോടും വിറയലോടും ഭക്തിയോടെ എന്നും
+         start=37.58s  end=41.86s  conf=0.128
+         ⚠  LOW_CONFIDENCE (0.128)
+
+Line   3: രക്ഷിത ജീവിതം നാം പൂർത്തിയാക്കീടാം!
+         start=42.92s  end=48.20s  conf=0.476
+         ⚠  LOW_CONFIDENCE (0.476)
+
+Line   4: ഹിതവും ക്രിയയും നമ്മിൽ തികയ്ക്കുവാൻ
+         start=48.26s  end=52.42s  conf=0.490
+         ⚠  LOW_CONFIDENCE (0.490)
+
+Line   5: ദൈവം താനല്ലോ നമ്മിൽ വ്യാപരിക്കുന്നു!
+         start=52.78s  end=57.72s  conf=0.249
+         ⚠  LOW_CONFIDENCE (0.249)
+
+Line   6: പിറുപിറുപ്പില്ലാതെ തർക്കങ്ങളില്ലാതെ
+         start=58.92s  end=63.07s  conf=0.021
+         ⚠  LOW_CONFIDENCE (0.021)
+
+Line   7: ദൈവത്തിൻ മക്കളായി ശോഭിച്ചീടാം!
+         start=64.27s  end=68.87s  conf=0.038
+         ⚠  LOW_CONFIDENCE (0.038)
+
+Line   8: അന്ധകാരമുള്ള ലോകത്തിന്റെ നടുവിൽ
+         start=69.29s  end=74.09s  conf=0.057
+         ⚠  LOW_CONFIDENCE (0.057)
+
+Line   9: ജീവനാം വചനത്താൽ വെളിച്ചമാകാം!
+         start=74.09s  end=80.29s  conf=0.141
+         ⚠  LOW_CONFIDENCE (0.141)
+
+Line  10: പിറുപിറുപ്പില്ലാതെ തർക്കങ്ങളില്ലാതെ
+         start=80.29s  end=84.41s  conf=0.032
+         ⚠  LOW_CONFIDENCE (0.032)
+
+Line  11: ദൈവത്തിൻ മക്കളായി ശോഭിച്ചീടാം!
+         start=85.63s  end=90.21s  conf=0.049
+         ⚠  LOW_CONFIDENCE (0.049)
+
+Line  12: അന്ധകാരമുള്ള ലോകത്തിന്റെ നടുവിൽ
+         start=90.63s  end=95.01s  conf=0.128
+         ⚠  LOW_CONFIDENCE (0.128)
+
+Line  13: ജീവനാം വചനത്താൽ വെളിച്ചമാകാം!
+         start=95.43s  end=101.21s  conf=0.168
+         ⚠  LOW_CONFIDENCE (0.168)
+
+Line  15: സന്തോഷത്തോടെ ഞാൻ ആനന്ദിക്കും!
+         start=128.59s  end=132.57s  conf=0.478
+         ⚠  LOW_CONFIDENCE (0.478)
+
+Line  16: ക്രിസ്തുതൻ സ്നേഹത്തിൽ ഒന്നായി ചേർന്ന്
+         start=133.89s  end=138.91s  conf=0.401
+         ⚠  LOW_CONFIDENCE (0.401)
+
+Line  18: പിറുപിറുപ്പില്ലാതെ തർക്കങ്ങളില്ലാതെ
+         start=149.59s  end=153.75s  conf=0.061
+         ⚠  LOW_CONFIDENCE (0.061)
+
+Line  19: ദൈവത്തിൻ മക്കളായി ശോഭിച്ചീടാം!
+         start=154.93s  end=159.51s  conf=0.039
+         ⚠  LOW_CONFIDENCE (0.039)
+
+Line  20: അന്ധകാരമുള്ള ലോകത്തിന്റെ നടുവിൽ
+         start=159.97s  end=164.75s  conf=0.061
+         ⚠  LOW_CONFIDENCE (0.061)
+
+Line  21: ജീവനാം വചനത്താൽ വെളിച്ചമാകാം!
+         start=164.77s  end=169.33s  conf=0.126
+         ⚠  LOW_CONFIDENCE (0.126)
+
+Line  22: പിറുപിറുപ്പില്ലാതെ തർക്കങ്ങളില്ലാതെ
+         start=170.89s  end=175.07s  conf=0.079
+         ⚠  LOW_CONFIDENCE (0.079)
+
+Line  23: ദൈവത്തിൻ മക്കളായി ശോഭിച്ചീടാം!
+         start=175.29s  end=180.87s  conf=0.041
+         ⚠  LOW_CONFIDENCE (0.041)
+
+Line  24: അന്ധകാരമുള്ള ലോകത്തിന്റെ നടുവിൽ
+         start=181.29s  end=185.69s  conf=0.161
+         ⚠  LOW_CONFIDENCE (0.161)
+
+Line  25: ജീവനാം വചനത്താൽ വെളിച്ചമാകാം!
+         start=186.11s  end=191.70s  conf=0.337
+         ⚠  LOW_CONFIDENCE (0.337)
+
+Line  26: സത്യമനസ്സോടെ സുവിശേഷ വേലയിൽ
+         start=202.92s  end=207.70s  conf=0.151
+         ⚠  LOW_CONFIDENCE (0.151)
+
+Line  27: വിശ്വസ്തരായി നാം കൂടെ നിൽക്കാം!
+         start=208.28s  end=212.86s  conf=0.442
+         ⚠  LOW_CONFIDENCE (0.442)
+
+Line  28: ക്രിസ്തുവിൻ വേലയ്ക്കായ് ജീവനും നൽകിടാം
+         start=213.58s  end=218.06s  conf=0.404
+         ⚠  LOW_CONFIDENCE (0.404)
+
+Line  34: പിറുപിറുപ്പില്ലാതെ തർക്കങ്ങളില്ലാതെ
+         start=234.96s  end=239.08s  conf=0.113
+         ⚠  LOW_CONFIDENCE (0.113)
+
+Line  36: അന്ധകാരമുള്ള ലോകത്തിന്റെ നടുവിൽ
+         start=245.30s  end=250.06s  conf=0.495
+         ⚠  LOW_CONFIDENCE (0.495)
+
+Line  38: പിറുപിറുപ്പില്ലാതെ തർക്കങ്ങളില്ലാതെ
+         start=256.28s  end=261.66s  conf=0.348
+         ⚠  LOW_CONFIDENCE (0.348)
+
+Line  40: അന്ധകാരമുള്ള ലോകത്തിന്റെ നടുവിൽ
+         start=266.64s  end=270.90s  conf=0.446
+         ⚠  LOW_CONFIDENCE (0.446)
+
+Line  42: സന്തോഷത്തോടെ എന്നും ആനന്ദിക്കാം
+         start=277.60s  end=282.56s  conf=0.492
+         ⚠  LOW_CONFIDENCE (0.492)

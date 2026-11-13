@@ -1,0 +1,30 @@
+﻿# ─────────────────────────────────────────────────────────────────
+# Malayalam Scripture Songs — Requirements (CPU-Only, Windows)
+# Python recommended: 3.12 (has pre-built wheels for Demucs/sphn)
+# ─────────────────────────────────────────────────────────────────
+#
+# STEP 1: Install PyTorch CPU first via its dedicated index:
+#   pip install torch>=2.1.0 torchaudio>=2.1.0 --index-url https://download.pytorch.org/whl/cpu
+#
+# STEP 2: Install remaining dependencies:
+#   pip install -r requirements.txt
+# ─────────────────────────────────────────────────────────────────
+
+# ── PyTorch & Audio (installed via CPU wheel index above) ─────────
+torch>=2.1.0
+torchaudio>=2.1.0
+
+# ── AI Vocal Separation (Meta Demucs) ───────────────────────────
+demucs>=4.1.0
+
+# ── Audio File I/O ──────────────────────────────────────────────
+soundfile>=0.14.0
+
+# ── Malayalam Unicode Romanization (Meta MMS Forced Aligner) ────
+uroman>=1.3.1
+
+# ── Numerical Computations ──────────────────────────────────────
+numpy>=1.26.0
+
+# ── YAML Configuration (VIDX Config Files) ──────────────────────
+PyYAML>=6.0

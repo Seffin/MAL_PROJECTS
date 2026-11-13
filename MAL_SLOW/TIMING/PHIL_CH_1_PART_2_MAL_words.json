@@ -1,0 +1,1356 @@
+[
+  {
+    "line_idx": 2,
+    "text": "ക്രിസ്തുവേ എന്റെ ജീവന്റെ നാഥൻ,",
+    "start": 16.32,
+    "end": 25.88,
+    "avg_confidence": 0.3619,
+    "flags": [
+      "LOW_CONFIDENCE (0.362)"
+    ],
+    "words": [
+      {
+        "word": "ക്രിസ്തുവേ",
+        "start": 16.32,
+        "end": 17.38,
+        "confidence": 0.4373
+      },
+      {
+        "word": "എന്റെ",
+        "start": 20.74,
+        "end": 21.18,
+        "confidence": 0.1785
+      },
+      {
+        "word": "ജീവന്റെ",
+        "start": 21.32,
+        "end": 22.36,
+        "confidence": 0.5322
+      },
+      {
+        "word": "നാഥൻ,",
+        "start": 22.56,
+        "end": 25.88,
+        "confidence": 0.2996
+      }
+    ]
+  },
+  {
+    "line_idx": 3,
+    "text": "ക്രിസ്തുവേ എന്റെ പ്രത്യാശ പ്രഭയും!",
+    "start": 25.88,
+    "end": 32.82,
+    "avg_confidence": 0.2733,
+    "flags": [
+      "LOW_CONFIDENCE (0.273)"
+    ],
+    "words": [
+      {
+        "word": "ക്രിസ്തുവേ",
+        "start": 25.88,
+        "end": 26.92,
+        "confidence": 0.5022
+      },
+      {
+        "word": "എന്റെ",
+        "start": 28.6,
+        "end": 29.12,
+        "confidence": 0.0467
+      },
+      {
+        "word": "പ്രത്യാശ",
+        "start": 30.1,
+        "end": 31.38,
+        "confidence": 0.4677
+      },
+      {
+        "word": "പ്രഭയും!",
+        "start": 31.8,
+        "end": 32.82,
+        "confidence": 0.0765
+      }
+    ]
+  },
+  {
+    "line_idx": 4,
+    "text": "എനിക്ക് ജീവിക്കുന്നത് ക്രിസ്തുവത്രേ,",
+    "start": 36.12,
+    "end": 39.66,
+    "avg_confidence": 0.5085,
+    "flags": [],
+    "words": [
+      {
+        "word": "എനിക്ക്",
+        "start": 36.12,
+        "end": 36.68,
+        "confidence": 0.4649
+      },
+      {
+        "word": "ജീവിക്കുന്നത്",
+        "start": 36.98,
+        "end": 38.18,
+        "confidence": 0.6261
+      },
+      {
+        "word": "ക്രിസ്തുവത്രേ,",
+        "start": 38.3,
+        "end": 39.66,
+        "confidence": 0.4344
+      }
+    ]
+  },
+  {
+    "line_idx": 5,
+    "text": "മരിക്കുന്നതോ എനിക്ക് ലാഭമത്രേ!",
+    "start": 41.22,
+    "end": 44.88,
+    "avg_confidence": 0.5356,
+    "flags": [],
+    "words": [
+      {
+        "word": "മരിക്കുന്നതോ",
+        "start": 41.22,
+        "end": 42.52,
+        "confidence": 0.6753
+      },
+      {
+        "word": "എനിക്ക്",
+        "start": 42.76,
+        "end": 43.18,
+        "confidence": 0.4516
+      },
+      {
+        "word": "ലാഭമത്രേ!",
+        "start": 43.5,
+        "end": 44.88,
+        "confidence": 0.4799
+      }
+    ]
+  },
+  {
+    "line_idx": 6,
+    "text": "ലോകമത്രയും മാഞ്ഞുപോയാലും,",
+    "start": 46.44,
+    "end": 50.28,
+    "avg_confidence": 0.6194,
+    "flags": [],
+    "words": [
+      {
+        "word": "ലോകമത്രയും",
+        "start": 46.44,
+        "end": 47.74,
+        "confidence": 0.6219
+      },
+      {
+        "word": "മാഞ്ഞുപോയാലും,",
+        "start": 48.88,
+        "end": 50.28,
+        "confidence": 0.6168
+      }
+    ]
+  },
+  {
+    "line_idx": 7,
+    "text": "ക്രിസ്തുവിൻ സ്നേഹത്തിൽ ജീവിക്കും ഞാൻ!",
+    "start": 51.6,
+    "end": 56.8,
+    "avg_confidence": 0.4883,
+    "flags": [
+      "LOW_CONFIDENCE (0.488)"
+    ],
+    "words": [
+      {
+        "word": "ക്രിസ്തുവിൻ",
+        "start": 51.6,
+        "end": 52.4,
+        "confidence": 0.5662
+      },
+      {
+        "word": "സ്നേഹത്തിൽ",
+        "start": 52.48,
+        "end": 53.8,
+        "confidence": 0.4364
+      },
+      {
+        "word": "ജീവിക്കും",
+        "start": 53.86,
+        "end": 55.08,
+        "confidence": 0.6285
+      },
+      {
+        "word": "ഞാൻ!",
+        "start": 55.16,
+        "end": 56.8,
+        "confidence": 0.3221
+      }
+    ]
+  },
+  {
+    "line_idx": 8,
+    "text": "ലോകമത്രയും മാഞ്ഞുപോയാലും,",
+    "start": 56.82,
+    "end": 60.68,
+    "avg_confidence": 0.2611,
+    "flags": [
+      "LOW_CONFIDENCE (0.261)"
+    ],
+    "words": [
+      {
+        "word": "ലോകമത്രയും",
+        "start": 56.82,
+        "end": 58.12,
+        "confidence": 0.254
+      },
+      {
+        "word": "മാഞ്ഞുപോയാലും,",
+        "start": 59.24,
+        "end": 60.68,
+        "confidence": 0.2682
+      }
+    ]
+  },
+  {
+    "line_idx": 9,
+    "text": "ക്രിസ്തുവിൻ സ്നേഹത്തിൽ ജീവിക്കും ഞാൻ!",
+    "start": 61.98,
+    "end": 74.79,
+    "avg_confidence": 0.1744,
+    "flags": [
+      "LOW_CONFIDENCE (0.174)"
+    ],
+    "words": [
+      {
+        "word": "ക്രിസ്തുവിൻ",
+        "start": 61.98,
+        "end": 62.78,
+        "confidence": 0.3411
+      },
+      {
+        "word": "സ്നേഹത്തിൽ",
+        "start": 62.86,
+        "end": 64.2,
+        "confidence": 0.2421
+      },
+      {
+        "word": "ജീവിക്കും",
+        "start": 64.26,
+        "end": 65.44,
+        "confidence": 0.0911
+      },
+      {
+        "word": "ഞാൻ!",
+        "start": 65.56,
+        "end": 74.79,
+        "confidence": 0.0233
+      }
+    ]
+  },
+  {
+    "line_idx": 10,
+    "text": "മേൽവന്ന കഷ്ടങ്ങൾ ബന്ധനമെല്ലാം,",
+    "start": 87.63,
+    "end": 92.11,
+    "avg_confidence": 0.5041,
+    "flags": [],
+    "words": [
+      {
+        "word": "മേൽവന്ന",
+        "start": 87.63,
+        "end": 88.71,
+        "confidence": 0.4465
+      },
+      {
+        "word": "കഷ്ടങ്ങൾ",
+        "start": 88.93,
+        "end": 90.19,
+        "confidence": 0.4633
+      },
+      {
+        "word": "ബന്ധനമെല്ലാം,",
+        "start": 90.25,
+        "end": 92.11,
+        "confidence": 0.6024
+      }
+    ]
+  },
+  {
+    "line_idx": 11,
+    "text": "സുവിശേഷ വീര്യമായ് മാറിയല്ലോ!",
+    "start": 92.79,
+    "end": 97.13,
+    "avg_confidence": 0.6284,
+    "flags": [],
+    "words": [
+      {
+        "word": "സുവിശേഷ",
+        "start": 92.79,
+        "end": 93.93,
+        "confidence": 0.8532
+      },
+      {
+        "word": "വീര്യമായ്",
+        "start": 94.11,
+        "end": 95.27,
+        "confidence": 0.6107
+      },
+      {
+        "word": "മാറിയല്ലോ!",
+        "start": 95.43,
+        "end": 97.13,
+        "confidence": 0.4214
+      }
+    ]
+  },
+  {
+    "line_idx": 12,
+    "text": "കർത്താവിൽ എന്റെയീ സങ്കടങ്ങളെല്ലാം,",
+    "start": 97.99,
+    "end": 102.63,
+    "avg_confidence": 0.3592,
+    "flags": [
+      "LOW_CONFIDENCE (0.359)"
+    ],
+    "words": [
+      {
+        "word": "കർത്താവിൽ",
+        "start": 97.99,
+        "end": 99.37,
+        "confidence": 0.397
+      },
+      {
+        "word": "എന്റെയീ",
+        "start": 99.43,
+        "end": 100.57,
+        "confidence": 0.254
+      },
+      {
+        "word": "സങ്കടങ്ങളെല്ലാം,",
+        "start": 100.59,
+        "end": 102.63,
+        "confidence": 0.4266
+      }
+    ]
+  },
+  {
+    "line_idx": 13,
+    "text": "ധൈര്യമായ് സാക്ഷ്യം പറഞ്ഞുവല്ലോ!",
+    "start": 103.15,
+    "end": 107.15,
+    "avg_confidence": 0.4327,
+    "flags": [
+      "LOW_CONFIDENCE (0.433)"
+    ],
+    "words": [
+      {
+        "word": "ധൈര്യമായ്",
+        "start": 103.15,
+        "end": 104.25,
+        "confidence": 0.641
+      },
+      {
+        "word": "സാക്ഷ്യം",
+        "start": 104.45,
+        "end": 105.27,
+        "confidence": 0.5485
+      },
+      {
+        "word": "പറഞ്ഞുവല്ലോ!",
+        "start": 105.61,
+        "end": 107.15,
+        "confidence": 0.1086
+      }
+    ]
+  },
+  {
+    "line_idx": 14,
+    "text": "ഏതു നിമിഷവും അവനെ ഉയർത്താൻ,",
+    "start": 108.53,
+    "end": 113.67,
+    "avg_confidence": 0.0278,
+    "flags": [
+      "LOW_CONFIDENCE (0.028)"
+    ],
+    "words": [
+      {
+        "word": "ഏതു",
+        "start": 108.53,
+        "end": 108.95,
+        "confidence": 0.0166
+      },
+      {
+        "word": "നിമിഷവും",
+        "start": 109.05,
+        "end": 111.01,
+        "confidence": 0.0129
+      },
+      {
+        "word": "അവനെ",
+        "start": 111.07,
+        "end": 111.51,
+        "confidence": 0.0471
+      },
+      {
+        "word": "ഉയർത്താൻ,",
+        "start": 111.75,
+        "end": 113.67,
+        "confidence": 0.0345
+      }
+    ]
+  },
+  {
+    "line_idx": 15,
+    "text": "എന്റെയുള്ളം എന്നും ദാഹിച്ചീടുന്നു!",
+    "start": 113.67,
+    "end": 117.59,
+    "avg_confidence": 0.0313,
+    "flags": [
+      "LOW_CONFIDENCE (0.031)"
+    ],
+    "words": [
+      {
+        "word": "എന്റെയുള്ളം",
+        "start": 113.67,
+        "end": 114.79,
+        "confidence": 0.0258
+      },
+      {
+        "word": "എന്നും",
+        "start": 114.97,
+        "end": 115.81,
+        "confidence": 0.0239
+      },
+      {
+        "word": "ദാഹിച്ചീടുന്നു!",
+        "start": 116.15,
+        "end": 117.59,
+        "confidence": 0.0443
+      }
+    ]
+  },
+  {
+    "line_idx": 16,
+    "text": "എനിക്ക് ജീവിക്കുന്നത് ക്രിസ്തുവത്രേ,",
+    "start": 119.15,
+    "end": 122.63,
+    "avg_confidence": 0.0486,
+    "flags": [
+      "LOW_CONFIDENCE (0.049)"
+    ],
+    "words": [
+      {
+        "word": "എനിക്ക്",
+        "start": 119.15,
+        "end": 119.73,
+        "confidence": 0.0472
+      },
+      {
+        "word": "ജീവിക്കുന്നത്",
+        "start": 120.03,
+        "end": 121.21,
+        "confidence": 0.0368
+      },
+      {
+        "word": "ക്രിസ്തുവത്രേ,",
+        "start": 121.35,
+        "end": 122.63,
+        "confidence": 0.0619
+      }
+    ]
+  },
+  {
+    "line_idx": 17,
+    "text": "മരിക്കുന്നതോ എനിക്ക് ലാഭമത്രേ!",
+    "start": 124.27,
+    "end": 127.89,
+    "avg_confidence": 0.049,
+    "flags": [
+      "LOW_CONFIDENCE (0.049)"
+    ],
+    "words": [
+      {
+        "word": "മരിക്കുന്നതോ",
+        "start": 124.27,
+        "end": 125.57,
+        "confidence": 0.0438
+      },
+      {
+        "word": "എനിക്ക്",
+        "start": 125.77,
+        "end": 126.23,
+        "confidence": 0.0329
+      },
+      {
+        "word": "ലാഭമത്രേ!",
+        "start": 126.55,
+        "end": 127.89,
+        "confidence": 0.0703
+      }
+    ]
+  },
+  {
+    "line_idx": 18,
+    "text": "ലോകമത്രയും മാഞ്ഞുപോയാലും,",
+    "start": 129.47,
+    "end": 133.33,
+    "avg_confidence": 0.655,
+    "flags": [],
+    "words": [
+      {
+        "word": "ലോകമത്രയും",
+        "start": 129.47,
+        "end": 130.77,
+        "confidence": 0.6786
+      },
+      {
+        "word": "മാഞ്ഞുപോയാലും,",
+        "start": 131.93,
+        "end": 133.33,
+        "confidence": 0.6314
+      }
+    ]
+  },
+  {
+    "line_idx": 19,
+    "text": "ക്രിസ്തുവിൻ സ്നേഹത്തിൽ ജീവിക്കും ഞാൻ!",
+    "start": 134.65,
+    "end": 139.85,
+    "avg_confidence": 0.4438,
+    "flags": [
+      "LOW_CONFIDENCE (0.444)"
+    ],
+    "words": [
+      {
+        "word": "ക്രിസ്തുവിൻ",
+        "start": 134.65,
+        "end": 135.43,
+        "confidence": 0.4626
+      },
+      {
+        "word": "സ്നേഹത്തിൽ",
+        "start": 135.53,
+        "end": 136.85,
+        "confidence": 0.3947
+      },
+      {
+        "word": "ജീവിക്കും",
+        "start": 136.91,
+        "end": 138.15,
+        "confidence": 0.5999
+      },
+      {
+        "word": "ഞാൻ!",
+        "start": 138.25,
+        "end": 139.85,
+        "confidence": 0.3182
+      }
+    ]
+  },
+  {
+    "line_idx": 20,
+    "text": "ലോകമത്രയും മാഞ്ഞുപോയാലും,",
+    "start": 139.87,
+    "end": 143.71,
+    "avg_confidence": 0.0638,
+    "flags": [
+      "LOW_CONFIDENCE (0.064)"
+    ],
+    "words": [
+      {
+        "word": "ലോകമത്രയും",
+        "start": 139.87,
+        "end": 141.15,
+        "confidence": 0.1032
+      },
+      {
+        "word": "മാഞ്ഞുപോയാലും,",
+        "start": 142.29,
+        "end": 143.71,
+        "confidence": 0.0243
+      }
+    ]
+  },
+  {
+    "line_idx": 21,
+    "text": "ക്രിസ്തുവിൻ സ്നേഹത്തിൽ ജീവിക്കും ഞാൻ!",
+    "start": 145.01,
+    "end": 161.69,
+    "avg_confidence": 0.036,
+    "flags": [
+      "LOW_CONFIDENCE (0.036)"
+    ],
+    "words": [
+      {
+        "word": "ക്രിസ്തുവിൻ",
+        "start": 145.01,
+        "end": 145.81,
+        "confidence": 0.0271
+      },
+      {
+        "word": "സ്നേഹത്തിൽ",
+        "start": 145.89,
+        "end": 147.23,
+        "confidence": 0.0308
+      },
+      {
+        "word": "ജീവിക്കും",
+        "start": 147.31,
+        "end": 148.51,
+        "confidence": 0.0567
+      },
+      {
+        "word": "ഞാൻ!",
+        "start": 148.57,
+        "end": 161.69,
+        "confidence": 0.0294
+      }
+    ]
+  },
+  {
+    "line_idx": 22,
+    "text": "ഭൂമിയിൽ ജീവനം വേലയ്ക്കായി,",
+    "start": 170.67,
+    "end": 174.75,
+    "avg_confidence": 0.5469,
+    "flags": [],
+    "words": [
+      {
+        "word": "ഭൂമിയിൽ",
+        "start": 170.67,
+        "end": 171.75,
+        "confidence": 0.384
+      },
+      {
+        "word": "ജീവനം",
+        "start": 171.95,
+        "end": 172.89,
+        "confidence": 0.7275
+      },
+      {
+        "word": "വേലയ്ക്കായി,",
+        "start": 173.27,
+        "end": 174.75,
+        "confidence": 0.5291
+      }
+    ]
+  },
+  {
+    "line_idx": 23,
+    "text": "കർത്തനോടൊപ്പം ഇരിപ്പ് ശ്രേഷ്ഠം!",
+    "start": 175.83,
+    "end": 180.03,
+    "avg_confidence": 0.4594,
+    "flags": [
+      "LOW_CONFIDENCE (0.459)"
+    ],
+    "words": [
+      {
+        "word": "കർത്തനോടൊപ്പം",
+        "start": 175.83,
+        "end": 177.41,
+        "confidence": 0.5017
+      },
+      {
+        "word": "ഇരിപ്പ്",
+        "start": 178.19,
+        "end": 178.79,
+        "confidence": 0.4183
+      },
+      {
+        "word": "ശ്രേഷ്ഠം!",
+        "start": 179.05,
+        "end": 180.03,
+        "confidence": 0.4583
+      }
+    ]
+  },
+  {
+    "line_idx": 24,
+    "text": "വാത്സല്യം നിറഞ്ഞ എൻ സഭയ്ക്കായി,",
+    "start": 181.05,
+    "end": 185.15,
+    "avg_confidence": 0.5075,
+    "flags": [],
+    "words": [
+      {
+        "word": "വാത്സല്യം",
+        "start": 181.05,
+        "end": 182.23,
+        "confidence": 0.6491
+      },
+      {
+        "word": "നിറഞ്ഞ",
+        "start": 182.35,
+        "end": 183.17,
+        "confidence": 0.4862
+      },
+      {
+        "word": "എൻ",
+        "start": 183.75,
+        "end": 183.91,
+        "confidence": 0.29
+      },
+      {
+        "word": "സഭയ്ക്കായി,",
+        "start": 184.07,
+        "end": 185.15,
+        "confidence": 0.6047
+      }
+    ]
+  },
+  {
+    "line_idx": 25,
+    "text": "വിശ്വാസ പാതയിൽ ഞാൻ മുന്നേറാം!",
+    "start": 186.21,
+    "end": 190.63,
+    "avg_confidence": 0.5071,
+    "flags": [],
+    "words": [
+      {
+        "word": "വിശ്വാസ",
+        "start": 186.21,
+        "end": 187.31,
+        "confidence": 0.7834
+      },
+      {
+        "word": "പാതയിൽ",
+        "start": 187.49,
+        "end": 188.49,
+        "confidence": 0.5392
+      },
+      {
+        "word": "ഞാൻ",
+        "start": 188.49,
+        "end": 188.85,
+        "confidence": 0.4889
+      },
+      {
+        "word": "മുന്നേറാം!",
+        "start": 188.85,
+        "end": 190.63,
+        "confidence": 0.2168
+      }
+    ]
+  },
+  {
+    "line_idx": 26,
+    "text": "സ്വർഗ്ഗീയ ലക്ഷ്യം മനസ്സിൽ വച്ച്,",
+    "start": 191.37,
+    "end": 195.27,
+    "avg_confidence": 0.0752,
+    "flags": [
+      "LOW_CONFIDENCE (0.075)"
+    ],
+    "words": [
+      {
+        "word": "സ്വർഗ്ഗീയ",
+        "start": 191.37,
+        "end": 192.51,
+        "confidence": 0.1914
+      },
+      {
+        "word": "ലക്ഷ്യം",
+        "start": 192.71,
+        "end": 193.45,
+        "confidence": 0.051
+      },
+      {
+        "word": "മനസ്സിൽ",
+        "start": 193.81,
+        "end": 194.83,
+        "confidence": 0.0381
+      },
+      {
+        "word": "വച്ച്,",
+        "start": 194.95,
+        "end": 195.27,
+        "confidence": 0.0203
+      }
+    ]
+  },
+  {
+    "line_idx": 27,
+    "text": "ദൈവത്തിൻ വിളിക്കായി കാത്തിടാം!",
+    "start": 196.61,
+    "end": 201.33,
+    "avg_confidence": 0.0722,
+    "flags": [
+      "LOW_CONFIDENCE (0.072)"
+    ],
+    "words": [
+      {
+        "word": "ദൈവത്തിൻ",
+        "start": 196.61,
+        "end": 197.87,
+        "confidence": 0.0619
+      },
+      {
+        "word": "വിളിക്കായി",
+        "start": 197.87,
+        "end": 198.97,
+        "confidence": 0.1086
+      },
+      {
+        "word": "കാത്തിടാം!",
+        "start": 199.17,
+        "end": 201.33,
+        "confidence": 0.0461
+      }
+    ]
+  },
+  {
+    "line_idx": 28,
+    "text": "എനിക്ക് ജീവിക്കുന്നത് ക്രിസ്തുവത്രേ,",
+    "start": 202.2,
+    "end": 205.54,
+    "avg_confidence": 0.0393,
+    "flags": [
+      "LOW_CONFIDENCE (0.039)"
+    ],
+    "words": [
+      {
+        "word": "എനിക്ക്",
+        "start": 202.2,
+        "end": 202.76,
+        "confidence": 0.0539
+      },
+      {
+        "word": "ജീവിക്കുന്നത്",
+        "start": 203.06,
+        "end": 204.24,
+        "confidence": 0.0338
+      },
+      {
+        "word": "ക്രിസ്തുവത്രേ,",
+        "start": 204.38,
+        "end": 205.54,
+        "confidence": 0.0303
+      }
+    ]
+  },
+  {
+    "line_idx": 29,
+    "text": "മരിക്കുന്നതോ എനിക്ക് ലാഭമത്രേ!",
+    "start": 207.32,
+    "end": 210.86,
+    "avg_confidence": 0.04,
+    "flags": [
+      "LOW_CONFIDENCE (0.040)"
+    ],
+    "words": [
+      {
+        "word": "മരിക്കുന്നതോ",
+        "start": 207.32,
+        "end": 208.6,
+        "confidence": 0.0519
+      },
+      {
+        "word": "എനിക്ക്",
+        "start": 208.8,
+        "end": 209.26,
+        "confidence": 0.0336
+      },
+      {
+        "word": "ലാഭമത്രേ!",
+        "start": 209.6,
+        "end": 210.86,
+        "confidence": 0.0346
+      }
+    ]
+  },
+  {
+    "line_idx": 30,
+    "text": "ലോകമത്രയും മാഞ്ഞുപോയാലും,",
+    "start": 212.52,
+    "end": 216.36,
+    "avg_confidence": 0.5732,
+    "flags": [],
+    "words": [
+      {
+        "word": "ലോകമത്രയും",
+        "start": 212.52,
+        "end": 213.82,
+        "confidence": 0.5956
+      },
+      {
+        "word": "മാഞ്ഞുപോയാലും,",
+        "start": 214.98,
+        "end": 216.36,
+        "confidence": 0.5508
+      }
+    ]
+  },
+  {
+    "line_idx": 31,
+    "text": "ക്രിസ്തുവിൻ സ്നേഹത്തിൽ ജീവിക്കും ഞാൻ!",
+    "start": 217.68,
+    "end": 221.82,
+    "avg_confidence": 0.3453,
+    "flags": [
+      "LOW_CONFIDENCE (0.345)"
+    ],
+    "words": [
+      {
+        "word": "ക്രിസ്തുവിൻ",
+        "start": 217.68,
+        "end": 218.46,
+        "confidence": 0.5551
+      },
+      {
+        "word": "സ്നേഹത്തിൽ",
+        "start": 218.56,
+        "end": 219.88,
+        "confidence": 0.2953
+      },
+      {
+        "word": "ജീവിക്കും",
+        "start": 219.94,
+        "end": 221.18,
+        "confidence": 0.3496
+      },
+      {
+        "word": "ഞാൻ!",
+        "start": 221.26,
+        "end": 221.82,
+        "confidence": 0.1812
+      }
+    ]
+  },
+  {
+    "line_idx": 32,
+    "text": "ലോകമത്രയും മാഞ്ഞുപോയാലും,",
+    "start": 222.88,
+    "end": 226.86,
+    "avg_confidence": 0.0447,
+    "flags": [
+      "LOW_CONFIDENCE (0.045)"
+    ],
+    "words": [
+      {
+        "word": "ലോകമത്രയും",
+        "start": 222.88,
+        "end": 224.16,
+        "confidence": 0.0692
+      },
+      {
+        "word": "മാഞ്ഞുപോയാലും,",
+        "start": 225.36,
+        "end": 226.86,
+        "confidence": 0.0203
+      }
+    ]
+  },
+  {
+    "line_idx": 33,
+    "text": "ക്രിസ്തുവിൻ സ്നേഹത്തിൽ ജീവിക്കും ഞാൻ!",
+    "start": 228.06,
+    "end": 232.58,
+    "avg_confidence": 0.0373,
+    "flags": [
+      "LOW_CONFIDENCE (0.037)"
+    ],
+    "words": [
+      {
+        "word": "ക്രിസ്തുവിൻ",
+        "start": 228.06,
+        "end": 228.88,
+        "confidence": 0.0231
+      },
+      {
+        "word": "സ്നേഹത്തിൽ",
+        "start": 228.92,
+        "end": 230.26,
+        "confidence": 0.0314
+      },
+      {
+        "word": "ജീവിക്കും",
+        "start": 230.32,
+        "end": 231.52,
+        "confidence": 0.0607
+      },
+      {
+        "word": "ഞാൻ!",
+        "start": 231.6,
+        "end": 232.58,
+        "confidence": 0.0339
+      }
+    ]
+  },
+  {
+    "line_idx": 34,
+    "text": "വിശ്വസിക്കാൻ മാത്രമല്ല കർത്താവിൽ,",
+    "start": 253.68,
+    "end": 258.38,
+    "avg_confidence": 0.2919,
+    "flags": [
+      "LOW_CONFIDENCE (0.292)"
+    ],
+    "words": [
+      {
+        "word": "വിശ്വസിക്കാൻ",
+        "start": 253.68,
+        "end": 255.0,
+        "confidence": 0.2989
+      },
+      {
+        "word": "മാത്രമല്ല",
+        "start": 255.0,
+        "end": 256.1,
+        "confidence": 0.4369
+      },
+      {
+        "word": "കർത്താവിൽ,",
+        "start": 256.32,
+        "end": 258.38,
+        "confidence": 0.14
+      }
+    ]
+  },
+  {
+    "line_idx": 35,
+    "text": "സഹിക്കാനും കൂടെ കൃപ തന്നുവല്ലോ!",
+    "start": 258.7,
+    "end": 263.18,
+    "avg_confidence": 0.2152,
+    "flags": [
+      "LOW_CONFIDENCE (0.215)"
+    ],
+    "words": [
+      {
+        "word": "സഹിക്കാനും",
+        "start": 258.7,
+        "end": 260.04,
+        "confidence": 0.176
+      },
+      {
+        "word": "കൂടെ",
+        "start": 260.18,
+        "end": 260.76,
+        "confidence": 0.1778
+      },
+      {
+        "word": "കൃപ",
+        "start": 260.86,
+        "end": 261.26,
+        "confidence": 0.2374
+      },
+      {
+        "word": "തന്നുവല്ലോ!",
+        "start": 261.46,
+        "end": 263.18,
+        "confidence": 0.2695
+      }
+    ]
+  },
+  {
+    "line_idx": 36,
+    "text": "ഏക മനസ്സോടെ പോരാടി നാം,",
+    "start": 264.2,
+    "end": 268.58,
+    "avg_confidence": 0.3808,
+    "flags": [
+      "LOW_CONFIDENCE (0.381)"
+    ],
+    "words": [
+      {
+        "word": "ഏക",
+        "start": 264.2,
+        "end": 264.68,
+        "confidence": 0.2673
+      },
+      {
+        "word": "മനസ്സോടെ",
+        "start": 265.06,
+        "end": 266.48,
+        "confidence": 0.3976
+      },
+      {
+        "word": "പോരാടി",
+        "start": 266.66,
+        "end": 267.78,
+        "confidence": 0.5173
+      },
+      {
+        "word": "നാം,",
+        "start": 267.98,
+        "end": 268.58,
+        "confidence": 0.3409
+      }
+    ]
+  },
+  {
+    "line_idx": 37,
+    "text": "വിശ്വാസ പാതയിൽ മുന്നേറിടാം!",
+    "start": 269.26,
+    "end": 273.68,
+    "avg_confidence": 0.4728,
+    "flags": [
+      "LOW_CONFIDENCE (0.473)"
+    ],
+    "words": [
+      {
+        "word": "വിശ്വാസ",
+        "start": 269.26,
+        "end": 270.34,
+        "confidence": 0.8062
+      },
+      {
+        "word": "പാതയിൽ",
+        "start": 270.54,
+        "end": 271.64,
+        "confidence": 0.3911
+      },
+      {
+        "word": "മുന്നേറിടാം!",
+        "start": 271.88,
+        "end": 273.68,
+        "confidence": 0.2211
+      }
+    ]
+  },
+  {
+    "line_idx": 38,
+    "text": "ശത്രുവിൻ ഭയങ്ങൾ മാറ്റിവെച്ചു,",
+    "start": 274.42,
+    "end": 278.44,
+    "avg_confidence": 0.0766,
+    "flags": [
+      "LOW_CONFIDENCE (0.077)"
+    ],
+    "words": [
+      {
+        "word": "ശത്രുവിൻ",
+        "start": 274.42,
+        "end": 275.72,
+        "confidence": 0.1201
+      },
+      {
+        "word": "ഭയങ്ങൾ",
+        "start": 275.72,
+        "end": 276.96,
+        "confidence": 0.0441
+      },
+      {
+        "word": "മാറ്റിവെച്ചു,",
+        "start": 277.02,
+        "end": 278.44,
+        "confidence": 0.0655
+      }
+    ]
+  },
+  {
+    "line_idx": 39,
+    "text": "ജയത്തിന്റെ പാതയിൽ ഓടിടാം നാം!",
+    "start": 279.46,
+    "end": 284.4,
+    "avg_confidence": 0.1837,
+    "flags": [
+      "LOW_CONFIDENCE (0.184)"
+    ],
+    "words": [
+      {
+        "word": "ജയത്തിന്റെ",
+        "start": 279.46,
+        "end": 280.72,
+        "confidence": 0.4143
+      },
+      {
+        "word": "പാതയിൽ",
+        "start": 280.92,
+        "end": 282.28,
+        "confidence": 0.1893
+      },
+      {
+        "word": "ഓടിടാം",
+        "start": 282.36,
+        "end": 283.42,
+        "confidence": 0.0907
+      },
+      {
+        "word": "നാം!",
+        "start": 283.5,
+        "end": 284.4,
+        "confidence": 0.0405
+      }
+    ]
+  },
+  {
+    "line_idx": 40,
+    "text": "എനിക്ക് ജീവിക്കുന്നത് ക്രിസ്തുവത്രേ,",
+    "start": 285.24,
+    "end": 288.8,
+    "avg_confidence": 0.0401,
+    "flags": [
+      "LOW_CONFIDENCE (0.040)"
+    ],
+    "words": [
+      {
+        "word": "എനിക്ക്",
+        "start": 285.24,
+        "end": 285.84,
+        "confidence": 0.0402
+      },
+      {
+        "word": "ജീവിക്കുന്നത്",
+        "start": 286.1,
+        "end": 287.28,
+        "confidence": 0.0373
+      },
+      {
+        "word": "ക്രിസ്തുവത്രേ,",
+        "start": 287.4,
+        "end": 288.8,
+        "confidence": 0.0429
+      }
+    ]
+  },
+  {
+    "line_idx": 41,
+    "text": "മരിക്കുന്നതോ എനിക്ക് ലാഭമത്രേ!",
+    "start": 290.34,
+    "end": 293.9,
+    "avg_confidence": 0.0371,
+    "flags": [
+      "LOW_CONFIDENCE (0.037)"
+    ],
+    "words": [
+      {
+        "word": "മരിക്കുന്നതോ",
+        "start": 290.34,
+        "end": 291.64,
+        "confidence": 0.0548
+      },
+      {
+        "word": "എനിക്ക്",
+        "start": 291.86,
+        "end": 292.28,
+        "confidence": 0.0247
+      },
+      {
+        "word": "ലാഭമത്രേ!",
+        "start": 292.62,
+        "end": 293.9,
+        "confidence": 0.0317
+      }
+    ]
+  },
+  {
+    "line_idx": 42,
+    "text": "ലോകമത്രയും മാഞ്ഞുപോയാലും,",
+    "start": 295.54,
+    "end": 299.4,
+    "avg_confidence": 0.2626,
+    "flags": [
+      "LOW_CONFIDENCE (0.263)"
+    ],
+    "words": [
+      {
+        "word": "ലോകമത്രയും",
+        "start": 295.54,
+        "end": 296.84,
+        "confidence": 0.4387
+      },
+      {
+        "word": "മാഞ്ഞുപോയാലും,",
+        "start": 298.0,
+        "end": 299.4,
+        "confidence": 0.0866
+      }
+    ]
+  },
+  {
+    "line_idx": 43,
+    "text": "ക്രിസ്തുവിൻ സ്നേഹത്തിൽ ജീവിക്കും ഞാൻ!",
+    "start": 300.7,
+    "end": 304.78,
+    "avg_confidence": 0.0522,
+    "flags": [
+      "LOW_CONFIDENCE (0.052)"
+    ],
+    "words": [
+      {
+        "word": "ക്രിസ്തുവിൻ",
+        "start": 300.7,
+        "end": 301.52,
+        "confidence": 0.0522
+      },
+      {
+        "word": "സ്നേഹത്തിൽ",
+        "start": 301.6,
+        "end": 302.92,
+        "confidence": 0.037
+      },
+      {
+        "word": "ജീവിക്കും",
+        "start": 302.98,
+        "end": 304.18,
+        "confidence": 0.0663
+      },
+      {
+        "word": "ഞാൻ!",
+        "start": 304.18,
+        "end": 304.78,
+        "confidence": 0.0534
+      }
+    ]
+  },
+  {
+    "line_idx": 44,
+    "text": "ലോകമത്രയും മാഞ്ഞുപോയാലും,",
+    "start": 305.92,
+    "end": 309.76,
+    "avg_confidence": 0.0507,
+    "flags": [
+      "LOW_CONFIDENCE (0.051)"
+    ],
+    "words": [
+      {
+        "word": "ലോകമത്രയും",
+        "start": 305.92,
+        "end": 307.22,
+        "confidence": 0.0577
+      },
+      {
+        "word": "മാഞ്ഞുപോയാലും,",
+        "start": 308.38,
+        "end": 309.76,
+        "confidence": 0.0437
+      }
+    ]
+  },
+  {
+    "line_idx": 45,
+    "text": "ക്രിസ്തുവിൻ സ്നേഹത്തിൽ ജീവിക്കും ഞാൻ!",
+    "start": 311.16,
+    "end": 321.12,
+    "avg_confidence": 0.0514,
+    "flags": [
+      "LOW_CONFIDENCE (0.051)"
+    ],
+    "words": [
+      {
+        "word": "ക്രിസ്തുവിൻ",
+        "start": 311.16,
+        "end": 312.02,
+        "confidence": 0.0545
+      },
+      {
+        "word": "സ്നേഹത്തിൽ",
+        "start": 312.12,
+        "end": 314.98,
+        "confidence": 0.055
+      },
+      {
+        "word": "ജീവിക്കും",
+        "start": 316.06,
+        "end": 317.68,
+        "confidence": 0.0677
+      },
+      {
+        "word": "ഞാൻ!",
+        "start": 317.94,
+        "end": 321.12,
+        "confidence": 0.0285
+      }
+    ]
+  }
+]

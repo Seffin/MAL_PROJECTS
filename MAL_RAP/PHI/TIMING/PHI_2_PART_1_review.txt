@@ -1,0 +1,86 @@
+# REVIEW REPORT — align_song.py
+# Audio duration: 205.17s
+
+Line   2: ഐക്യതയോടേ നീങ്ങാം മുന്നോട്ട്!
+         start=2.74s  end=5.26s  conf=0.025
+         ⚠  LOW_CONFIDENCE (0.025)
+
+Line   3: യേശുവിൻ മാതൃക നെഞ്ചിലേറ്റിക്കൊണ്ട്!
+         start=7.18s  end=10.76s  conf=0.055
+         ⚠  LOW_CONFIDENCE (0.055)
+
+Line   5: ക്രിസ്തുവിന്റെ ചിന്ത നമ്മിൽ നിറയട്ടെ!
+         start=11.06s  end=27.96s  conf=0.106
+         ⚠  LOW_CONFIDENCE (0.106)
+
+Line   6: താഴ്മയുടെ പാത നമ്മിൽ തെളിയട്ടെ!
+         start=28.46s  end=32.44s  conf=0.116
+         ⚠  LOW_CONFIDENCE (0.116)
+
+Line   7: സ്വന്ത നന്മയല്ല, മറ്റുള്ളവർക്കായ് ജീവിക്കാം,
+         start=33.14s  end=38.80s  conf=0.103
+         ⚠  LOW_CONFIDENCE (0.103)
+
+Line   8: ഉന്നതമായ ആ നാമത്തിൽ കുമ്പിടാം!
+         start=38.86s  end=42.38s  conf=0.239
+         ⚠  LOW_CONFIDENCE (0.239)
+
+Line  14: ഒരേ മനസ്സോടെ, ഒരേ സ്നേഹത്തോടെ,
+         start=59.01s  end=63.13s  conf=0.192
+         ⚠  LOW_CONFIDENCE (0.192)
+
+Line  15: ആത്മാവിൽ ഒന്നായി വാഴണം എപ്പോഴും!
+         start=64.33s  end=67.49s  conf=0.322
+         ⚠  LOW_CONFIDENCE (0.322)
+
+Line  16: സ്വാർത്ഥതയാലുമല്ല, അഹങ്കാരത്താലുമല്ല,
+         start=69.05s  end=73.39s  conf=0.175
+         ⚠  LOW_CONFIDENCE (0.175)
+
+Line  17: താഴ്മയോടെ മറ്റുള്ളവരെ കാണണം മേലെ!
+         start=74.13s  end=77.65s  conf=0.259
+         ⚠  LOW_CONFIDENCE (0.259)
+
+Line  18: സ്വന്ത കാര്യം മാത്രം നോക്കാതിരിക്കാം,
+         start=79.59s  end=83.19s  conf=0.344
+         ⚠  LOW_CONFIDENCE (0.344)
+
+Line  21: ക്രിസ്തുവിന്റെ ചിന്ത നമ്മിൽ നിറയട്ടെ!
+         start=89.15s  end=93.81s  conf=0.090
+         ⚠  LOW_CONFIDENCE (0.090)
+
+Line  22: താഴ്മയുടെ പാത നമ്മിൽ തെളിയട്ടെ!
+         start=95.57s  end=99.55s  conf=0.119
+         ⚠  LOW_CONFIDENCE (0.119)
+
+Line  23: സ്വന്ത നന്മയല്ല, മറ്റുള്ളവർക്കായ് ജീവിക്കാം,
+         start=100.25s  end=105.89s  conf=0.194
+         ⚠  LOW_CONFIDENCE (0.194)
+
+Line  24: ഉന്നതമായ ആ നാമത്തിൽ കുമ്പിടാം!
+         start=105.93s  end=109.91s  conf=0.394
+         ⚠  LOW_CONFIDENCE (0.394)
+
+Line  26: ക്രിസ്തു യേശുവിലുണ്ടായ ചിന്തയിത്,
+         start=110.11s  end=113.03s  conf=0.413
+         ⚠  LOW_CONFIDENCE (0.413)
+
+Line  39: ക്രിസ്തുവിന്റെ ചിന്ത നമ്മിൽ നിറയട്ടെ!
+         start=161.92s  end=166.06s  conf=0.477
+         ⚠  LOW_CONFIDENCE (0.477)
+
+Line  40: താഴ്മയുടെ പാത നമ്മിൽ തെളിയട്ടെ!
+         start=167.84s  end=171.82s  conf=0.362
+         ⚠  LOW_CONFIDENCE (0.362)
+
+Line  44: അഹങ്കാരം മാറ്റി താഴ്മയെ പുൽകാം!
+         start=181.82s  end=187.20s  conf=0.176
+         ⚠  LOW_CONFIDENCE (0.176)
+
+Line  45: ക്രിസ്തുവിൻ നാമത്തിൽ ഒന്നായി മുന്നേറാം!
+         start=188.46s  end=192.84s  conf=0.373
+         ⚠  LOW_CONFIDENCE (0.373)
+
+Line  46: അവന്റെ നാമം എന്നെന്നും വാഴുന്നു!
+         start=193.22s  end=198.92s  conf=0.440
+         ⚠  LOW_CONFIDENCE (0.440)

@@ -1,0 +1,82 @@
+# REVIEW REPORT — align_song.py
+# Audio duration: 263.85s
+
+Line   2: ക്രിസ്തുവിൽ ആശ്വാസവും സ്നേഹത്തിൻ ആശ്വാസവും
+         start=31.46s  end=36.68s  conf=0.322
+         ⚠  LOW_CONFIDENCE (0.322)
+
+Line   4: ഐക്യതയോടെ നാം ഒന്നായി ജീവിച്ച്
+         start=42.92s  end=47.04s  conf=0.242
+         ⚠  LOW_CONFIDENCE (0.242)
+
+Line   5: താഴ്മയിൽ മറ്റുള്ളോർ നന്മയ്ക്കായ് തേടിടാം!
+         start=48.46s  end=53.96s  conf=0.480
+         ⚠  LOW_CONFIDENCE (0.480)
+
+Line   6: എല്ലാ നാമത്തിനും മേലായ നാമം!
+         start=54.18s  end=58.20s  conf=0.122
+         ⚠  LOW_CONFIDENCE (0.122)
+
+Line   7: യേശുവിൻ നാമം അതിശ്രേഷ്ഠ നാമം!
+         start=59.76s  end=63.86s  conf=0.289
+         ⚠  LOW_CONFIDENCE (0.289)
+
+Line   8: മുട്ടുകളൊക്കെയും തൻ മുൻപിൽ മടങ്ങും!
+         start=65.38s  end=69.55s  conf=0.169
+         ⚠  LOW_CONFIDENCE (0.169)
+
+Line   9: നാവുകളൊക്കെയും വാഴ്ത്തിപ്പറയും!
+         start=71.07s  end=75.59s  conf=0.174
+         ⚠  LOW_CONFIDENCE (0.174)
+
+Line  10: ദൈവരൂപത്തിൽ താൻ ഇരുന്നിട്ടും
+         start=104.95s  end=109.41s  conf=0.485
+         ⚠  LOW_CONFIDENCE (0.485)
+
+Line  11: ദാസന്റെ രൂപം ധരിച്ചവനല്ലോ!
+         start=110.61s  end=114.79s  conf=0.251
+         ⚠  LOW_CONFIDENCE (0.251)
+
+Line  12: ക്രൂശിലെ മരണത്തോളം താൻ താഴ്ന്ന്
+         start=116.21s  end=120.53s  conf=0.279
+         ⚠  LOW_CONFIDENCE (0.279)
+
+Line  13: പിതാവിൻ ഇഷ്ടം തികച്ചവനല്ലോ!
+         start=121.71s  end=126.97s  conf=0.224
+         ⚠  LOW_CONFIDENCE (0.224)
+
+Line  14: എല്ലാ നാമത്തിനും മേലായ നാമം!
+         start=127.61s  end=131.61s  conf=0.104
+         ⚠  LOW_CONFIDENCE (0.104)
+
+Line  15: യേശുവിൻ നാമം അതിശ്രേഷ്ഠ നാമം!
+         start=133.17s  end=137.29s  conf=0.359
+         ⚠  LOW_CONFIDENCE (0.359)
+
+Line  16: മുട്ടുകളൊക്കെയും തൻ മുൻപിൽ മടങ്ങും!
+         start=138.83s  end=142.95s  conf=0.172
+         ⚠  LOW_CONFIDENCE (0.172)
+
+Line  17: നാവുകളൊക്കെയും വാഴ്ത്തിപ്പറയും!
+         start=144.49s  end=149.01s  conf=0.421
+         ⚠  LOW_CONFIDENCE (0.421)
+
+Line  20: താഴ്മയാൽ പരമപിതാവുയർത്തിയ
+         start=183.99s  end=188.05s  conf=0.285
+         ⚠  LOW_CONFIDENCE (0.285)
+
+Line  22: സ്വാർത്ഥതയില്ലാതെ താഴ്മ തൻ ഭാവത്തിൽ
+         start=195.21s  end=200.34s  conf=0.477
+         ⚠  LOW_CONFIDENCE (0.477)
+
+Line  23: ക്രിസ്തുവിൻ മാതൃക നമ്മളിൽ കാത്തിടാം!
+         start=200.94s  end=205.30s  conf=0.460
+         ⚠  LOW_CONFIDENCE (0.460)
+
+Line  26: എല്ലാ നാമത്തിനും മേലായ നാമം!
+         start=218.00s  end=221.98s  conf=0.316
+         ⚠  LOW_CONFIDENCE (0.316)
+
+Line  28: മുട്ടുകളൊക്കെയും തൻ മുൻപിൽ മടങ്ങും!
+         start=229.18s  end=233.34s  conf=0.340
+         ⚠  LOW_CONFIDENCE (0.340)

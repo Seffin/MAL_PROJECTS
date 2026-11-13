@@ -1,0 +1,1256 @@
+[
+  {
+    "line_idx": 2,
+    "text": "ഭയത്തോടും വിറയലോടും ഭക്തിയോടെ എന്നും",
+    "start": 37.58,
+    "end": 41.86,
+    "avg_confidence": 0.1278,
+    "flags": [
+      "LOW_CONFIDENCE (0.128)"
+    ],
+    "words": [
+      {
+        "word": "ഭയത്തോടും",
+        "start": 37.58,
+        "end": 38.82,
+        "confidence": 0.2495
+      },
+      {
+        "word": "വിറയലോടും",
+        "start": 38.94,
+        "end": 40.16,
+        "confidence": 0.1341
+      },
+      {
+        "word": "ഭക്തിയോടെ",
+        "start": 40.26,
+        "end": 41.22,
+        "confidence": 0.0636
+      },
+      {
+        "word": "എന്നും",
+        "start": 41.38,
+        "end": 41.86,
+        "confidence": 0.0638
+      }
+    ]
+  },
+  {
+    "line_idx": 3,
+    "text": "രക്ഷിത ജീവിതം നാം പൂർത്തിയാക്കീടാം!",
+    "start": 42.92,
+    "end": 48.2,
+    "avg_confidence": 0.4764,
+    "flags": [
+      "LOW_CONFIDENCE (0.476)"
+    ],
+    "words": [
+      {
+        "word": "രക്ഷിത",
+        "start": 42.92,
+        "end": 43.52,
+        "confidence": 0.7011
+      },
+      {
+        "word": "ജീവിതം",
+        "start": 43.6,
+        "end": 44.54,
+        "confidence": 0.5346
+      },
+      {
+        "word": "നാം",
+        "start": 45.26,
+        "end": 45.5,
+        "confidence": 0.2946
+      },
+      {
+        "word": "പൂർത്തിയാക്കീടാം!",
+        "start": 45.58,
+        "end": 48.2,
+        "confidence": 0.3753
+      }
+    ]
+  },
+  {
+    "line_idx": 4,
+    "text": "ഹിതവും ക്രിയയും നമ്മിൽ തികയ്ക്കുവാൻ",
+    "start": 48.26,
+    "end": 52.42,
+    "avg_confidence": 0.4898,
+    "flags": [
+      "LOW_CONFIDENCE (0.490)"
+    ],
+    "words": [
+      {
+        "word": "ഹിതവും",
+        "start": 48.26,
+        "end": 48.8,
+        "confidence": 0.3982
+      },
+      {
+        "word": "ക്രിയയും",
+        "start": 48.9,
+        "end": 49.48,
+        "confidence": 0.5635
+      },
+      {
+        "word": "നമ്മിൽ",
+        "start": 50.1,
+        "end": 50.82,
+        "confidence": 0.6343
+      },
+      {
+        "word": "തികയ്ക്കുവാൻ",
+        "start": 50.92,
+        "end": 52.42,
+        "confidence": 0.3633
+      }
+    ]
+  },
+  {
+    "line_idx": 5,
+    "text": "ദൈവം താനല്ലോ നമ്മിൽ വ്യാപരിക്കുന്നു!",
+    "start": 52.78,
+    "end": 57.72,
+    "avg_confidence": 0.249,
+    "flags": [
+      "LOW_CONFIDENCE (0.249)"
+    ],
+    "words": [
+      {
+        "word": "ദൈവം",
+        "start": 52.78,
+        "end": 53.44,
+        "confidence": 0.277
+      },
+      {
+        "word": "താനല്ലോ",
+        "start": 53.6,
+        "end": 54.82,
+        "confidence": 0.3774
+      },
+      {
+        "word": "നമ്മിൽ",
+        "start": 54.94,
+        "end": 56.22,
+        "confidence": 0.1532
+      },
+      {
+        "word": "വ്യാപരിക്കുന്നു!",
+        "start": 56.22,
+        "end": 57.72,
+        "confidence": 0.1882
+      }
+    ]
+  },
+  {
+    "line_idx": 6,
+    "text": "പിറുപിറുപ്പില്ലാതെ തർക്കങ്ങളില്ലാതെ",
+    "start": 58.92,
+    "end": 63.07,
+    "avg_confidence": 0.0208,
+    "flags": [
+      "LOW_CONFIDENCE (0.021)"
+    ],
+    "words": [
+      {
+        "word": "പിറുപിറുപ്പില്ലാതെ",
+        "start": 58.92,
+        "end": 60.4,
+        "confidence": 0.0227
+      },
+      {
+        "word": "തർക്കങ്ങളില്ലാതെ",
+        "start": 61.58,
+        "end": 63.07,
+        "confidence": 0.0189
+      }
+    ]
+  },
+  {
+    "line_idx": 7,
+    "text": "ദൈവത്തിൻ മക്കളായി ശോഭിച്ചീടാം!",
+    "start": 64.27,
+    "end": 68.87,
+    "avg_confidence": 0.0383,
+    "flags": [
+      "LOW_CONFIDENCE (0.038)"
+    ],
+    "words": [
+      {
+        "word": "ദൈവത്തിൻ",
+        "start": 64.27,
+        "end": 65.61,
+        "confidence": 0.0365
+      },
+      {
+        "word": "മക്കളായി",
+        "start": 65.61,
+        "end": 66.69,
+        "confidence": 0.0486
+      },
+      {
+        "word": "ശോഭിച്ചീടാം!",
+        "start": 66.91,
+        "end": 68.87,
+        "confidence": 0.0298
+      }
+    ]
+  },
+  {
+    "line_idx": 8,
+    "text": "അന്ധകാരമുള്ള ലോകത്തിന്റെ നടുവിൽ",
+    "start": 69.29,
+    "end": 74.09,
+    "avg_confidence": 0.0573,
+    "flags": [
+      "LOW_CONFIDENCE (0.057)"
+    ],
+    "words": [
+      {
+        "word": "അന്ധകാരമുള്ള",
+        "start": 69.29,
+        "end": 70.85,
+        "confidence": 0.0365
+      },
+      {
+        "word": "ലോകത്തിന്റെ",
+        "start": 70.97,
+        "end": 72.19,
+        "confidence": 0.0506
+      },
+      {
+        "word": "നടുവിൽ",
+        "start": 72.29,
+        "end": 74.09,
+        "confidence": 0.0848
+      }
+    ]
+  },
+  {
+    "line_idx": 9,
+    "text": "ജീവനാം വചനത്താൽ വെളിച്ചമാകാം!",
+    "start": 74.09,
+    "end": 80.29,
+    "avg_confidence": 0.1405,
+    "flags": [
+      "LOW_CONFIDENCE (0.141)"
+    ],
+    "words": [
+      {
+        "word": "ജീവനാം",
+        "start": 74.09,
+        "end": 74.87,
+        "confidence": 0.1996
+      },
+      {
+        "word": "വചനത്താൽ",
+        "start": 74.95,
+        "end": 76.09,
+        "confidence": 0.1461
+      },
+      {
+        "word": "വെളിച്ചമാകാം!",
+        "start": 76.11,
+        "end": 80.29,
+        "confidence": 0.0758
+      }
+    ]
+  },
+  {
+    "line_idx": 10,
+    "text": "പിറുപിറുപ്പില്ലാതെ തർക്കങ്ങളില്ലാതെ",
+    "start": 80.29,
+    "end": 84.41,
+    "avg_confidence": 0.0319,
+    "flags": [
+      "LOW_CONFIDENCE (0.032)"
+    ],
+    "words": [
+      {
+        "word": "പിറുപിറുപ്പില്ലാതെ",
+        "start": 80.29,
+        "end": 81.73,
+        "confidence": 0.0494
+      },
+      {
+        "word": "തർക്കങ്ങളില്ലാതെ",
+        "start": 82.95,
+        "end": 84.41,
+        "confidence": 0.0143
+      }
+    ]
+  },
+  {
+    "line_idx": 11,
+    "text": "ദൈവത്തിൻ മക്കളായി ശോഭിച്ചീടാം!",
+    "start": 85.63,
+    "end": 90.21,
+    "avg_confidence": 0.0488,
+    "flags": [
+      "LOW_CONFIDENCE (0.049)"
+    ],
+    "words": [
+      {
+        "word": "ദൈവത്തിൻ",
+        "start": 85.63,
+        "end": 86.93,
+        "confidence": 0.0528
+      },
+      {
+        "word": "മക്കളായി",
+        "start": 86.93,
+        "end": 88.03,
+        "confidence": 0.0502
+      },
+      {
+        "word": "ശോഭിച്ചീടാം!",
+        "start": 88.23,
+        "end": 90.21,
+        "confidence": 0.0433
+      }
+    ]
+  },
+  {
+    "line_idx": 12,
+    "text": "അന്ധകാരമുള്ള ലോകത്തിന്റെ നടുവിൽ",
+    "start": 90.63,
+    "end": 95.01,
+    "avg_confidence": 0.1283,
+    "flags": [
+      "LOW_CONFIDENCE (0.128)"
+    ],
+    "words": [
+      {
+        "word": "അന്ധകാരമുള്ള",
+        "start": 90.63,
+        "end": 92.19,
+        "confidence": 0.1734
+      },
+      {
+        "word": "ലോകത്തിന്റെ",
+        "start": 92.29,
+        "end": 93.53,
+        "confidence": 0.0962
+      },
+      {
+        "word": "നടുവിൽ",
+        "start": 93.61,
+        "end": 95.01,
+        "confidence": 0.1152
+      }
+    ]
+  },
+  {
+    "line_idx": 13,
+    "text": "ജീവനാം വചനത്താൽ വെളിച്ചമാകാം!",
+    "start": 95.43,
+    "end": 101.21,
+    "avg_confidence": 0.1681,
+    "flags": [
+      "LOW_CONFIDENCE (0.168)"
+    ],
+    "words": [
+      {
+        "word": "ജീവനാം",
+        "start": 95.43,
+        "end": 96.29,
+        "confidence": 0.2496
+      },
+      {
+        "word": "വചനത്താൽ",
+        "start": 96.29,
+        "end": 97.43,
+        "confidence": 0.158
+      },
+      {
+        "word": "വെളിച്ചമാകാം!",
+        "start": 97.45,
+        "end": 101.21,
+        "confidence": 0.0966
+      }
+    ]
+  },
+  {
+    "line_idx": 14,
+    "text": "വിശ്വാസ യാഗത്തിൻ മേൽ ഒഴിക്കപ്പെട്ടാലും",
+    "start": 123.27,
+    "end": 127.19,
+    "avg_confidence": 0.7063,
+    "flags": [],
+    "words": [
+      {
+        "word": "വിശ്വാസ",
+        "start": 123.27,
+        "end": 124.19,
+        "confidence": 0.9589
+      },
+      {
+        "word": "യാഗത്തിൻ",
+        "start": 124.31,
+        "end": 125.27,
+        "confidence": 0.738
+      },
+      {
+        "word": "മേൽ",
+        "start": 125.27,
+        "end": 125.71,
+        "confidence": 0.6485
+      },
+      {
+        "word": "ഒഴിക്കപ്പെട്ടാലും",
+        "start": 125.75,
+        "end": 127.19,
+        "confidence": 0.4796
+      }
+    ]
+  },
+  {
+    "line_idx": 15,
+    "text": "സന്തോഷത്തോടെ ഞാൻ ആനന്ദിക്കും!",
+    "start": 128.59,
+    "end": 132.57,
+    "avg_confidence": 0.4784,
+    "flags": [
+      "LOW_CONFIDENCE (0.478)"
+    ],
+    "words": [
+      {
+        "word": "സന്തോഷത്തോടെ",
+        "start": 128.59,
+        "end": 130.21,
+        "confidence": 0.5939
+      },
+      {
+        "word": "ഞാൻ",
+        "start": 130.27,
+        "end": 131.05,
+        "confidence": 0.3199
+      },
+      {
+        "word": "ആനന്ദിക്കും!",
+        "start": 131.07,
+        "end": 132.57,
+        "confidence": 0.5215
+      }
+    ]
+  },
+  {
+    "line_idx": 16,
+    "text": "ക്രിസ്തുതൻ സ്നേഹത്തിൽ ഒന്നായി ചേർന്ന്",
+    "start": 133.89,
+    "end": 138.91,
+    "avg_confidence": 0.4014,
+    "flags": [
+      "LOW_CONFIDENCE (0.401)"
+    ],
+    "words": [
+      {
+        "word": "ക്രിസ്തുതൻ",
+        "start": 133.89,
+        "end": 134.71,
+        "confidence": 0.5375
+      },
+      {
+        "word": "സ്നേഹത്തിൽ",
+        "start": 134.81,
+        "end": 136.09,
+        "confidence": 0.6378
+      },
+      {
+        "word": "ഒന്നായി",
+        "start": 136.31,
+        "end": 137.03,
+        "confidence": 0.3041
+      },
+      {
+        "word": "ചേർന്ന്",
+        "start": 137.21,
+        "end": 138.91,
+        "confidence": 0.1263
+      }
+    ]
+  },
+  {
+    "line_idx": 17,
+    "text": "എന്നെന്നും നന്ദിയോടെ വാഴ്ത്തീടാം നാം!",
+    "start": 139.01,
+    "end": 143.51,
+    "avg_confidence": 0.5363,
+    "flags": [],
+    "words": [
+      {
+        "word": "എന്നെന്നും",
+        "start": 139.01,
+        "end": 140.17,
+        "confidence": 0.7676
+      },
+      {
+        "word": "നന്ദിയോടെ",
+        "start": 140.27,
+        "end": 141.41,
+        "confidence": 0.5538
+      },
+      {
+        "word": "വാഴ്ത്തീടാം",
+        "start": 141.59,
+        "end": 142.81,
+        "confidence": 0.448
+      },
+      {
+        "word": "നാം!",
+        "start": 142.93,
+        "end": 143.51,
+        "confidence": 0.3757
+      }
+    ]
+  },
+  {
+    "line_idx": 18,
+    "text": "പിറുപിറുപ്പില്ലാതെ തർക്കങ്ങളില്ലാതെ",
+    "start": 149.59,
+    "end": 153.75,
+    "avg_confidence": 0.0608,
+    "flags": [
+      "LOW_CONFIDENCE (0.061)"
+    ],
+    "words": [
+      {
+        "word": "പിറുപിറുപ്പില്ലാതെ",
+        "start": 149.59,
+        "end": 151.07,
+        "confidence": 0.1044
+      },
+      {
+        "word": "തർക്കങ്ങളില്ലാതെ",
+        "start": 152.25,
+        "end": 153.75,
+        "confidence": 0.0171
+      }
+    ]
+  },
+  {
+    "line_idx": 19,
+    "text": "ദൈവത്തിൻ മക്കളായി ശോഭിച്ചീടാം!",
+    "start": 154.93,
+    "end": 159.51,
+    "avg_confidence": 0.0388,
+    "flags": [
+      "LOW_CONFIDENCE (0.039)"
+    ],
+    "words": [
+      {
+        "word": "ദൈവത്തിൻ",
+        "start": 154.93,
+        "end": 156.27,
+        "confidence": 0.0321
+      },
+      {
+        "word": "മക്കളായി",
+        "start": 156.27,
+        "end": 157.37,
+        "confidence": 0.0478
+      },
+      {
+        "word": "ശോഭിച്ചീടാം!",
+        "start": 157.57,
+        "end": 159.51,
+        "confidence": 0.0365
+      }
+    ]
+  },
+  {
+    "line_idx": 20,
+    "text": "അന്ധകാരമുള്ള ലോകത്തിന്റെ നടുവിൽ",
+    "start": 159.97,
+    "end": 164.75,
+    "avg_confidence": 0.0611,
+    "flags": [
+      "LOW_CONFIDENCE (0.061)"
+    ],
+    "words": [
+      {
+        "word": "അന്ധകാരമുള്ള",
+        "start": 159.97,
+        "end": 161.53,
+        "confidence": 0.0374
+      },
+      {
+        "word": "ലോകത്തിന്റെ",
+        "start": 161.63,
+        "end": 162.87,
+        "confidence": 0.056
+      },
+      {
+        "word": "നടുവിൽ",
+        "start": 162.95,
+        "end": 164.75,
+        "confidence": 0.0899
+      }
+    ]
+  },
+  {
+    "line_idx": 21,
+    "text": "ജീവനാം വചനത്താൽ വെളിച്ചമാകാം!",
+    "start": 164.77,
+    "end": 169.33,
+    "avg_confidence": 0.1262,
+    "flags": [
+      "LOW_CONFIDENCE (0.126)"
+    ],
+    "words": [
+      {
+        "word": "ജീവനാം",
+        "start": 164.77,
+        "end": 165.63,
+        "confidence": 0.181
+      },
+      {
+        "word": "വചനത്താൽ",
+        "start": 165.63,
+        "end": 166.79,
+        "confidence": 0.1065
+      },
+      {
+        "word": "വെളിച്ചമാകാം!",
+        "start": 166.79,
+        "end": 169.33,
+        "confidence": 0.0912
+      }
+    ]
+  },
+  {
+    "line_idx": 22,
+    "text": "പിറുപിറുപ്പില്ലാതെ തർക്കങ്ങളില്ലാതെ",
+    "start": 170.89,
+    "end": 175.07,
+    "avg_confidence": 0.0785,
+    "flags": [
+      "LOW_CONFIDENCE (0.079)"
+    ],
+    "words": [
+      {
+        "word": "പിറുപിറുപ്പില്ലാതെ",
+        "start": 170.89,
+        "end": 172.41,
+        "confidence": 0.1166
+      },
+      {
+        "word": "തർക്കങ്ങളില്ലാതെ",
+        "start": 172.63,
+        "end": 175.07,
+        "confidence": 0.0404
+      }
+    ]
+  },
+  {
+    "line_idx": 23,
+    "text": "ദൈവത്തിൻ മക്കളായി ശോഭിച്ചീടാം!",
+    "start": 175.29,
+    "end": 180.87,
+    "avg_confidence": 0.0406,
+    "flags": [
+      "LOW_CONFIDENCE (0.041)"
+    ],
+    "words": [
+      {
+        "word": "ദൈവത്തിൻ",
+        "start": 175.29,
+        "end": 177.61,
+        "confidence": 0.0385
+      },
+      {
+        "word": "മക്കളായി",
+        "start": 177.61,
+        "end": 178.71,
+        "confidence": 0.0456
+      },
+      {
+        "word": "ശോഭിച്ചീടാം!",
+        "start": 178.91,
+        "end": 180.87,
+        "confidence": 0.0376
+      }
+    ]
+  },
+  {
+    "line_idx": 24,
+    "text": "അന്ധകാരമുള്ള ലോകത്തിന്റെ നടുവിൽ",
+    "start": 181.29,
+    "end": 185.69,
+    "avg_confidence": 0.1607,
+    "flags": [
+      "LOW_CONFIDENCE (0.161)"
+    ],
+    "words": [
+      {
+        "word": "അന്ധകാരമുള്ള",
+        "start": 181.29,
+        "end": 182.85,
+        "confidence": 0.2241
+      },
+      {
+        "word": "ലോകത്തിന്റെ",
+        "start": 182.97,
+        "end": 184.19,
+        "confidence": 0.0682
+      },
+      {
+        "word": "നടുവിൽ",
+        "start": 184.29,
+        "end": 185.69,
+        "confidence": 0.1899
+      }
+    ]
+  },
+  {
+    "line_idx": 25,
+    "text": "ജീവനാം വചനത്താൽ വെളിച്ചമാകാം!",
+    "start": 186.11,
+    "end": 191.7,
+    "avg_confidence": 0.3365,
+    "flags": [
+      "LOW_CONFIDENCE (0.337)"
+    ],
+    "words": [
+      {
+        "word": "ജീവനാം",
+        "start": 186.11,
+        "end": 186.87,
+        "confidence": 0.2261
+      },
+      {
+        "word": "വചനത്താൽ",
+        "start": 186.95,
+        "end": 188.11,
+        "confidence": 0.3176
+      },
+      {
+        "word": "വെളിച്ചമാകാം!",
+        "start": 188.11,
+        "end": 191.7,
+        "confidence": 0.4659
+      }
+    ]
+  },
+  {
+    "line_idx": 26,
+    "text": "സത്യമനസ്സോടെ സുവിശേഷ വേലയിൽ",
+    "start": 202.92,
+    "end": 207.7,
+    "avg_confidence": 0.1509,
+    "flags": [
+      "LOW_CONFIDENCE (0.151)"
+    ],
+    "words": [
+      {
+        "word": "സത്യമനസ്സോടെ",
+        "start": 202.92,
+        "end": 204.42,
+        "confidence": 0.1111
+      },
+      {
+        "word": "സുവിശേഷ",
+        "start": 205.26,
+        "end": 206.22,
+        "confidence": 0.3059
+      },
+      {
+        "word": "വേലയിൽ",
+        "start": 206.3,
+        "end": 207.7,
+        "confidence": 0.0356
+      }
+    ]
+  },
+  {
+    "line_idx": 27,
+    "text": "വിശ്വസ്തരായി നാം കൂടെ നിൽക്കാം!",
+    "start": 208.28,
+    "end": 212.86,
+    "avg_confidence": 0.4415,
+    "flags": [
+      "LOW_CONFIDENCE (0.442)"
+    ],
+    "words": [
+      {
+        "word": "വിശ്വസ്തരായി",
+        "start": 208.28,
+        "end": 209.8,
+        "confidence": 0.4535
+      },
+      {
+        "word": "നാം",
+        "start": 209.94,
+        "end": 210.74,
+        "confidence": 0.4895
+      },
+      {
+        "word": "കൂടെ",
+        "start": 210.92,
+        "end": 211.42,
+        "confidence": 0.4731
+      },
+      {
+        "word": "നിൽക്കാം!",
+        "start": 211.62,
+        "end": 212.86,
+        "confidence": 0.3499
+      }
+    ]
+  },
+  {
+    "line_idx": 28,
+    "text": "ക്രിസ്തുവിൻ വേലയ്ക്കായ് ജീവനും നൽകിടാം",
+    "start": 213.58,
+    "end": 218.06,
+    "avg_confidence": 0.4037,
+    "flags": [
+      "LOW_CONFIDENCE (0.404)"
+    ],
+    "words": [
+      {
+        "word": "ക്രിസ്തുവിൻ",
+        "start": 213.58,
+        "end": 214.3,
+        "confidence": 0.4165
+      },
+      {
+        "word": "വേലയ്ക്കായ്",
+        "start": 214.3,
+        "end": 215.28,
+        "confidence": 0.4457
+      },
+      {
+        "word": "ജീവനും",
+        "start": 216.26,
+        "end": 216.92,
+        "confidence": 0.4604
+      },
+      {
+        "word": "നൽകിടാം",
+        "start": 216.96,
+        "end": 218.06,
+        "confidence": 0.2923
+      }
+    ]
+  },
+  {
+    "line_idx": 29,
+    "text": "ത്യാഗത്തിൻ മാതൃക കാട്ടിടാം നാം!",
+    "start": 218.92,
+    "end": 224.26,
+    "avg_confidence": 0.5116,
+    "flags": [],
+    "words": [
+      {
+        "word": "ത്യാഗത്തിൻ",
+        "start": 218.92,
+        "end": 220.26,
+        "confidence": 0.7305
+      },
+      {
+        "word": "മാതൃക",
+        "start": 220.26,
+        "end": 220.92,
+        "confidence": 0.4783
+      },
+      {
+        "word": "കാട്ടിടാം",
+        "start": 221.6,
+        "end": 222.82,
+        "confidence": 0.4692
+      },
+      {
+        "word": "നാം!",
+        "start": 222.94,
+        "end": 224.26,
+        "confidence": 0.3683
+      }
+    ]
+  },
+  {
+    "line_idx": 30,
+    "text": "വക്രതയുള്ളൊരു ലോകത്തിൽ നാം",
+    "start": 224.26,
+    "end": 226.54,
+    "avg_confidence": 0.6007,
+    "flags": [],
+    "words": [
+      {
+        "word": "വക്രതയുള്ളൊരു",
+        "start": 224.26,
+        "end": 225.54,
+        "confidence": 0.5976
+      },
+      {
+        "word": "ലോകത്തിൽ",
+        "start": 225.62,
+        "end": 226.28,
+        "confidence": 0.7291
+      },
+      {
+        "word": "നാം",
+        "start": 226.32,
+        "end": 226.54,
+        "confidence": 0.4753
+      }
+    ]
+  },
+  {
+    "line_idx": 31,
+    "text": "കുറ്റമില്ലാത്തവരായി ശോഭിച്ചിടാം!",
+    "start": 226.6,
+    "end": 229.24,
+    "avg_confidence": 0.5919,
+    "flags": [],
+    "words": [
+      {
+        "word": "കുറ്റമില്ലാത്തവരായി",
+        "start": 226.6,
+        "end": 228.16,
+        "confidence": 0.6689
+      },
+      {
+        "word": "ശോഭിച്ചിടാം!",
+        "start": 228.26,
+        "end": 229.24,
+        "confidence": 0.5149
+      }
+    ]
+  },
+  {
+    "line_idx": 32,
+    "text": "ക്രിസ്തുവിൻ നാളതിൽ പ്രശംസിക്കാനായി",
+    "start": 229.58,
+    "end": 232.2,
+    "avg_confidence": 0.732,
+    "flags": [],
+    "words": [
+      {
+        "word": "ക്രിസ്തുവിൻ",
+        "start": 229.58,
+        "end": 230.3,
+        "confidence": 0.7758
+      },
+      {
+        "word": "നാളതിൽ",
+        "start": 230.3,
+        "end": 230.96,
+        "confidence": 0.5787
+      },
+      {
+        "word": "പ്രശംസിക്കാനായി",
+        "start": 230.96,
+        "end": 232.2,
+        "confidence": 0.8416
+      }
+    ]
+  },
+  {
+    "line_idx": 33,
+    "text": "ജീവന്റെ വചനം ഉയർത്തിപ്പിടിക്കാം!",
+    "start": 232.28,
+    "end": 234.94,
+    "avg_confidence": 0.5435,
+    "flags": [],
+    "words": [
+      {
+        "word": "ജീവന്റെ",
+        "start": 232.28,
+        "end": 232.88,
+        "confidence": 0.6112
+      },
+      {
+        "word": "വചനം",
+        "start": 232.96,
+        "end": 233.48,
+        "confidence": 0.757
+      },
+      {
+        "word": "ഉയർത്തിപ്പിടിക്കാം!",
+        "start": 233.52,
+        "end": 234.94,
+        "confidence": 0.2623
+      }
+    ]
+  },
+  {
+    "line_idx": 34,
+    "text": "പിറുപിറുപ്പില്ലാതെ തർക്കങ്ങളില്ലാതെ",
+    "start": 234.96,
+    "end": 239.08,
+    "avg_confidence": 0.1128,
+    "flags": [
+      "LOW_CONFIDENCE (0.113)"
+    ],
+    "words": [
+      {
+        "word": "പിറുപിറുപ്പില്ലാതെ",
+        "start": 234.96,
+        "end": 236.4,
+        "confidence": 0.1797
+      },
+      {
+        "word": "തർക്കങ്ങളില്ലാതെ",
+        "start": 237.6,
+        "end": 239.08,
+        "confidence": 0.0458
+      }
+    ]
+  },
+  {
+    "line_idx": 35,
+    "text": "ദൈവത്തിൻ മക്കളായി ശോഭിച്ചീടാം!",
+    "start": 240.3,
+    "end": 244.86,
+    "avg_confidence": 0.5823,
+    "flags": [],
+    "words": [
+      {
+        "word": "ദൈവത്തിൻ",
+        "start": 240.3,
+        "end": 241.62,
+        "confidence": 0.6276
+      },
+      {
+        "word": "മക്കളായി",
+        "start": 241.62,
+        "end": 242.7,
+        "confidence": 0.75
+      },
+      {
+        "word": "ശോഭിച്ചീടാം!",
+        "start": 242.9,
+        "end": 244.86,
+        "confidence": 0.3692
+      }
+    ]
+  },
+  {
+    "line_idx": 36,
+    "text": "അന്ധകാരമുള്ള ലോകത്തിന്റെ നടുവിൽ",
+    "start": 245.3,
+    "end": 250.06,
+    "avg_confidence": 0.495,
+    "flags": [
+      "LOW_CONFIDENCE (0.495)"
+    ],
+    "words": [
+      {
+        "word": "അന്ധകാരമുള്ള",
+        "start": 245.3,
+        "end": 246.86,
+        "confidence": 0.495
+      },
+      {
+        "word": "ലോകത്തിന്റെ",
+        "start": 246.96,
+        "end": 248.2,
+        "confidence": 0.5157
+      },
+      {
+        "word": "നടുവിൽ",
+        "start": 248.3,
+        "end": 250.06,
+        "confidence": 0.4743
+      }
+    ]
+  },
+  {
+    "line_idx": 37,
+    "text": "ജീവനാം  വചനത്താൽ വെളിച്ചമാകാം!",
+    "start": 250.1,
+    "end": 254.74,
+    "avg_confidence": 0.5683,
+    "flags": [],
+    "words": [
+      {
+        "word": "ജീവനാം",
+        "start": 250.1,
+        "end": 250.96,
+        "confidence": 0.8297
+      },
+      {
+        "word": "വചനത്താൽ",
+        "start": 250.96,
+        "end": 252.12,
+        "confidence": 0.4387
+      },
+      {
+        "word": "വെളിച്ചമാകാം!",
+        "start": 252.12,
+        "end": 254.74,
+        "confidence": 0.4366
+      }
+    ]
+  },
+  {
+    "line_idx": 38,
+    "text": "പിറുപിറുപ്പില്ലാതെ തർക്കങ്ങളില്ലാതെ",
+    "start": 256.28,
+    "end": 261.66,
+    "avg_confidence": 0.3479,
+    "flags": [
+      "LOW_CONFIDENCE (0.348)"
+    ],
+    "words": [
+      {
+        "word": "പിറുപിറുപ്പില്ലാതെ",
+        "start": 256.28,
+        "end": 260.4,
+        "confidence": 0.2842
+      },
+      {
+        "word": "തർക്കങ്ങളില്ലാതെ",
+        "start": 260.64,
+        "end": 261.66,
+        "confidence": 0.4116
+      }
+    ]
+  },
+  {
+    "line_idx": 39,
+    "text": "ദൈവത്തിൻ മക്കളായി ശോഭിച്ചീടാം!",
+    "start": 261.66,
+    "end": 266.24,
+    "avg_confidence": 0.5033,
+    "flags": [],
+    "words": [
+      {
+        "word": "ദൈവത്തിൻ",
+        "start": 261.66,
+        "end": 262.96,
+        "confidence": 0.4612
+      },
+      {
+        "word": "മക്കളായി",
+        "start": 262.96,
+        "end": 264.04,
+        "confidence": 0.7368
+      },
+      {
+        "word": "ശോഭിച്ചീടാം!",
+        "start": 264.26,
+        "end": 266.24,
+        "confidence": 0.3118
+      }
+    ]
+  },
+  {
+    "line_idx": 40,
+    "text": "അന്ധകാരമുള്ള ലോകത്തിന്റെ നടുവിൽ",
+    "start": 266.64,
+    "end": 270.9,
+    "avg_confidence": 0.4464,
+    "flags": [
+      "LOW_CONFIDENCE (0.446)"
+    ],
+    "words": [
+      {
+        "word": "അന്ധകാരമുള്ള",
+        "start": 266.64,
+        "end": 268.22,
+        "confidence": 0.5104
+      },
+      {
+        "word": "ലോകത്തിന്റെ",
+        "start": 268.3,
+        "end": 269.54,
+        "confidence": 0.5222
+      },
+      {
+        "word": "നടുവിൽ",
+        "start": 269.62,
+        "end": 270.9,
+        "confidence": 0.3067
+      }
+    ]
+  },
+  {
+    "line_idx": 41,
+    "text": "ജീവനാം വചനത്താൽ വെളിച്ചമാകാം!",
+    "start": 271.44,
+    "end": 276.14,
+    "avg_confidence": 0.6985,
+    "flags": [],
+    "words": [
+      {
+        "word": "ജീവനാം",
+        "start": 271.44,
+        "end": 272.3,
+        "confidence": 0.8116
+      },
+      {
+        "word": "വചനത്താൽ",
+        "start": 272.32,
+        "end": 273.46,
+        "confidence": 0.6605
+      },
+      {
+        "word": "വെളിച്ചമാകാം!",
+        "start": 273.46,
+        "end": 276.14,
+        "confidence": 0.6233
+      }
+    ]
+  },
+  {
+    "line_idx": 42,
+    "text": "സന്തോഷത്തോടെ എന്നും ആനന്ദിക്കാം",
+    "start": 277.6,
+    "end": 282.56,
+    "avg_confidence": 0.4919,
+    "flags": [
+      "LOW_CONFIDENCE (0.492)"
+    ],
+    "words": [
+      {
+        "word": "സന്തോഷത്തോടെ",
+        "start": 277.6,
+        "end": 279.54,
+        "confidence": 0.6037
+      },
+      {
+        "word": "എന്നും",
+        "start": 279.72,
+        "end": 280.46,
+        "confidence": 0.5136
+      },
+      {
+        "word": "ആനന്ദിക്കാം",
+        "start": 280.66,
+        "end": 282.56,
+        "confidence": 0.3583
+      }
+    ]
+  },
+  {
+    "line_idx": 43,
+    "text": "ക്രിസ്തുവിൻ നാമത്തെ വാഴ്ത്തീടാം!",
+    "start": 283.64,
+    "end": 290.56,
+    "avg_confidence": 0.5425,
+    "flags": [],
+    "words": [
+      {
+        "word": "ക്രിസ്തുവിൻ",
+        "start": 283.64,
+        "end": 284.78,
+        "confidence": 0.5854
+      },
+      {
+        "word": "നാമത്തെ",
+        "start": 284.9,
+        "end": 286.08,
+        "confidence": 0.6912
+      },
+      {
+        "word": "വാഴ്ത്തീടാം!",
+        "start": 287.6,
+        "end": 290.56,
+        "confidence": 0.351
+      }
+    ]
+  }
+]

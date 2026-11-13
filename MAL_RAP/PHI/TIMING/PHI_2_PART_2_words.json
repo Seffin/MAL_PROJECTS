@@ -1,0 +1,1438 @@
+[
+  {
+    "line_idx": 2,
+    "text": "ഇരുളിൽ തിളങ്ങും വെളിച്ചമായി നാം!",
+    "start": 2.92,
+    "end": 7.1,
+    "avg_confidence": 0.0515,
+    "flags": [
+      "LOW_CONFIDENCE (0.051)"
+    ],
+    "words": [
+      {
+        "word": "ഇരുളിൽ",
+        "start": 2.92,
+        "end": 3.4,
+        "confidence": 0.0773
+      },
+      {
+        "word": "തിളങ്ങും",
+        "start": 3.48,
+        "end": 4.14,
+        "confidence": 0.0611
+      },
+      {
+        "word": "വെളിച്ചമായി",
+        "start": 5.28,
+        "end": 6.36,
+        "confidence": 0.0502
+      },
+      {
+        "word": "നാം!",
+        "start": 6.46,
+        "end": 7.1,
+        "confidence": 0.0174
+      }
+    ]
+  },
+  {
+    "line_idx": 3,
+    "text": "വിറയലോടെ രക്ഷ പൂർത്തിയാക്കാം!",
+    "start": 10.38,
+    "end": 13.64,
+    "avg_confidence": 0.0174,
+    "flags": [
+      "LOW_CONFIDENCE (0.017)"
+    ],
+    "words": [
+      {
+        "word": "വിറയലോടെ",
+        "start": 10.38,
+        "end": 11.52,
+        "confidence": 0.0211
+      },
+      {
+        "word": "രക്ഷ",
+        "start": 11.64,
+        "end": 12.08,
+        "confidence": 0.0214
+      },
+      {
+        "word": "പൂർത്തിയാക്കാം!",
+        "start": 12.22,
+        "end": 13.64,
+        "confidence": 0.0096
+      }
+    ]
+  },
+  {
+    "line_idx": 5,
+    "text": "മുറു മുറുപ്പില്ലാതെ, സംശയങ്ങളില്ലാതെ,",
+    "start": 13.66,
+    "end": 36.62,
+    "avg_confidence": 0.0081,
+    "flags": [
+      "LOW_CONFIDENCE (0.008)"
+    ],
+    "words": [
+      {
+        "word": "മുറു",
+        "start": 13.66,
+        "end": 33.14,
+        "confidence": 0.001
+      },
+      {
+        "word": "മുറുപ്പില്ലാതെ,",
+        "start": 33.18,
+        "end": 34.22,
+        "confidence": 0.0055
+      },
+      {
+        "word": "സംശയങ്ങളില്ലാതെ,",
+        "start": 35.24,
+        "end": 36.62,
+        "confidence": 0.0179
+      }
+    ]
+  },
+  {
+    "line_idx": 6,
+    "text": "ദൈവത്തിൻ മക്കളായി ശോഭിക്കാം ഇരുളിൽ!",
+    "start": 37.74,
+    "end": 42.22,
+    "avg_confidence": 0.0177,
+    "flags": [
+      "LOW_CONFIDENCE (0.018)"
+    ],
+    "words": [
+      {
+        "word": "ദൈവത്തിൻ",
+        "start": 37.74,
+        "end": 38.28,
+        "confidence": 0.0089
+      },
+      {
+        "word": "മക്കളായി",
+        "start": 38.28,
+        "end": 39.34,
+        "confidence": 0.0212
+      },
+      {
+        "word": "ശോഭിക്കാം",
+        "start": 39.46,
+        "end": 40.4,
+        "confidence": 0.0163
+      },
+      {
+        "word": "ഇരുളിൽ!",
+        "start": 40.76,
+        "end": 42.22,
+        "confidence": 0.0243
+      }
+    ]
+  },
+  {
+    "line_idx": 7,
+    "text": "ജീവന്റെ വചനം ഉയർത്തിപ്പിടിക്കാം,",
+    "start": 42.46,
+    "end": 46.1,
+    "avg_confidence": 0.0555,
+    "flags": [
+      "LOW_CONFIDENCE (0.056)"
+    ],
+    "words": [
+      {
+        "word": "ജീവന്റെ",
+        "start": 42.46,
+        "end": 43.04,
+        "confidence": 0.0349
+      },
+      {
+        "word": "വചനം",
+        "start": 43.1,
+        "end": 43.6,
+        "confidence": 0.0621
+      },
+      {
+        "word": "ഉയർത്തിപ്പിടിക്കാം,",
+        "start": 44.78,
+        "end": 46.1,
+        "confidence": 0.0696
+      }
+    ]
+  },
+  {
+    "line_idx": 8,
+    "text": "ക്രിസ്തുവിൻ നാളിൽ സന്തോഷത്തോടെ നിൽക്കാം!",
+    "start": 47.26,
+    "end": 50.96,
+    "avg_confidence": 0.0394,
+    "flags": [
+      "LOW_CONFIDENCE (0.039)"
+    ],
+    "words": [
+      {
+        "word": "ക്രിസ്തുവിൻ",
+        "start": 47.26,
+        "end": 47.88,
+        "confidence": 0.0488
+      },
+      {
+        "word": "നാളിൽ",
+        "start": 47.88,
+        "end": 48.42,
+        "confidence": 0.0465
+      },
+      {
+        "word": "സന്തോഷത്തോടെ",
+        "start": 48.78,
+        "end": 50.22,
+        "confidence": 0.0179
+      },
+      {
+        "word": "നിൽക്കാം!",
+        "start": 50.3,
+        "end": 50.96,
+        "confidence": 0.0442
+      }
+    ]
+  },
+  {
+    "line_idx": 10,
+    "text": "എന്റെ പ്രിയരേ, നിങ്ങൾ എപ്പോഴും അനുസരിച്ചതുപോലെ,",
+    "start": 51.82,
+    "end": 55.52,
+    "avg_confidence": 0.3794,
+    "flags": [
+      "LOW_CONFIDENCE (0.379)"
+    ],
+    "words": [
+      {
+        "word": "എന്റെ",
+        "start": 51.82,
+        "end": 52.02,
+        "confidence": 0.2103
+      },
+      {
+        "word": "പ്രിയരേ,",
+        "start": 52.1,
+        "end": 52.6,
+        "confidence": 0.2707
+      },
+      {
+        "word": "നിങ്ങൾ",
+        "start": 53.0,
+        "end": 53.34,
+        "confidence": 0.5815
+      },
+      {
+        "word": "എപ്പോഴും",
+        "start": 53.38,
+        "end": 53.92,
+        "confidence": 0.4708
+      },
+      {
+        "word": "അനുസരിച്ചതുപോലെ,",
+        "start": 53.96,
+        "end": 55.52,
+        "confidence": 0.3638
+      }
+    ]
+  },
+  {
+    "line_idx": 11,
+    "text": "ഞാൻ അരികിലുള്ളപ്പോഴും അകലെ കഴിയുമ്പോഴും,",
+    "start": 56.58,
+    "end": 60.98,
+    "avg_confidence": 0.2687,
+    "flags": [
+      "LOW_CONFIDENCE (0.269)"
+    ],
+    "words": [
+      {
+        "word": "ഞാൻ",
+        "start": 56.58,
+        "end": 56.92,
+        "confidence": 0.362
+      },
+      {
+        "word": "അരികിലുള്ളപ്പോഴും",
+        "start": 56.96,
+        "end": 58.12,
+        "confidence": 0.3493
+      },
+      {
+        "word": "അകലെ",
+        "start": 58.14,
+        "end": 58.5,
+        "confidence": 0.2481
+      },
+      {
+        "word": "കഴിയുമ്പോഴും,",
+        "start": 58.86,
+        "end": 60.98,
+        "confidence": 0.1153
+      }
+    ]
+  },
+  {
+    "line_idx": 12,
+    "text": "ഭയത്തോടും വിറയലോടും രക്ഷയ്ക്കായി പ്രവേശിപ്പിൻ!",
+    "start": 61.38,
+    "end": 65.53,
+    "avg_confidence": 0.4446,
+    "flags": [
+      "LOW_CONFIDENCE (0.445)"
+    ],
+    "words": [
+      {
+        "word": "ഭയത്തോടും",
+        "start": 61.38,
+        "end": 62.16,
+        "confidence": 0.2779
+      },
+      {
+        "word": "വിറയലോടും",
+        "start": 62.28,
+        "end": 63.21,
+        "confidence": 0.5113
+      },
+      {
+        "word": "രക്ഷയ്ക്കായി",
+        "start": 63.51,
+        "end": 64.43,
+        "confidence": 0.7084
+      },
+      {
+        "word": "പ്രവേശിപ്പിൻ!",
+        "start": 64.51,
+        "end": 65.53,
+        "confidence": 0.2806
+      }
+    ]
+  },
+  {
+    "line_idx": 13,
+    "text": "നിങ്ങളിൽ ആഗ്രഹവും പ്രവൃത്തിയും നൽകുന്നത്,",
+    "start": 66.43,
+    "end": 68.79,
+    "avg_confidence": 0.8569,
+    "flags": [],
+    "words": [
+      {
+        "word": "നിങ്ങളിൽ",
+        "start": 66.43,
+        "end": 67.03,
+        "confidence": 0.8486
+      },
+      {
+        "word": "ആഗ്രഹവും",
+        "start": 67.05,
+        "end": 67.65,
+        "confidence": 0.9108
+      },
+      {
+        "word": "പ്രവൃത്തിയും",
+        "start": 67.69,
+        "end": 68.27,
+        "confidence": 0.9009
+      },
+      {
+        "word": "നൽകുന്നത്,",
+        "start": 68.31,
+        "end": 68.79,
+        "confidence": 0.7674
+      }
+    ]
+  },
+  {
+    "line_idx": 14,
+    "text": "സർവ്വശക്തനാം ദൈവത്തിന്റെ കൃപയത്രേ എന്നുമത്!",
+    "start": 68.89,
+    "end": 71.13,
+    "avg_confidence": 0.4715,
+    "flags": [
+      "LOW_CONFIDENCE (0.471)"
+    ],
+    "words": [
+      {
+        "word": "സർവ്വശക്തനാം",
+        "start": 68.89,
+        "end": 69.63,
+        "confidence": 0.5885
+      },
+      {
+        "word": "ദൈവത്തിന്റെ",
+        "start": 69.67,
+        "end": 70.17,
+        "confidence": 0.4104
+      },
+      {
+        "word": "കൃപയത്രേ",
+        "start": 70.25,
+        "end": 70.71,
+        "confidence": 0.4375
+      },
+      {
+        "word": "എന്നുമത്!",
+        "start": 70.75,
+        "end": 71.13,
+        "confidence": 0.4494
+      }
+    ]
+  },
+  {
+    "line_idx": 15,
+    "text": "തർക്കവും പരാതിയും മാറ്റി നമ്മൾ മുന്നേറണം,",
+    "start": 71.17,
+    "end": 73.69,
+    "avg_confidence": 0.6199,
+    "flags": [],
+    "words": [
+      {
+        "word": "തർക്കവും",
+        "start": 71.17,
+        "end": 71.73,
+        "confidence": 0.3971
+      },
+      {
+        "word": "പരാതിയും",
+        "start": 71.77,
+        "end": 72.33,
+        "confidence": 0.8098
+      },
+      {
+        "word": "മാറ്റി",
+        "start": 72.37,
+        "end": 72.73,
+        "confidence": 0.4818
+      },
+      {
+        "word": "നമ്മൾ",
+        "start": 72.79,
+        "end": 73.09,
+        "confidence": 0.6577
+      },
+      {
+        "word": "മുന്നേറണം,",
+        "start": 73.11,
+        "end": 73.69,
+        "confidence": 0.7533
+      }
+    ]
+  },
+  {
+    "line_idx": 16,
+    "text": "വക്രത നിറഞ്ഞ ലോകത്തിൽ കുറ്റമറ്റവരാകണം!",
+    "start": 73.73,
+    "end": 75.95,
+    "avg_confidence": 0.3469,
+    "flags": [
+      "LOW_CONFIDENCE (0.347)"
+    ],
+    "words": [
+      {
+        "word": "വക്രത",
+        "start": 73.73,
+        "end": 73.97,
+        "confidence": 0.1256
+      },
+      {
+        "word": "നിറഞ്ഞ",
+        "start": 73.97,
+        "end": 74.19,
+        "confidence": 0.0878
+      },
+      {
+        "word": "ലോകത്തിൽ",
+        "start": 74.29,
+        "end": 74.79,
+        "confidence": 0.6593
+      },
+      {
+        "word": "കുറ്റമറ്റവരാകണം!",
+        "start": 74.87,
+        "end": 75.95,
+        "confidence": 0.5148
+      }
+    ]
+  },
+  {
+    "line_idx": 17,
+    "text": "ദീപങ്ങൾ പോലെ തിളങ്ങി നാം നിൽക്കണം,",
+    "start": 76.05,
+    "end": 78.35,
+    "avg_confidence": 0.5495,
+    "flags": [],
+    "words": [
+      {
+        "word": "ദീപങ്ങൾ",
+        "start": 76.05,
+        "end": 76.69,
+        "confidence": 0.7652
+      },
+      {
+        "word": "പോലെ",
+        "start": 76.73,
+        "end": 77.07,
+        "confidence": 0.8012
+      },
+      {
+        "word": "തിളങ്ങി",
+        "start": 77.15,
+        "end": 77.53,
+        "confidence": 0.5136
+      },
+      {
+        "word": "നാം",
+        "start": 77.59,
+        "end": 77.87,
+        "confidence": 0.283
+      },
+      {
+        "word": "നിൽക്കണം,",
+        "start": 77.87,
+        "end": 78.35,
+        "confidence": 0.3846
+      }
+    ]
+  },
+  {
+    "line_idx": 18,
+    "text": "ജീവന്റെ വചനത്തെ ലോകത്തിൽ ഉയർത്തണം!",
+    "start": 78.49,
+    "end": 80.75,
+    "avg_confidence": 0.6892,
+    "flags": [],
+    "words": [
+      {
+        "word": "ജീവന്റെ",
+        "start": 78.49,
+        "end": 79.03,
+        "confidence": 0.6404
+      },
+      {
+        "word": "വചനത്തെ",
+        "start": 79.07,
+        "end": 79.49,
+        "confidence": 0.7896
+      },
+      {
+        "word": "ലോകത്തിൽ",
+        "start": 79.57,
+        "end": 80.17,
+        "confidence": 0.7708
+      },
+      {
+        "word": "ഉയർത്തണം!",
+        "start": 80.19,
+        "end": 80.75,
+        "confidence": 0.5559
+      }
+    ]
+  },
+  {
+    "line_idx": 19,
+    "text": "നിങ്ങളുടെ വിശ്വാസ യാഗത്തിന്മേൽ എൻ ജീവൻ ഒഴിച്ചാലും,",
+    "start": 80.87,
+    "end": 84.79,
+    "avg_confidence": 0.4361,
+    "flags": [
+      "LOW_CONFIDENCE (0.436)"
+    ],
+    "words": [
+      {
+        "word": "നിങ്ങളുടെ",
+        "start": 80.87,
+        "end": 81.45,
+        "confidence": 0.8521
+      },
+      {
+        "word": "വിശ്വാസ",
+        "start": 81.51,
+        "end": 82.05,
+        "confidence": 0.8589
+      },
+      {
+        "word": "യാഗത്തിന്മേൽ",
+        "start": 82.13,
+        "end": 83.35,
+        "confidence": 0.4728
+      },
+      {
+        "word": "എൻ",
+        "start": 83.37,
+        "end": 83.49,
+        "confidence": 0.1536
+      },
+      {
+        "word": "ജീവൻ",
+        "start": 83.51,
+        "end": 83.93,
+        "confidence": 0.1716
+      },
+      {
+        "word": "ഒഴിച്ചാലും,",
+        "start": 83.95,
+        "end": 84.79,
+        "confidence": 0.1075
+      }
+    ]
+  },
+  {
+    "line_idx": 20,
+    "text": "ഞാൻ സന്തോഷിക്കും, നിങ്ങളോടൊപ്പം ആനന്ദിക്കും!",
+    "start": 85.37,
+    "end": 89.25,
+    "avg_confidence": 0.2649,
+    "flags": [
+      "LOW_CONFIDENCE (0.265)"
+    ],
+    "words": [
+      {
+        "word": "ഞാൻ",
+        "start": 85.37,
+        "end": 85.65,
+        "confidence": 0.4261
+      },
+      {
+        "word": "സന്തോഷിക്കും,",
+        "start": 85.69,
+        "end": 86.81,
+        "confidence": 0.2251
+      },
+      {
+        "word": "നിങ്ങളോടൊപ്പം",
+        "start": 87.17,
+        "end": 88.13,
+        "confidence": 0.2635
+      },
+      {
+        "word": "ആനന്ദിക്കും!",
+        "start": 88.19,
+        "end": 89.25,
+        "confidence": 0.1449
+      }
+    ]
+  },
+  {
+    "line_idx": 22,
+    "text": "മുറു മുറുപ്പില്ലാതെ, സംശയങ്ങളില്ലാതെ,",
+    "start": 89.27,
+    "end": 94.23,
+    "avg_confidence": 0.4201,
+    "flags": [
+      "LOW_CONFIDENCE (0.420)"
+    ],
+    "words": [
+      {
+        "word": "മുറു",
+        "start": 89.27,
+        "end": 90.75,
+        "confidence": 0.3207
+      },
+      {
+        "word": "മുറുപ്പില്ലാതെ,",
+        "start": 90.81,
+        "end": 91.83,
+        "confidence": 0.3192
+      },
+      {
+        "word": "സംശയങ്ങളില്ലാതെ,",
+        "start": 92.87,
+        "end": 94.23,
+        "confidence": 0.6205
+      }
+    ]
+  },
+  {
+    "line_idx": 23,
+    "text": "ദൈവത്തിൻ മക്കളായി ശോഭിക്കാം ഇരുളിൽ!",
+    "start": 95.33,
+    "end": 99.91,
+    "avg_confidence": 0.0938,
+    "flags": [
+      "LOW_CONFIDENCE (0.094)"
+    ],
+    "words": [
+      {
+        "word": "ദൈവത്തിൻ",
+        "start": 95.33,
+        "end": 95.91,
+        "confidence": 0.0822
+      },
+      {
+        "word": "മക്കളായി",
+        "start": 95.91,
+        "end": 96.97,
+        "confidence": 0.1314
+      },
+      {
+        "word": "ശോഭിക്കാം",
+        "start": 97.07,
+        "end": 98.01,
+        "confidence": 0.0813
+      },
+      {
+        "word": "ഇരുളിൽ!",
+        "start": 98.37,
+        "end": 99.91,
+        "confidence": 0.0804
+      }
+    ]
+  },
+  {
+    "line_idx": 24,
+    "text": "ജീവന്റെ വചനം ഉയർത്തിപ്പിടിക്കാം,",
+    "start": 100.09,
+    "end": 103.71,
+    "avg_confidence": 0.2144,
+    "flags": [
+      "LOW_CONFIDENCE (0.214)"
+    ],
+    "words": [
+      {
+        "word": "ജീവന്റെ",
+        "start": 100.09,
+        "end": 100.65,
+        "confidence": 0.0657
+      },
+      {
+        "word": "വചനം",
+        "start": 100.71,
+        "end": 101.21,
+        "confidence": 0.0999
+      },
+      {
+        "word": "ഉയർത്തിപ്പിടിക്കാം,",
+        "start": 102.39,
+        "end": 103.71,
+        "confidence": 0.4775
+      }
+    ]
+  },
+  {
+    "line_idx": 25,
+    "text": "ക്രിസ്തുവിൻ നാളിൽ സന്തോഷത്തോടെ നിൽക്കാം!",
+    "start": 104.85,
+    "end": 108.61,
+    "avg_confidence": 0.5825,
+    "flags": [],
+    "words": [
+      {
+        "word": "ക്രിസ്തുവിൻ",
+        "start": 104.85,
+        "end": 105.49,
+        "confidence": 0.7024
+      },
+      {
+        "word": "നാളിൽ",
+        "start": 105.49,
+        "end": 106.03,
+        "confidence": 0.736
+      },
+      {
+        "word": "സന്തോഷത്തോടെ",
+        "start": 106.39,
+        "end": 107.85,
+        "confidence": 0.6005
+      },
+      {
+        "word": "നിൽക്കാം!",
+        "start": 107.91,
+        "end": 108.61,
+        "confidence": 0.291
+      }
+    ]
+  },
+  {
+    "line_idx": 27,
+    "text": "ആ സന്തോഷത്തോടെ തന്നെ ഞാൻ തിമൊഥെയൊസിനെ അയക്കാം,",
+    "start": 109.47,
+    "end": 113.31,
+    "avg_confidence": 0.4976,
+    "flags": [
+      "LOW_CONFIDENCE (0.498)"
+    ],
+    "words": [
+      {
+        "word": "ആ",
+        "start": 109.47,
+        "end": 109.57,
+        "confidence": 0.6553
+      },
+      {
+        "word": "സന്തോഷത്തോടെ",
+        "start": 109.69,
+        "end": 110.69,
+        "confidence": 0.5702
+      },
+      {
+        "word": "തന്നെ",
+        "start": 110.77,
+        "end": 111.13,
+        "confidence": 0.7603
+      },
+      {
+        "word": "ഞാൻ",
+        "start": 111.19,
+        "end": 111.47,
+        "confidence": 0.3887
+      },
+      {
+        "word": "തിമൊഥെയൊസിനെ",
+        "start": 111.49,
+        "end": 112.51,
+        "confidence": 0.4976
+      },
+      {
+        "word": "അയക്കാം,",
+        "start": 112.73,
+        "end": 113.31,
+        "confidence": 0.1134
+      }
+    ]
+  },
+  {
+    "line_idx": 28,
+    "text": "നിങ്ങളുടെ വിവരങ്ങളറിഞ്ഞ് എൻ മനസ്സൊന്ന് ആശ്വസിക്കാൻ!",
+    "start": 114.47,
+    "end": 118.81,
+    "avg_confidence": 0.5284,
+    "flags": [],
+    "words": [
+      {
+        "word": "നിങ്ങളുടെ",
+        "start": 114.47,
+        "end": 115.05,
+        "confidence": 0.5861
+      },
+      {
+        "word": "വിവരങ്ങളറിഞ്ഞ്",
+        "start": 115.09,
+        "end": 116.33,
+        "confidence": 0.5038
+      },
+      {
+        "word": "എൻ",
+        "start": 116.37,
+        "end": 116.55,
+        "confidence": 0.3196
+      },
+      {
+        "word": "മനസ്സൊന്ന്",
+        "start": 116.59,
+        "end": 117.21,
+        "confidence": 0.5649
+      },
+      {
+        "word": "ആശ്വസിക്കാൻ!",
+        "start": 117.41,
+        "end": 118.81,
+        "confidence": 0.6677
+      }
+    ]
+  },
+  {
+    "line_idx": 29,
+    "text": "മറ്റുള്ളവർ സ്വന്തം കാര്യം മാത്രം നോക്കി പായുമ്പോൾ,",
+    "start": 119.23,
+    "end": 123.17,
+    "avg_confidence": 0.683,
+    "flags": [],
+    "words": [
+      {
+        "word": "മറ്റുള്ളവർ",
+        "start": 119.23,
+        "end": 119.87,
+        "confidence": 0.1474
+      },
+      {
+        "word": "സ്വന്തം",
+        "start": 119.87,
+        "end": 120.37,
+        "confidence": 0.5727
+      },
+      {
+        "word": "കാര്യം",
+        "start": 120.51,
+        "end": 121.01,
+        "confidence": 0.9326
+      },
+      {
+        "word": "മാത്രം",
+        "start": 121.09,
+        "end": 121.61,
+        "confidence": 0.9647
+      },
+      {
+        "word": "നോക്കി",
+        "start": 121.69,
+        "end": 122.07,
+        "confidence": 0.777
+      },
+      {
+        "word": "പായുമ്പോൾ,",
+        "start": 122.17,
+        "end": 123.17,
+        "confidence": 0.7036
+      }
+    ]
+  },
+  {
+    "line_idx": 30,
+    "text": "അവൻ ക്രിസ്തുവിൻ വേലയ്ക്കായി ഒപ്പമുണ്ട് വിശ്വസ്തനായി!",
+    "start": 123.83,
+    "end": 127.89,
+    "avg_confidence": 0.5508,
+    "flags": [],
+    "words": [
+      {
+        "word": "അവൻ",
+        "start": 123.83,
+        "end": 124.09,
+        "confidence": 0.476
+      },
+      {
+        "word": "ക്രിസ്തുവിൻ",
+        "start": 124.09,
+        "end": 124.71,
+        "confidence": 0.3104
+      },
+      {
+        "word": "വേലയ്ക്കായി",
+        "start": 124.71,
+        "end": 125.71,
+        "confidence": 0.5433
+      },
+      {
+        "word": "ഒപ്പമുണ്ട്",
+        "start": 125.97,
+        "end": 126.69,
+        "confidence": 0.4509
+      },
+      {
+        "word": "വിശ്വസ്തനായി!",
+        "start": 126.81,
+        "end": 127.89,
+        "confidence": 0.9736
+      }
+    ]
+  },
+  {
+    "line_idx": 31,
+    "text": "എന്റെ ഈ സന്തോഷം ഇനിയും പൂർണ്ണമായി മാറുവാൻ,",
+    "start": 128.33,
+    "end": 131.33,
+    "avg_confidence": 0.7693,
+    "flags": [],
+    "words": [
+      {
+        "word": "എന്റെ",
+        "start": 128.33,
+        "end": 128.55,
+        "confidence": 0.6889
+      },
+      {
+        "word": "ഈ",
+        "start": 128.67,
+        "end": 128.79,
+        "confidence": 0.7577
+      },
+      {
+        "word": "സന്തോഷം",
+        "start": 128.89,
+        "end": 129.51,
+        "confidence": 0.7786
+      },
+      {
+        "word": "ഇനിയും",
+        "start": 129.55,
+        "end": 129.91,
+        "confidence": 0.8393
+      },
+      {
+        "word": "പൂർണ്ണമായി",
+        "start": 129.97,
+        "end": 130.65,
+        "confidence": 0.7682
+      },
+      {
+        "word": "മാറുവാൻ,",
+        "start": 130.71,
+        "end": 131.33,
+        "confidence": 0.783
+      }
+    ]
+  },
+  {
+    "line_idx": 32,
+    "text": "എപ്പഫ്രോദിത്തൊസിനെയും തിരികെ അയക്കുന്നു നിങ്ങളുടെ അരികിലേക്ക്!",
+    "start": 131.35,
+    "end": 134.79,
+    "avg_confidence": 0.6922,
+    "flags": [],
+    "words": [
+      {
+        "word": "എപ്പഫ്രോദിത്തൊസിനെയും",
+        "start": 131.35,
+        "end": 132.47,
+        "confidence": 0.7893
+      },
+      {
+        "word": "തിരികെ",
+        "start": 132.51,
+        "end": 132.79,
+        "confidence": 0.6151
+      },
+      {
+        "word": "അയക്കുന്നു",
+        "start": 132.87,
+        "end": 133.63,
+        "confidence": 0.7092
+      },
+      {
+        "word": "നിങ്ങളുടെ",
+        "start": 133.71,
+        "end": 134.25,
+        "confidence": 0.8544
+      },
+      {
+        "word": "അരികിലേക്ക്!",
+        "start": 134.31,
+        "end": 134.79,
+        "confidence": 0.4929
+      }
+    ]
+  },
+  {
+    "line_idx": 33,
+    "text": "മരണത്തോടടുത്ത രോഗത്തിൽ അവൻ വീണുപോയെങ്കിലും,",
+    "start": 135.17,
+    "end": 138.05,
+    "avg_confidence": 0.7179,
+    "flags": [],
+    "words": [
+      {
+        "word": "മരണത്തോടടുത്ത",
+        "start": 135.17,
+        "end": 136.05,
+        "confidence": 0.6735
+      },
+      {
+        "word": "രോഗത്തിൽ",
+        "start": 136.11,
+        "end": 136.73,
+        "confidence": 0.8547
+      },
+      {
+        "word": "അവൻ",
+        "start": 136.79,
+        "end": 136.99,
+        "confidence": 0.6528
+      },
+      {
+        "word": "വീണുപോയെങ്കിലും,",
+        "start": 137.01,
+        "end": 138.05,
+        "confidence": 0.6906
+      }
+    ]
+  },
+  {
+    "line_idx": 34,
+    "text": "ദൈവം കരുണ കാട്ടി അവനെയും എന്നെയും കാത്തു എന്നും!",
+    "start": 138.21,
+    "end": 142.13,
+    "avg_confidence": 0.8165,
+    "flags": [],
+    "words": [
+      {
+        "word": "ദൈവം",
+        "start": 138.21,
+        "end": 138.51,
+        "confidence": 0.7666
+      },
+      {
+        "word": "കരുണ",
+        "start": 138.79,
+        "end": 139.07,
+        "confidence": 0.8449
+      },
+      {
+        "word": "കാട്ടി",
+        "start": 139.11,
+        "end": 139.51,
+        "confidence": 0.7752
+      },
+      {
+        "word": "അവനെയും",
+        "start": 139.75,
+        "end": 140.31,
+        "confidence": 0.9095
+      },
+      {
+        "word": "എന്നെയും",
+        "start": 140.37,
+        "end": 140.89,
+        "confidence": 0.8969
+      },
+      {
+        "word": "കാത്തു",
+        "start": 141.19,
+        "end": 141.57,
+        "confidence": 0.7663
+      },
+      {
+        "word": "എന്നും!",
+        "start": 141.73,
+        "end": 142.13,
+        "confidence": 0.7561
+      }
+    ]
+  },
+  {
+    "line_idx": 35,
+    "text": "ക്രിസ്തുവിൻ വേലയ്ക്കായി ജീവൻ തൃണവൽക്കരിച്ചവനെ,",
+    "start": 143.29,
+    "end": 147.61,
+    "avg_confidence": 0.5198,
+    "flags": [],
+    "words": [
+      {
+        "word": "ക്രിസ്തുവിൻ",
+        "start": 143.29,
+        "end": 143.89,
+        "confidence": 0.4679
+      },
+      {
+        "word": "വേലയ്ക്കായി",
+        "start": 143.91,
+        "end": 144.45,
+        "confidence": 0.443
+      },
+      {
+        "word": "ജീവൻ",
+        "start": 144.51,
+        "end": 145.03,
+        "confidence": 0.6484
+      },
+      {
+        "word": "തൃണവൽക്കരിച്ചവനെ,",
+        "start": 145.37,
+        "end": 147.61,
+        "confidence": 0.5198
+      }
+    ]
+  },
+  {
+    "line_idx": 36,
+    "text": "ബഹുമാനത്തോടെ ചേർത്തുനിർത്തി സ്വീകരിക്കുക നിങ്ങൾ അവനെ!",
+    "start": 147.81,
+    "end": 152.13,
+    "avg_confidence": 0.6505,
+    "flags": [],
+    "words": [
+      {
+        "word": "ബഹുമാനത്തോടെ",
+        "start": 147.81,
+        "end": 149.11,
+        "confidence": 0.7799
+      },
+      {
+        "word": "ചേർത്തുനിർത്തി",
+        "start": 149.27,
+        "end": 150.13,
+        "confidence": 0.6202
+      },
+      {
+        "word": "സ്വീകരിക്കുക",
+        "start": 150.19,
+        "end": 151.03,
+        "confidence": 0.7258
+      },
+      {
+        "word": "നിങ്ങൾ",
+        "start": 151.11,
+        "end": 151.75,
+        "confidence": 0.6451
+      },
+      {
+        "word": "അവനെ!",
+        "start": 151.77,
+        "end": 152.13,
+        "confidence": 0.4814
+      }
+    ]
+  },
+  {
+    "line_idx": 38,
+    "text": "മുറു മുറുപ്പില്ലാതെ, സംശയങ്ങളില്ലാതെ,",
+    "start": 152.93,
+    "end": 156.63,
+    "avg_confidence": 0.2905,
+    "flags": [
+      "LOW_CONFIDENCE (0.290)"
+    ],
+    "words": [
+      {
+        "word": "മുറു",
+        "start": 152.93,
+        "end": 153.15,
+        "confidence": 0.0665
+      },
+      {
+        "word": "മുറുപ്പില്ലാതെ,",
+        "start": 153.19,
+        "end": 154.23,
+        "confidence": 0.1764
+      },
+      {
+        "word": "സംശയങ്ങളില്ലാതെ,",
+        "start": 155.25,
+        "end": 156.63,
+        "confidence": 0.6286
+      }
+    ]
+  },
+  {
+    "line_idx": 39,
+    "text": "ദൈവത്തിൻ മക്കളായി ശോഭിക്കാം ഇരുളിൽ!",
+    "start": 157.73,
+    "end": 162.31,
+    "avg_confidence": 0.178,
+    "flags": [
+      "LOW_CONFIDENCE (0.178)"
+    ],
+    "words": [
+      {
+        "word": "ദൈവത്തിൻ",
+        "start": 157.73,
+        "end": 158.31,
+        "confidence": 0.1407
+      },
+      {
+        "word": "മക്കളായി",
+        "start": 158.31,
+        "end": 159.35,
+        "confidence": 0.318
+      },
+      {
+        "word": "ശോഭിക്കാം",
+        "start": 159.47,
+        "end": 160.43,
+        "confidence": 0.1081
+      },
+      {
+        "word": "ഇരുളിൽ!",
+        "start": 160.79,
+        "end": 162.31,
+        "confidence": 0.1451
+      }
+    ]
+  },
+  {
+    "line_idx": 40,
+    "text": "ജീവന്റെ വചനം ഉയർത്തിപ്പിടിക്കാം,",
+    "start": 162.47,
+    "end": 166.11,
+    "avg_confidence": 0.6222,
+    "flags": [],
+    "words": [
+      {
+        "word": "ജീവന്റെ",
+        "start": 162.47,
+        "end": 163.05,
+        "confidence": 0.6122
+      },
+      {
+        "word": "വചനം",
+        "start": 163.11,
+        "end": 163.61,
+        "confidence": 0.7576
+      },
+      {
+        "word": "ഉയർത്തിപ്പിടിക്കാം,",
+        "start": 164.79,
+        "end": 166.11,
+        "confidence": 0.4969
+      }
+    ]
+  },
+  {
+    "line_idx": 41,
+    "text": "ക്രിസ്തുവിൻ നാളിൽ സന്തോഷത്തോടെ നിൽക്കാം!",
+    "start": 167.25,
+    "end": 170.99,
+    "avg_confidence": 0.6063,
+    "flags": [],
+    "words": [
+      {
+        "word": "ക്രിസ്തുവിൻ",
+        "start": 167.25,
+        "end": 167.89,
+        "confidence": 0.6781
+      },
+      {
+        "word": "നാളിൽ",
+        "start": 167.89,
+        "end": 168.43,
+        "confidence": 0.6565
+      },
+      {
+        "word": "സന്തോഷത്തോടെ",
+        "start": 168.79,
+        "end": 170.25,
+        "confidence": 0.6153
+      },
+      {
+        "word": "നിൽക്കാം!",
+        "start": 170.31,
+        "end": 170.99,
+        "confidence": 0.4752
+      }
+    ]
+  },
+  {
+    "line_idx": 43,
+    "text": "ലോകത്തിൽ വെളിച്ചമായി നമ്മൾ ശോഭിക്കും!",
+    "start": 172.09,
+    "end": 175.89,
+    "avg_confidence": 0.6184,
+    "flags": [],
+    "words": [
+      {
+        "word": "ലോകത്തിൽ",
+        "start": 172.09,
+        "end": 172.69,
+        "confidence": 0.7076
+      },
+      {
+        "word": "വെളിച്ചമായി",
+        "start": 172.71,
+        "end": 173.59,
+        "confidence": 0.8607
+      },
+      {
+        "word": "നമ്മൾ",
+        "start": 174.51,
+        "end": 174.99,
+        "confidence": 0.3603
+      },
+      {
+        "word": "ശോഭിക്കും!",
+        "start": 175.07,
+        "end": 175.89,
+        "confidence": 0.5451
+      }
+    ]
+  },
+  {
+    "line_idx": 44,
+    "text": "വിശ്വസ്തതയോടെ ഈ ഓട്ടം പൂർത്തിയാക്കും!",
+    "start": 176.91,
+    "end": 180.69,
+    "avg_confidence": 0.6085,
+    "flags": [],
+    "words": [
+      {
+        "word": "വിശ്വസ്തതയോടെ",
+        "start": 176.91,
+        "end": 178.21,
+        "confidence": 0.5911
+      },
+      {
+        "word": "ഈ",
+        "start": 178.49,
+        "end": 179.09,
+        "confidence": 0.6347
+      },
+      {
+        "word": "ഓട്ടം",
+        "start": 179.35,
+        "end": 179.77,
+        "confidence": 0.6792
+      },
+      {
+        "word": "പൂർത്തിയാക്കും!",
+        "start": 179.89,
+        "end": 180.69,
+        "confidence": 0.529
+      }
+    ]
+  },
+  {
+    "line_idx": 45,
+    "text": "വിശ്വാസത്തിൻ ജയം നമ്മിൽ പൂത്തുലയും,",
+    "start": 181.69,
+    "end": 185.25,
+    "avg_confidence": 0.7416,
+    "flags": [],
+    "words": [
+      {
+        "word": "വിശ്വാസത്തിൻ",
+        "start": 181.69,
+        "end": 182.83,
+        "confidence": 0.7857
+      },
+      {
+        "word": "ജയം",
+        "start": 182.89,
+        "end": 183.29,
+        "confidence": 0.8123
+      },
+      {
+        "word": "നമ്മിൽ",
+        "start": 183.51,
+        "end": 184.05,
+        "confidence": 0.7018
+      },
+      {
+        "word": "പൂത്തുലയും,",
+        "start": 184.41,
+        "end": 185.25,
+        "confidence": 0.6668
+      }
+    ]
+  },
+  {
+    "line_idx": 46,
+    "text": "അവന്റെ കൃപ നമ്മിൽ എന്നെന്നും നിറഞ്ഞുനിൽക്കും!",
+    "start": 185.97,
+    "end": 190.28,
+    "avg_confidence": 0.5692,
+    "flags": [],
+    "words": [
+      {
+        "word": "അവന്റെ",
+        "start": 185.97,
+        "end": 186.31,
+        "confidence": 0.518
+      },
+      {
+        "word": "കൃപ",
+        "start": 186.49,
+        "end": 186.75,
+        "confidence": 0.5789
+      },
+      {
+        "word": "നമ്മിൽ",
+        "start": 187.69,
+        "end": 188.21,
+        "confidence": 0.6598
+      },
+      {
+        "word": "എന്നെന്നും",
+        "start": 188.23,
+        "end": 188.8,
+        "confidence": 0.683
+      },
+      {
+        "word": "നിറഞ്ഞുനിൽക്കും!",
+        "start": 189.36,
+        "end": 190.28,
+        "confidence": 0.4065
+      }
+    ]
+  }
+]

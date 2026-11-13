@@ -1,0 +1,62 @@
+﻿project:
+  name: "Philippians Chapter 1 Part 1 Malayalam Slow Song"
+  language: "Malayalam"
+  output_dir: "D:/Seffin/MAL_PROJECTS/MAL_SLOW/MP4"
+  workers: 1
+  overwrite: true
+  clean_ass: false
+
+video:
+  resolution: "1920x1080"
+  fps: 30
+  codec: "auto"
+  preset: "fast"
+  crf: 23
+  background_media: "D:/Seffin/BG_VIDEO/BG.mp4"
+  loop_background: true
+
+audio:
+  codec: "aac"
+  bitrate: "192k"
+  sample_rate: 48000
+  channels: 2
+
+overlay:
+  enabled: false
+
+style:
+  verse:
+    font: "Noto Sans Malayalam Medium"
+    size: 130
+    color: "#FFFFFF"
+    bold: false
+    outline_color: "#000000"
+    outline_width: 3.5
+    alignment: 5
+    margin_bottom: 80
+    margin_lr: 60
+    background_box: false
+
+  heading:
+    font: "Noto Sans Malayalam Medium"
+    size: 140
+    color: "#FFD700"
+    bold: false
+    outline_color: "#000000"
+    outline_width: 2.5
+    alignment: 8
+    margin_vertical: 60
+    background_box: false
+
+  verse_number:
+    show: false
+
+jobs:
+  - usfm: "D:/Seffin/MAL_PROJECTS/MAL_SLOW/USFM/PHIL_CH_1_PART_1_MAL.usfm"
+    timing: "D:/Seffin/MAL_PROJECTS/MAL_SLOW/TIMING/PHIL_CH_1_PART_1_MAL.txt"
+    audio: "D:/Seffin/MAL_PROJECTS/MAL_SLOW/MP3/PHIL_CH_1_PART 1_MAL.mp3"
+    output: "D:/Seffin/MAL_PROJECTS/MAL_SLOW/MP4/PHIL_CH_1_PART_1_MAL.mp4"
+    book: "PHI"
+    chapter: 1
+    background_media: "D:/Seffin/BG_VIDEO/BG1.mp4"
+

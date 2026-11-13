@@ -1,0 +1,138 @@
+# REVIEW REPORT — align_song.py
+# Audio duration: 322.80s
+
+Line   2: ക്രിസ്തുവേ എന്റെ ജീവന്റെ നാഥൻ,
+         start=16.32s  end=25.88s  conf=0.362
+         ⚠  LOW_CONFIDENCE (0.362)
+
+Line   3: ക്രിസ്തുവേ എന്റെ പ്രത്യാശ പ്രഭയും!
+         start=25.88s  end=32.82s  conf=0.273
+         ⚠  LOW_CONFIDENCE (0.273)
+
+Line   7: ക്രിസ്തുവിൻ സ്നേഹത്തിൽ ജീവിക്കും ഞാൻ!
+         start=51.60s  end=56.80s  conf=0.488
+         ⚠  LOW_CONFIDENCE (0.488)
+
+Line   8: ലോകമത്രയും മാഞ്ഞുപോയാലും,
+         start=56.82s  end=60.68s  conf=0.261
+         ⚠  LOW_CONFIDENCE (0.261)
+
+Line   9: ക്രിസ്തുവിൻ സ്നേഹത്തിൽ ജീവിക്കും ഞാൻ!
+         start=61.98s  end=74.79s  conf=0.174
+         ⚠  LOW_CONFIDENCE (0.174)
+
+Line  12: കർത്താവിൽ എന്റെയീ സങ്കടങ്ങളെല്ലാം,
+         start=97.99s  end=102.63s  conf=0.359
+         ⚠  LOW_CONFIDENCE (0.359)
+
+Line  13: ധൈര്യമായ് സാക്ഷ്യം പറഞ്ഞുവല്ലോ!
+         start=103.15s  end=107.15s  conf=0.433
+         ⚠  LOW_CONFIDENCE (0.433)
+
+Line  14: ഏതു നിമിഷവും അവനെ ഉയർത്താൻ,
+         start=108.53s  end=113.67s  conf=0.028
+         ⚠  LOW_CONFIDENCE (0.028)
+
+Line  15: എന്റെയുള്ളം എന്നും ദാഹിച്ചീടുന്നു!
+         start=113.67s  end=117.59s  conf=0.031
+         ⚠  LOW_CONFIDENCE (0.031)
+
+Line  16: എനിക്ക് ജീവിക്കുന്നത് ക്രിസ്തുവത്രേ,
+         start=119.15s  end=122.63s  conf=0.049
+         ⚠  LOW_CONFIDENCE (0.049)
+
+Line  17: മരിക്കുന്നതോ എനിക്ക് ലാഭമത്രേ!
+         start=124.27s  end=127.89s  conf=0.049
+         ⚠  LOW_CONFIDENCE (0.049)
+
+Line  19: ക്രിസ്തുവിൻ സ്നേഹത്തിൽ ജീവിക്കും ഞാൻ!
+         start=134.65s  end=139.85s  conf=0.444
+         ⚠  LOW_CONFIDENCE (0.444)
+
+Line  20: ലോകമത്രയും മാഞ്ഞുപോയാലും,
+         start=139.87s  end=143.71s  conf=0.064
+         ⚠  LOW_CONFIDENCE (0.064)
+
+Line  21: ക്രിസ്തുവിൻ സ്നേഹത്തിൽ ജീവിക്കും ഞാൻ!
+         start=145.01s  end=161.69s  conf=0.036
+         ⚠  LOW_CONFIDENCE (0.036)
+
+Line  23: കർത്തനോടൊപ്പം ഇരിപ്പ് ശ്രേഷ്ഠം!
+         start=175.83s  end=180.03s  conf=0.459
+         ⚠  LOW_CONFIDENCE (0.459)
+
+Line  26: സ്വർഗ്ഗീയ ലക്ഷ്യം മനസ്സിൽ വച്ച്,
+         start=191.37s  end=195.27s  conf=0.075
+         ⚠  LOW_CONFIDENCE (0.075)
+
+Line  27: ദൈവത്തിൻ വിളിക്കായി കാത്തിടാം!
+         start=196.61s  end=201.33s  conf=0.072
+         ⚠  LOW_CONFIDENCE (0.072)
+
+Line  28: എനിക്ക് ജീവിക്കുന്നത് ക്രിസ്തുവത്രേ,
+         start=202.20s  end=205.54s  conf=0.039
+         ⚠  LOW_CONFIDENCE (0.039)
+
+Line  29: മരിക്കുന്നതോ എനിക്ക് ലാഭമത്രേ!
+         start=207.32s  end=210.86s  conf=0.040
+         ⚠  LOW_CONFIDENCE (0.040)
+
+Line  31: ക്രിസ്തുവിൻ സ്നേഹത്തിൽ ജീവിക്കും ഞാൻ!
+         start=217.68s  end=221.82s  conf=0.345
+         ⚠  LOW_CONFIDENCE (0.345)
+
+Line  32: ലോകമത്രയും മാഞ്ഞുപോയാലും,
+         start=222.88s  end=226.86s  conf=0.045
+         ⚠  LOW_CONFIDENCE (0.045)
+
+Line  33: ക്രിസ്തുവിൻ സ്നേഹത്തിൽ ജീവിക്കും ഞാൻ!
+         start=228.06s  end=232.58s  conf=0.037
+         ⚠  LOW_CONFIDENCE (0.037)
+
+Line  34: വിശ്വസിക്കാൻ മാത്രമല്ല കർത്താവിൽ,
+         start=253.68s  end=258.38s  conf=0.292
+         ⚠  LOW_CONFIDENCE (0.292)
+
+Line  35: സഹിക്കാനും കൂടെ കൃപ തന്നുവല്ലോ!
+         start=258.70s  end=263.18s  conf=0.215
+         ⚠  LOW_CONFIDENCE (0.215)
+
+Line  36: ഏക മനസ്സോടെ പോരാടി നാം,
+         start=264.20s  end=268.58s  conf=0.381
+         ⚠  LOW_CONFIDENCE (0.381)
+
+Line  37: വിശ്വാസ പാതയിൽ മുന്നേറിടാം!
+         start=269.26s  end=273.68s  conf=0.473
+         ⚠  LOW_CONFIDENCE (0.473)
+
+Line  38: ശത്രുവിൻ ഭയങ്ങൾ മാറ്റിവെച്ചു,
+         start=274.42s  end=278.44s  conf=0.077
+         ⚠  LOW_CONFIDENCE (0.077)
+
+Line  39: ജയത്തിന്റെ പാതയിൽ ഓടിടാം നാം!
+         start=279.46s  end=284.40s  conf=0.184
+         ⚠  LOW_CONFIDENCE (0.184)
+
+Line  40: എനിക്ക് ജീവിക്കുന്നത് ക്രിസ്തുവത്രേ,
+         start=285.24s  end=288.80s  conf=0.040
+         ⚠  LOW_CONFIDENCE (0.040)
+
+Line  41: മരിക്കുന്നതോ എനിക്ക് ലാഭമത്രേ!
+         start=290.34s  end=293.90s  conf=0.037
+         ⚠  LOW_CONFIDENCE (0.037)
+
+Line  42: ലോകമത്രയും മാഞ്ഞുപോയാലും,
+         start=295.54s  end=299.40s  conf=0.263
+         ⚠  LOW_CONFIDENCE (0.263)
+
+Line  43: ക്രിസ്തുവിൻ സ്നേഹത്തിൽ ജീവിക്കും ഞാൻ!
+         start=300.70s  end=304.78s  conf=0.052
+         ⚠  LOW_CONFIDENCE (0.052)
+
+Line  44: ലോകമത്രയും മാഞ്ഞുപോയാലും,
+         start=305.92s  end=309.76s  conf=0.051
+         ⚠  LOW_CONFIDENCE (0.051)
+
+Line  45: ക്രിസ്തുവിൻ സ്നേഹത്തിൽ ജീവിക്കും ഞാൻ!
+         start=311.16s  end=321.12s  conf=0.051
+         ⚠  LOW_CONFIDENCE (0.051)

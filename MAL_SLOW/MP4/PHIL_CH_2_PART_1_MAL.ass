@@ -1,0 +1,50 @@
+[Script Info]
+Title: PHI Chapter 2
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Verse,Noto Sans Malayalam Medium,130,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.5,1,5,60,60,80,1
+Style: Heading,Noto Sans Malayalam Medium,140,&H0000D7FF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,1,8,60,60,60,1
+Style: OverlayTitle,Noto Sans Malayalam Medium,195,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.5,1,8,60,60,40,1
+Style: OverlaySubtitle,Noto Sans Malayalam Medium,97,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.5,1,8,60,60,130,1
+Style: OverlayBranding,Noto Sans Malayalam Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,9,40,40,140,1
+Style: OverlayWatermark,Noto Sans Malayalam Medium,84,&HA0FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,7,40,40,40,1
+Style: OverlayDivider,Noto Sans Malayalam Medium,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.5,1,8,60,60,190,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:31.46,0:00:36.68,Verse,,0,0,0,,ക്രിസ്തുവിൽ ആശ്വാസവും സ്നേഹത്തിൻ ആശ്വാസവും
+Dialogue: 0,0:00:37.26,0:00:42.88,Verse,,0,0,0,,ആത്മാവിൻ കൂട്ടായ്മയും കരുണയും ഉണ്ടെങ്കിൽ,
+Dialogue: 0,0:00:42.92,0:00:47.04,Verse,,0,0,0,,ഐക്യതയോടെ നാം ഒന്നായി ജീവിച്ച്
+Dialogue: 0,0:00:48.46,0:00:53.96,Verse,,0,0,0,,താഴ്മയിൽ മറ്റുള്ളോർ നന്മയ്ക്കായ് തേടിടാം!
+Dialogue: 0,0:00:54.18,0:00:58.20,Verse,,0,0,0,,എല്ലാ നാമത്തിനും മേലായ നാമം!
+Dialogue: 0,0:00:59.76,0:01:03.86,Verse,,0,0,0,,യേശുവിൻ നാമം അതിശ്രേഷ്ഠ നാമം!
+Dialogue: 0,0:01:05.38,0:01:09.55,Verse,,0,0,0,,മുട്ടുകളൊക്കെയും തൻ മുൻപിൽ മടങ്ങും!
+Dialogue: 0,0:01:11.07,0:01:15.59,Verse,,0,0,0,,നാവുകളൊക്കെയും വാഴ്ത്തിപ്പറയും!
+Dialogue: 0,0:01:44.95,0:01:49.41,Verse,,0,0,0,,ദൈവരൂപത്തിൽ താൻ ഇരുന്നിട്ടും
+Dialogue: 0,0:01:50.61,0:01:54.79,Verse,,0,0,0,,ദാസന്റെ രൂപം ധരിച്ചവനല്ലോ!
+Dialogue: 0,0:01:56.21,0:02:00.53,Verse,,0,0,0,,ക്രൂശിലെ മരണത്തോളം താൻ താഴ്ന്ന്
+Dialogue: 0,0:02:01.71,0:02:06.97,Verse,,0,0,0,,പിതാവിൻ ഇഷ്ടം തികച്ചവനല്ലോ!
+Dialogue: 0,0:02:07.61,0:02:11.61,Verse,,0,0,0,,എല്ലാ നാമത്തിനും മേലായ നാമം!
+Dialogue: 0,0:02:13.17,0:02:17.29,Verse,,0,0,0,,യേശുവിൻ നാമം അതിശ്രേഷ്ഠ നാമം!
+Dialogue: 0,0:02:18.83,0:02:22.95,Verse,,0,0,0,,മുട്ടുകളൊക്കെയും തൻ മുൻപിൽ മടങ്ങും!
+Dialogue: 0,0:02:24.49,0:02:29.01,Verse,,0,0,0,,നാവുകളൊക്കെയും വാഴ്ത്തിപ്പറയും!
+Dialogue: 0,0:02:52.79,0:02:56.93,Verse,,0,0,0,,ആകാശത്തിലും ഭൂമിയിലുമുള്ള
+Dialogue: 0,0:02:58.35,0:03:02.39,Verse,,0,0,0,,സകലത്തിനും മേലെയവൻ ഉയർന്നു!
+Dialogue: 0,0:03:03.99,0:03:08.05,Verse,,0,0,0,,താഴ്മയാൽ പരമപിതാവുയർത്തിയ
+Dialogue: 0,0:03:09.69,0:03:13.69,Verse,,0,0,0,,രാജാധി രാജനായ് വാണിടുന്നു!
+Dialogue: 0,0:03:15.21,0:03:20.34,Verse,,0,0,0,,സ്വാർത്ഥതയില്ലാതെ താഴ്മ തൻ ഭാവത്തിൽ
+Dialogue: 0,0:03:20.94,0:03:25.30,Verse,,0,0,0,,ക്രിസ്തുവിൻ മാതൃക നമ്മളിൽ കാത്തിടാം!
+Dialogue: 0,0:03:26.50,0:03:30.52,Verse,,0,0,0,,ഒരേ മനസ്സോടെ സ്നേഹത്തിൽ നിലനിന്ന്
+Dialogue: 0,0:03:32.24,0:03:37.88,Verse,,0,0,0,,ദൈവിക നീതിയിൽ വാണിടാം നാം!
+Dialogue: 0,0:03:38.00,0:03:41.98,Verse,,0,0,0,,എല്ലാ നാമത്തിനും മേലായ നാമം!
+Dialogue: 0,0:03:43.54,0:03:47.66,Verse,,0,0,0,,യേശുവിൻ നാമം അതിശ്രേഷ്ഠ നാമം!
+Dialogue: 0,0:03:49.18,0:03:53.34,Verse,,0,0,0,,മുട്ടുകളൊക്കെയും തൻ മുൻപിൽ മടങ്ങും!
+Dialogue: 0,0:03:54.86,0:03:59.40,Verse,,0,0,0,,നാവുകളൊക്കെയും വാഴ്ത്തിപ്പറയും!
+Dialogue: 0,0:04:00.32,0:04:04.86,Verse,,0,0,0,,പിതാവാം ദൈവത്തിൻ മഹത്വത്തിനായ്
+Dialogue: 0,0:04:06.14,0:04:10.52,Verse,,0,0,0,,കർത്താവേ യേശുവേ വാഴ്ത്തീടുന്നു!

@@ -1,0 +1,50 @@
+{
+  "version": "1.0",
+  "generator": "VIDX Scripture Video Engine",
+  "entries": [
+    {
+      "id": "PHI_Ch01",
+      "video_path": "D:/Seffin/MAL_SLOW/MP4/PHIL_CH_1_PART_2_MAL.mp4",
+      "thumbnail_path": null,
+      "book": "PHI",
+      "chapter": 1,
+      "language": "Malayalam",
+      "title": "PHI Chapter 01 — Malayalam Audio Bible",
+      "description": "Listen to PHI Chapter 1 in Malayalam.\n\nText Copyright: \nAudio Copyright: \nGenerated automatically by VIDX Scripture Video Engine.",
+      "privacy_status": "unlisted",
+      "category_id": "22",
+      "playlist_name": "",
+      "tags": [
+        "AudioBible",
+        "Scripture",
+        "Malayalam",
+        "PHI"
+      ],
+      "status": "PENDING",
+      "youtube_video_id": null,
+      "error_message": null
+    },
+    {
+      "id": "PHI_Ch02",
+      "video_path": "D:/Seffin/MAL_SLOW/MP4/PHIL_CH_2_PART_2_MAL.mp4",
+      "thumbnail_path": null,
+      "book": "PHI",
+      "chapter": 2,
+      "language": "Malayalam",
+      "title": "PHI Chapter 02 — Malayalam Audio Bible",
+      "description": "Listen to PHI Chapter 2 in Malayalam.\n\nText Copyright: \nAudio Copyright: \nGenerated automatically by VIDX Scripture Video Engine.",
+      "privacy_status": "unlisted",
+      "category_id": "22",
+      "playlist_name": "",
+      "tags": [
+        "AudioBible",
+        "Scripture",
+        "Malayalam",
+        "PHI"
+      ],
+      "status": "PENDING",
+      "youtube_video_id": null,
+      "error_message": null
+    }
+  ]
+}

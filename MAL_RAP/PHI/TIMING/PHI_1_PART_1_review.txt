@@ -1,0 +1,94 @@
+# REVIEW REPORT — align_song.py
+# Audio duration: 234.00s
+
+Line   2: യേശുവിന്റെ ദാസന്മാർ, വരുന്നു ദൂതുമായി!
+         start=5.58s  end=9.38s  conf=0.153
+         ⚠  LOW_CONFIDENCE (0.153)
+
+Line   5: കൂട്ടായ്മയിൽ തുടങ്ങിയത്, പൂർത്തിയാക്കും കർത്താവ്!
+         start=24.14s  end=28.38s  conf=0.004
+         ⚠  LOW_CONFIDENCE (0.004)
+
+Line   6: ചങ്ങലയിലും തടസ്സമില്ല, വളരുന്നു അവൻ്റെ സുവിശേഷം!
+         start=28.90s  end=33.34s  conf=0.017
+         ⚠  LOW_CONFIDENCE (0.017)
+
+Line   7: അസൂയയോ സ്നേഹമോ ആകട്ടെ, ക്രിസ്തു പ്രഘോഷിക്കപ്പെടുന്നു!
+         start=33.50s  end=38.06s  conf=0.022
+         ⚠  LOW_CONFIDENCE (0.022)
+
+Line   8: എന്റെ ഉള്ളം അതിൽ പാടുന്നു, സന്തോഷം നിറഞ്ഞുനിൽക്കുന്നു!
+         start=38.28s  end=43.26s  conf=0.013
+         ⚠  LOW_CONFIDENCE (0.013)
+
+Line  10: ക്രിസ്തുവിൽ പ്രിയരാം വിശുദ്ധ ജനമേ,
+         start=52.93s  end=55.23s  conf=0.285
+         ⚠  LOW_CONFIDENCE (0.285)
+
+Line  11: പൗലോസ് തിമോത്തിയോസ് വന്ദനം ചൊല്ലുന്നു!
+         start=55.35s  end=57.67s  conf=0.466
+         ⚠  LOW_CONFIDENCE (0.466)
+
+Line  12: നമ്മുടെ പിതാവാം ദൈവത്തിൽനിന്നും,
+         start=57.75s  end=60.03s  conf=0.281
+         ⚠  LOW_CONFIDENCE (0.281)
+
+Line  13: കർത്താവാം യേശുവിൽനിന്നും
+         start=60.15s  end=62.43s  conf=0.071
+         ⚠  LOW_CONFIDENCE (0.071)
+
+Line  14: കൃപയും സമാധാനവും നിങ്ങൾക്കേകുന്നു!
+         start=62.55s  end=66.27s  conf=0.007
+         ⚠  LOW_CONFIDENCE (0.007)
+
+Line  15: കൃപയും സമാധാനവും പിതാവിൽ നിന്നൊഴുകട്ടെ,
+         start=67.33s  end=71.05s  conf=0.010
+         ⚠  LOW_CONFIDENCE (0.010)
+
+Line  16: ഓരോ ഓർമ്മയിലും ഉള്ളിൽ നന്ദി നിറയട്ടെ!
+         start=72.19s  end=75.87s  conf=0.016
+         ⚠  LOW_CONFIDENCE (0.016)
+
+Line  17: ആദ്യനാൾ തൊട്ടിന്നുവരെ സുവിശേഷ കൂട്ടായ്മ,
+         start=76.99s  end=80.95s  conf=0.017
+         ⚠  LOW_CONFIDENCE (0.017)
+
+Line  18: നിങ്ങൾ തന്ന പിന്തുണ തന്നല്ലോ വലിയൊരു വെളിച്ചം!
+         start=81.75s  end=85.43s  conf=0.316
+         ⚠  LOW_CONFIDENCE (0.316)
+
+Line  20: പൂർത്തിയാക്കും ദൈവമെന്ന് ഉറപ്പുണ്ട് നെഞ്ചിൽ!
+         start=88.93s  end=91.11s  conf=0.458
+         ⚠  LOW_CONFIDENCE (0.458)
+
+Line  22: ബന്ധനത്തിലും പ്രതിരോധത്തിലും നിങ്ങൾ എന്റെ പങ്കാളികൾ തന്നേ!
+         start=93.63s  end=98.07s  conf=0.142
+         ⚠  LOW_CONFIDENCE (0.142)
+
+Line  24: കൂട്ടായ്മയിൽ തുടങ്ങിയത്, പൂർത്തിയാക്കും കർത്താവ്!
+         start=98.55s  end=102.79s  conf=0.153
+         ⚠  LOW_CONFIDENCE (0.153)
+
+Line  26: അസൂയയോ സ്നേഹമോ ആകട്ടെ, ക്രിസ്തു പ്രഘോഷിക്കപ്പെടുന്നു!
+         start=107.93s  end=112.47s  conf=0.461
+         ⚠  LOW_CONFIDENCE (0.461)
+
+Line  27: എന്റെ ഉള്ളം അതിൽ പാടുന്നു, സന്തോഷം നിറഞ്ഞുനിൽക്കുന്നു!
+         start=112.69s  end=117.69s  conf=0.116
+         ⚠  LOW_CONFIDENCE (0.116)
+
+Line  29: എന്റെ പ്രാർത്ഥനയിതാണ്, സ്നേഹം ഇനിയും വളരണം,
+         start=127.11s  end=130.97s  conf=0.420
+         ⚠  LOW_CONFIDENCE (0.420)
+
+Line  47: ചങ്ങലയിലല്ല സുവിശേഷം!
+         start=204.20s  end=206.14s  conf=0.330
+         ⚠  LOW_CONFIDENCE (0.330)
+
+Line  48: സന്തോഷം അതാണ് എന്റെ സന്ദേശം!
+         start=206.26s  end=208.54s  conf=0.270
+         ⚠  LOW_CONFIDENCE (0.270)
+
+Line  50: വിശ്വാസത്തിൻ വെളിച്ചം എങ്ങും പടരുന്നു!
+         start=211.38s  end=232.90s  conf=0.359
+         ⚠  LOW_CONFIDENCE (0.359)

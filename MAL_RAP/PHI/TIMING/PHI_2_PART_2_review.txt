@@ -1,0 +1,78 @@
+# REVIEW REPORT — align_song.py
+# Audio duration: 201.17s
+
+Line   2: ഇരുളിൽ തിളങ്ങും വെളിച്ചമായി നാം!
+         start=2.92s  end=7.10s  conf=0.051
+         ⚠  LOW_CONFIDENCE (0.051)
+
+Line   3: വിറയലോടെ രക്ഷ പൂർത്തിയാക്കാം!
+         start=10.38s  end=13.64s  conf=0.017
+         ⚠  LOW_CONFIDENCE (0.017)
+
+Line   5: മുറു മുറുപ്പില്ലാതെ, സംശയങ്ങളില്ലാതെ,
+         start=13.66s  end=36.62s  conf=0.008
+         ⚠  LOW_CONFIDENCE (0.008)
+
+Line   6: ദൈവത്തിൻ മക്കളായി ശോഭിക്കാം ഇരുളിൽ!
+         start=37.74s  end=42.22s  conf=0.018
+         ⚠  LOW_CONFIDENCE (0.018)
+
+Line   7: ജീവന്റെ വചനം ഉയർത്തിപ്പിടിക്കാം,
+         start=42.46s  end=46.10s  conf=0.056
+         ⚠  LOW_CONFIDENCE (0.056)
+
+Line   8: ക്രിസ്തുവിൻ നാളിൽ സന്തോഷത്തോടെ നിൽക്കാം!
+         start=47.26s  end=50.96s  conf=0.039
+         ⚠  LOW_CONFIDENCE (0.039)
+
+Line  10: എന്റെ പ്രിയരേ, നിങ്ങൾ എപ്പോഴും അനുസരിച്ചതുപോലെ,
+         start=51.82s  end=55.52s  conf=0.379
+         ⚠  LOW_CONFIDENCE (0.379)
+
+Line  11: ഞാൻ അരികിലുള്ളപ്പോഴും അകലെ കഴിയുമ്പോഴും,
+         start=56.58s  end=60.98s  conf=0.269
+         ⚠  LOW_CONFIDENCE (0.269)
+
+Line  12: ഭയത്തോടും വിറയലോടും രക്ഷയ്ക്കായി പ്രവേശിപ്പിൻ!
+         start=61.38s  end=65.53s  conf=0.445
+         ⚠  LOW_CONFIDENCE (0.445)
+
+Line  14: സർവ്വശക്തനാം ദൈവത്തിന്റെ കൃപയത്രേ എന്നുമത്!
+         start=68.89s  end=71.13s  conf=0.471
+         ⚠  LOW_CONFIDENCE (0.471)
+
+Line  16: വക്രത നിറഞ്ഞ ലോകത്തിൽ കുറ്റമറ്റവരാകണം!
+         start=73.73s  end=75.95s  conf=0.347
+         ⚠  LOW_CONFIDENCE (0.347)
+
+Line  19: നിങ്ങളുടെ വിശ്വാസ യാഗത്തിന്മേൽ എൻ ജീവൻ ഒഴിച്ചാലും,
+         start=80.87s  end=84.79s  conf=0.436
+         ⚠  LOW_CONFIDENCE (0.436)
+
+Line  20: ഞാൻ സന്തോഷിക്കും, നിങ്ങളോടൊപ്പം ആനന്ദിക്കും!
+         start=85.37s  end=89.25s  conf=0.265
+         ⚠  LOW_CONFIDENCE (0.265)
+
+Line  22: മുറു മുറുപ്പില്ലാതെ, സംശയങ്ങളില്ലാതെ,
+         start=89.27s  end=94.23s  conf=0.420
+         ⚠  LOW_CONFIDENCE (0.420)
+
+Line  23: ദൈവത്തിൻ മക്കളായി ശോഭിക്കാം ഇരുളിൽ!
+         start=95.33s  end=99.91s  conf=0.094
+         ⚠  LOW_CONFIDENCE (0.094)
+
+Line  24: ജീവന്റെ വചനം ഉയർത്തിപ്പിടിക്കാം,
+         start=100.09s  end=103.71s  conf=0.214
+         ⚠  LOW_CONFIDENCE (0.214)
+
+Line  27: ആ സന്തോഷത്തോടെ തന്നെ ഞാൻ തിമൊഥെയൊസിനെ അയക്കാം,
+         start=109.47s  end=113.31s  conf=0.498
+         ⚠  LOW_CONFIDENCE (0.498)
+
+Line  38: മുറു മുറുപ്പില്ലാതെ, സംശയങ്ങളില്ലാതെ,
+         start=152.93s  end=156.63s  conf=0.290
+         ⚠  LOW_CONFIDENCE (0.290)
+
+Line  39: ദൈവത്തിൻ മക്കളായി ശോഭിക്കാം ഇരുളിൽ!
+         start=157.73s  end=162.31s  conf=0.178
+         ⚠  LOW_CONFIDENCE (0.178)

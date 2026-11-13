@@ -1,0 +1,1012 @@
+[
+  {
+    "line_idx": 2,
+    "text": "ക്രിസ്തുയേശുവിൻ ദാസരാം ഞങ്ങൾ,",
+    "start": 17.1,
+    "end": 23.14,
+    "avg_confidence": 0.6743,
+    "flags": [],
+    "words": [
+      {
+        "word": "ക്രിസ്തുയേശുവിൻ",
+        "start": 17.1,
+        "end": 19.24,
+        "confidence": 0.6747
+      },
+      {
+        "word": "ദാസരാം",
+        "start": 20.48,
+        "end": 21.62,
+        "confidence": 0.8942
+      },
+      {
+        "word": "ഞങ്ങൾ,",
+        "start": 21.74,
+        "end": 23.14,
+        "confidence": 0.4539
+      }
+    ]
+  },
+  {
+    "line_idx": 3,
+    "text": "വിശുദ്ധ സഭയ്ക്കായ് പ്രാർത്ഥിക്കുന്നു!",
+    "start": 23.62,
+    "end": 28.98,
+    "avg_confidence": 0.6994,
+    "flags": [],
+    "words": [
+      {
+        "word": "വിശുദ്ധ",
+        "start": 23.62,
+        "end": 24.4,
+        "confidence": 0.9598
+      },
+      {
+        "word": "സഭയ്ക്കായ്",
+        "start": 24.64,
+        "end": 26.84,
+        "confidence": 0.639
+      },
+      {
+        "word": "പ്രാർത്ഥിക്കുന്നു!",
+        "start": 27.1,
+        "end": 28.98,
+        "confidence": 0.4994
+      }
+    ]
+  },
+  {
+    "line_idx": 4,
+    "text": "ദൈവപിതാവിൽ നിന്നുമെപ്പോഴും,",
+    "start": 30.5,
+    "end": 35.72,
+    "avg_confidence": 0.4703,
+    "flags": [
+      "LOW_CONFIDENCE (0.470)"
+    ],
+    "words": [
+      {
+        "word": "ദൈവപിതാവിൽ",
+        "start": 30.5,
+        "end": 33.82,
+        "confidence": 0.4318
+      },
+      {
+        "word": "നിന്നുമെപ്പോഴും,",
+        "start": 33.82,
+        "end": 35.72,
+        "confidence": 0.5087
+      }
+    ]
+  },
+  {
+    "line_idx": 5,
+    "text": "നിങ്ങൾക്കേകട്ടെ കൃപയും സമാധാനവും!",
+    "start": 36.34,
+    "end": 42.42,
+    "avg_confidence": 0.7403,
+    "flags": [],
+    "words": [
+      {
+        "word": "നിങ്ങൾക്കേകട്ടെ",
+        "start": 36.34,
+        "end": 38.12,
+        "confidence": 0.6471
+      },
+      {
+        "word": "കൃപയും",
+        "start": 38.78,
+        "end": 39.46,
+        "confidence": 0.7172
+      },
+      {
+        "word": "സമാധാനവും!",
+        "start": 40.26,
+        "end": 42.42,
+        "confidence": 0.8567
+      }
+    ]
+  },
+  {
+    "line_idx": 6,
+    "text": "തുടങ്ങിയ നല്ലൊരു വേലയിതൊക്കെയും,",
+    "start": 45.26,
+    "end": 48.88,
+    "avg_confidence": 0.0954,
+    "flags": [
+      "LOW_CONFIDENCE (0.095)"
+    ],
+    "words": [
+      {
+        "word": "തുടങ്ങിയ",
+        "start": 45.26,
+        "end": 46.2,
+        "confidence": 0.1811
+      },
+      {
+        "word": "നല്ലൊരു",
+        "start": 46.3,
+        "end": 47.04,
+        "confidence": 0.0704
+      },
+      {
+        "word": "വേലയിതൊക്കെയും,",
+        "start": 47.16,
+        "end": 48.88,
+        "confidence": 0.0346
+      }
+    ]
+  },
+  {
+    "line_idx": 7,
+    "text": "തക്ക സമയത്തവൻ പൂർത്തിയാക്കും!",
+    "start": 52.12,
+    "end": 55.7,
+    "avg_confidence": 0.1503,
+    "flags": [
+      "LOW_CONFIDENCE (0.150)"
+    ],
+    "words": [
+      {
+        "word": "തക്ക",
+        "start": 52.12,
+        "end": 52.6,
+        "confidence": 0.2023
+      },
+      {
+        "word": "സമയത്തവൻ",
+        "start": 52.74,
+        "end": 54.18,
+        "confidence": 0.1184
+      },
+      {
+        "word": "പൂർത്തിയാക്കും!",
+        "start": 54.4,
+        "end": 55.7,
+        "confidence": 0.1303
+      }
+    ]
+  },
+  {
+    "line_idx": 8,
+    "text": "ക്രിസ്തുവിൻ നാളതിൽ ശോഭിച്ചിടാനായി,",
+    "start": 58.74,
+    "end": 63.96,
+    "avg_confidence": 0.3508,
+    "flags": [
+      "LOW_CONFIDENCE (0.351)"
+    ],
+    "words": [
+      {
+        "word": "ക്രിസ്തുവിൻ",
+        "start": 58.74,
+        "end": 59.64,
+        "confidence": 0.204
+      },
+      {
+        "word": "നാളതിൽ",
+        "start": 59.66,
+        "end": 62.08,
+        "confidence": 0.186
+      },
+      {
+        "word": "ശോഭിച്ചിടാനായി,",
+        "start": 62.1,
+        "end": 63.96,
+        "confidence": 0.6625
+      }
+    ]
+  },
+  {
+    "line_idx": 9,
+    "text": "മഹത്വത്തിന്റെ ഫലങ്ങൾ അവൻ നൽകീടും!",
+    "start": 64.42,
+    "end": 69.12,
+    "avg_confidence": 0.5454,
+    "flags": [],
+    "words": [
+      {
+        "word": "മഹത്വത്തിന്റെ",
+        "start": 64.42,
+        "end": 66.18,
+        "confidence": 0.6416
+      },
+      {
+        "word": "ഫലങ്ങൾ",
+        "start": 66.28,
+        "end": 67.24,
+        "confidence": 0.6713
+      },
+      {
+        "word": "അവൻ",
+        "start": 67.32,
+        "end": 67.76,
+        "confidence": 0.426
+      },
+      {
+        "word": "നൽകീടും!",
+        "start": 67.76,
+        "end": 69.12,
+        "confidence": 0.4429
+      }
+    ]
+  },
+  {
+    "line_idx": 10,
+    "text": "നിങ്ങളെ ഓർക്കുമ്പോൾ നന്ദിയേറുന്നു,",
+    "start": 85.48,
+    "end": 90.6,
+    "avg_confidence": 0.4614,
+    "flags": [
+      "LOW_CONFIDENCE (0.461)"
+    ],
+    "words": [
+      {
+        "word": "നിങ്ങളെ",
+        "start": 85.48,
+        "end": 86.24,
+        "confidence": 0.6017
+      },
+      {
+        "word": "ഓർക്കുമ്പോൾ",
+        "start": 86.44,
+        "end": 88.02,
+        "confidence": 0.3629
+      },
+      {
+        "word": "നന്ദിയേറുന്നു,",
+        "start": 88.8,
+        "end": 90.6,
+        "confidence": 0.4196
+      }
+    ]
+  },
+  {
+    "line_idx": 11,
+    "text": "പ്രാർത്ഥനതന്നിൽ ഞാൻ വാഴ്ത്തിടുന്നു!",
+    "start": 92.1,
+    "end": 97.22,
+    "avg_confidence": 0.5191,
+    "flags": [],
+    "words": [
+      {
+        "word": "പ്രാർത്ഥനതന്നിൽ",
+        "start": 92.1,
+        "end": 94.32,
+        "confidence": 0.6014
+      },
+      {
+        "word": "ഞാൻ",
+        "start": 94.58,
+        "end": 95.42,
+        "confidence": 0.5518
+      },
+      {
+        "word": "വാഴ്ത്തിടുന്നു!",
+        "start": 95.48,
+        "end": 97.22,
+        "confidence": 0.4041
+      }
+    ]
+  },
+  {
+    "line_idx": 12,
+    "text": "സുവിശേഷ വേലയിൽ പങ്കാളികളായി,",
+    "start": 98.36,
+    "end": 103.98,
+    "avg_confidence": 0.5816,
+    "flags": [],
+    "words": [
+      {
+        "word": "സുവിശേഷ",
+        "start": 98.36,
+        "end": 99.54,
+        "confidence": 0.8588
+      },
+      {
+        "word": "വേലയിൽ",
+        "start": 99.66,
+        "end": 100.76,
+        "confidence": 0.3876
+      },
+      {
+        "word": "പങ്കാളികളായി,",
+        "start": 101.7,
+        "end": 103.98,
+        "confidence": 0.4984
+      }
+    ]
+  },
+  {
+    "line_idx": 13,
+    "text": "എന്നെന്നും കൂടെ നിലകൊണ്ടതിനായി!",
+    "start": 105.56,
+    "end": 110.64,
+    "avg_confidence": 0.6191,
+    "flags": [],
+    "words": [
+      {
+        "word": "എന്നെന്നും",
+        "start": 105.56,
+        "end": 106.82,
+        "confidence": 0.7419
+      },
+      {
+        "word": "കൂടെ",
+        "start": 107.08,
+        "end": 107.7,
+        "confidence": 0.5248
+      },
+      {
+        "word": "നിലകൊണ്ടതിനായി!",
+        "start": 108.38,
+        "end": 110.64,
+        "confidence": 0.5906
+      }
+    ]
+  },
+  {
+    "line_idx": 14,
+    "text": "തുടങ്ങിയ നല്ലൊരു വേലയിതൊക്കെയും,",
+    "start": 111.9,
+    "end": 115.52,
+    "avg_confidence": 0.0277,
+    "flags": [
+      "LOW_CONFIDENCE (0.028)"
+    ],
+    "words": [
+      {
+        "word": "തുടങ്ങിയ",
+        "start": 111.9,
+        "end": 112.86,
+        "confidence": 0.0415
+      },
+      {
+        "word": "നല്ലൊരു",
+        "start": 112.98,
+        "end": 113.7,
+        "confidence": 0.021
+      },
+      {
+        "word": "വേലയിതൊക്കെയും,",
+        "start": 113.8,
+        "end": 115.52,
+        "confidence": 0.0205
+      }
+    ]
+  },
+  {
+    "line_idx": 15,
+    "text": "തക്ക സമയത്തവൻ പൂർത്തിയാക്കും!",
+    "start": 118.78,
+    "end": 122.36,
+    "avg_confidence": 0.0227,
+    "flags": [
+      "LOW_CONFIDENCE (0.023)"
+    ],
+    "words": [
+      {
+        "word": "തക്ക",
+        "start": 118.78,
+        "end": 119.28,
+        "confidence": 0.0295
+      },
+      {
+        "word": "സമയത്തവൻ",
+        "start": 119.4,
+        "end": 120.86,
+        "confidence": 0.0256
+      },
+      {
+        "word": "പൂർത്തിയാക്കും!",
+        "start": 121.08,
+        "end": 122.36,
+        "confidence": 0.013
+      }
+    ]
+  },
+  {
+    "line_idx": 16,
+    "text": "ക്രിസ്തുവിൻ നാളതിൽ ശോഭിച്ചിടാനായി,",
+    "start": 125.4,
+    "end": 130.63,
+    "avg_confidence": 0.3211,
+    "flags": [
+      "LOW_CONFIDENCE (0.321)"
+    ],
+    "words": [
+      {
+        "word": "ക്രിസ്തുവിൻ",
+        "start": 125.4,
+        "end": 126.33,
+        "confidence": 0.2932
+      },
+      {
+        "word": "നാളതിൽ",
+        "start": 126.33,
+        "end": 127.45,
+        "confidence": 0.2728
+      },
+      {
+        "word": "ശോഭിച്ചിടാനായി,",
+        "start": 128.77,
+        "end": 130.63,
+        "confidence": 0.3972
+      }
+    ]
+  },
+  {
+    "line_idx": 17,
+    "text": "മഹത്വത്തിന്റെ ഫലങ്ങൾ അവൻ നൽകീടും!",
+    "start": 131.11,
+    "end": 135.79,
+    "avg_confidence": 0.5004,
+    "flags": [],
+    "words": [
+      {
+        "word": "മഹത്വത്തിന്റെ",
+        "start": 131.11,
+        "end": 132.85,
+        "confidence": 0.5188
+      },
+      {
+        "word": "ഫലങ്ങൾ",
+        "start": 132.95,
+        "end": 133.93,
+        "confidence": 0.5826
+      },
+      {
+        "word": "അവൻ",
+        "start": 133.99,
+        "end": 134.41,
+        "confidence": 0.4398
+      },
+      {
+        "word": "നൽകീടും!",
+        "start": 134.41,
+        "end": 135.79,
+        "confidence": 0.4603
+      }
+    ]
+  },
+  {
+    "line_idx": 18,
+    "text": "എൻ ഹൃദയത്തിൽ നിങ്ങൾ എപ്പോഴുമുണ്ട്,",
+    "start": 165.13,
+    "end": 170.91,
+    "avg_confidence": 0.5518,
+    "flags": [],
+    "words": [
+      {
+        "word": "എൻ",
+        "start": 165.13,
+        "end": 165.45,
+        "confidence": 0.6851
+      },
+      {
+        "word": "ഹൃദയത്തിൽ",
+        "start": 165.47,
+        "end": 166.77,
+        "confidence": 0.6213
+      },
+      {
+        "word": "നിങ്ങൾ",
+        "start": 167.15,
+        "end": 167.83,
+        "confidence": 0.4399
+      },
+      {
+        "word": "എപ്പോഴുമുണ്ട്,",
+        "start": 168.87,
+        "end": 170.91,
+        "confidence": 0.461
+      }
+    ]
+  },
+  {
+    "line_idx": 19,
+    "text": "ക്രിസ്തുവിൻ സ്നേഹത്താൽ വാത്സല്യമുണ്ട്!",
+    "start": 172.09,
+    "end": 177.57,
+    "avg_confidence": 0.6183,
+    "flags": [],
+    "words": [
+      {
+        "word": "ക്രിസ്തുവിൻ",
+        "start": 172.09,
+        "end": 173.05,
+        "confidence": 0.7477
+      },
+      {
+        "word": "സ്നേഹത്താൽ",
+        "start": 173.29,
+        "end": 175.41,
+        "confidence": 0.6765
+      },
+      {
+        "word": "വാത്സല്യമുണ്ട്!",
+        "start": 175.45,
+        "end": 177.57,
+        "confidence": 0.4308
+      }
+    ]
+  },
+  {
+    "line_idx": 20,
+    "text": "കൃപയിൽ നമ്മൾ പങ്കാളികളായി,",
+    "start": 178.77,
+    "end": 183.99,
+    "avg_confidence": 0.5511,
+    "flags": [],
+    "words": [
+      {
+        "word": "കൃപയിൽ",
+        "start": 178.77,
+        "end": 179.55,
+        "confidence": 0.6337
+      },
+      {
+        "word": "നമ്മൾ",
+        "start": 179.67,
+        "end": 180.89,
+        "confidence": 0.5202
+      },
+      {
+        "word": "പങ്കാളികളായി,",
+        "start": 181.71,
+        "end": 183.99,
+        "confidence": 0.4993
+      }
+    ]
+  },
+  {
+    "line_idx": 21,
+    "text": "ഒരുമിച്ച് നൽവഴിയിൽ മുന്നേറാൻ!",
+    "start": 185.51,
+    "end": 190.51,
+    "avg_confidence": 0.5862,
+    "flags": [],
+    "words": [
+      {
+        "word": "ഒരുമിച്ച്",
+        "start": 185.51,
+        "end": 186.27,
+        "confidence": 0.8351
+      },
+      {
+        "word": "നൽവഴിയിൽ",
+        "start": 187.09,
+        "end": 188.23,
+        "confidence": 0.418
+      },
+      {
+        "word": "മുന്നേറാൻ!",
+        "start": 188.77,
+        "end": 190.51,
+        "confidence": 0.5055
+      }
+    ]
+  },
+  {
+    "line_idx": 22,
+    "text": "തുടങ്ങിയ നല്ലൊരു വേലയിതൊക്കെയും,",
+    "start": 191.89,
+    "end": 195.55,
+    "avg_confidence": 0.028,
+    "flags": [
+      "LOW_CONFIDENCE (0.028)"
+    ],
+    "words": [
+      {
+        "word": "തുടങ്ങിയ",
+        "start": 191.89,
+        "end": 192.85,
+        "confidence": 0.0545
+      },
+      {
+        "word": "നല്ലൊരു",
+        "start": 192.95,
+        "end": 193.71,
+        "confidence": 0.013
+      },
+      {
+        "word": "വേലയിതൊക്കെയും,",
+        "start": 193.81,
+        "end": 195.55,
+        "confidence": 0.0164
+      }
+    ]
+  },
+  {
+    "line_idx": 23,
+    "text": "തക്ക സമയത്തവൻ പൂർത്തിയാക്കും!",
+    "start": 198.77,
+    "end": 202.37,
+    "avg_confidence": 0.0188,
+    "flags": [
+      "LOW_CONFIDENCE (0.019)"
+    ],
+    "words": [
+      {
+        "word": "തക്ക",
+        "start": 198.77,
+        "end": 199.27,
+        "confidence": 0.0279
+      },
+      {
+        "word": "സമയത്തവൻ",
+        "start": 199.41,
+        "end": 200.81,
+        "confidence": 0.0178
+      },
+      {
+        "word": "പൂർത്തിയാക്കും!",
+        "start": 201.07,
+        "end": 202.37,
+        "confidence": 0.0108
+      }
+    ]
+  },
+  {
+    "line_idx": 24,
+    "text": "ക്രിസ്തുവിൻ നാളതിൽ ശോഭിച്ചിടാനായി,",
+    "start": 205.41,
+    "end": 210.61,
+    "avg_confidence": 0.2721,
+    "flags": [
+      "LOW_CONFIDENCE (0.272)"
+    ],
+    "words": [
+      {
+        "word": "ക്രിസ്തുവിൻ",
+        "start": 205.41,
+        "end": 206.31,
+        "confidence": 0.2161
+      },
+      {
+        "word": "നാളതിൽ",
+        "start": 206.33,
+        "end": 208.75,
+        "confidence": 0.2373
+      },
+      {
+        "word": "ശോഭിച്ചിടാനായി,",
+        "start": 208.75,
+        "end": 210.61,
+        "confidence": 0.3629
+      }
+    ]
+  },
+  {
+    "line_idx": 25,
+    "text": "മഹത്വത്തിന്റെ ഫലങ്ങൾ അവൻ നൽകീടും!",
+    "start": 211.09,
+    "end": 215.79,
+    "avg_confidence": 0.4384,
+    "flags": [
+      "LOW_CONFIDENCE (0.438)"
+    ],
+    "words": [
+      {
+        "word": "മഹത്വത്തിന്റെ",
+        "start": 211.09,
+        "end": 212.83,
+        "confidence": 0.463
+      },
+      {
+        "word": "ഫലങ്ങൾ",
+        "start": 212.93,
+        "end": 213.93,
+        "confidence": 0.5372
+      },
+      {
+        "word": "അവൻ",
+        "start": 213.99,
+        "end": 214.29,
+        "confidence": 0.3266
+      },
+      {
+        "word": "നൽകീടും!",
+        "start": 214.41,
+        "end": 215.79,
+        "confidence": 0.4267
+      }
+    ]
+  },
+  {
+    "line_idx": 26,
+    "text": "സ്നേഹം പെരുകട്ടെ ആഴങ്ങളിൽ,",
+    "start": 218.67,
+    "end": 225.43,
+    "avg_confidence": 0.5825,
+    "flags": [],
+    "words": [
+      {
+        "word": "സ്നേഹം",
+        "start": 218.67,
+        "end": 219.51,
+        "confidence": 0.7355
+      },
+      {
+        "word": "പെരുകട്ടെ",
+        "start": 220.25,
+        "end": 221.45,
+        "confidence": 0.6339
+      },
+      {
+        "word": "ആഴങ്ങളിൽ,",
+        "start": 222.27,
+        "end": 225.43,
+        "confidence": 0.378
+      }
+    ]
+  },
+  {
+    "line_idx": 27,
+    "text": "ജ്ഞാനം നിറയട്ടെ ചിന്തകളിൽ!",
+    "start": 225.43,
+    "end": 231.25,
+    "avg_confidence": 0.6012,
+    "flags": [],
+    "words": [
+      {
+        "word": "ജ്ഞാനം",
+        "start": 225.43,
+        "end": 226.19,
+        "confidence": 0.6587
+      },
+      {
+        "word": "നിറയട്ടെ",
+        "start": 227.09,
+        "end": 228.11,
+        "confidence": 0.675
+      },
+      {
+        "word": "ചിന്തകളിൽ!",
+        "start": 228.75,
+        "end": 231.25,
+        "confidence": 0.4699
+      }
+    ]
+  },
+  {
+    "line_idx": 28,
+    "text": "നന്മകൾ തിരിച്ചറിഞ്ഞേറെ ശോഭിക്കാൻ,",
+    "start": 231.27,
+    "end": 237.89,
+    "avg_confidence": 0.5492,
+    "flags": [],
+    "words": [
+      {
+        "word": "നന്മകൾ",
+        "start": 231.27,
+        "end": 232.11,
+        "confidence": 0.6035
+      },
+      {
+        "word": "തിരിച്ചറിഞ്ഞേറെ",
+        "start": 232.15,
+        "end": 235.19,
+        "confidence": 0.5469
+      },
+      {
+        "word": "ശോഭിക്കാൻ,",
+        "start": 235.47,
+        "end": 237.89,
+        "confidence": 0.4972
+      }
+    ]
+  },
+  {
+    "line_idx": 29,
+    "text": "ക്രിസ്തുവിൻ നീതിയാൽ ജീവിച്ചിടാം!",
+    "start": 237.91,
+    "end": 245.23,
+    "avg_confidence": 0.5514,
+    "flags": [],
+    "words": [
+      {
+        "word": "ക്രിസ്തുവിൻ",
+        "start": 237.91,
+        "end": 238.81,
+        "confidence": 0.7161
+      },
+      {
+        "word": "നീതിയാൽ",
+        "start": 238.81,
+        "end": 240.77,
+        "confidence": 0.4648
+      },
+      {
+        "word": "ജീവിച്ചിടാം!",
+        "start": 240.87,
+        "end": 245.23,
+        "confidence": 0.4734
+      }
+    ]
+  },
+  {
+    "line_idx": 30,
+    "text": "തുടങ്ങിയ നല്ലൊരു വേലയിതൊക്കെയും,",
+    "start": 245.23,
+    "end": 248.87,
+    "avg_confidence": 0.0203,
+    "flags": [
+      "LOW_CONFIDENCE (0.020)"
+    ],
+    "words": [
+      {
+        "word": "തുടങ്ങിയ",
+        "start": 245.23,
+        "end": 246.17,
+        "confidence": 0.0268
+      },
+      {
+        "word": "നല്ലൊരു",
+        "start": 246.27,
+        "end": 247.03,
+        "confidence": 0.0142
+      },
+      {
+        "word": "വേലയിതൊക്കെയും,",
+        "start": 247.13,
+        "end": 248.87,
+        "confidence": 0.02
+      }
+    ]
+  },
+  {
+    "line_idx": 31,
+    "text": "തക്ക സമയത്തവൻ പൂർത്തിയാക്കും!",
+    "start": 252.09,
+    "end": 255.67,
+    "avg_confidence": 0.0559,
+    "flags": [
+      "LOW_CONFIDENCE (0.056)"
+    ],
+    "words": [
+      {
+        "word": "തക്ക",
+        "start": 252.09,
+        "end": 252.57,
+        "confidence": 0.1088
+      },
+      {
+        "word": "സമയത്തവൻ",
+        "start": 252.71,
+        "end": 254.13,
+        "confidence": 0.0495
+      },
+      {
+        "word": "പൂർത്തിയാക്കും!",
+        "start": 254.39,
+        "end": 255.67,
+        "confidence": 0.0095
+      }
+    ]
+  },
+  {
+    "line_idx": 32,
+    "text": "ക്രിസ്തുവിൻ നാളതിൽ ശോഭിച്ചിടാനായി,",
+    "start": 258.73,
+    "end": 263.95,
+    "avg_confidence": 0.4174,
+    "flags": [
+      "LOW_CONFIDENCE (0.417)"
+    ],
+    "words": [
+      {
+        "word": "ക്രിസ്തുവിൻ",
+        "start": 258.73,
+        "end": 259.63,
+        "confidence": 0.245
+      },
+      {
+        "word": "നാളതിൽ",
+        "start": 259.63,
+        "end": 260.83,
+        "confidence": 0.362
+      },
+      {
+        "word": "ശോഭിച്ചിടാനായി,",
+        "start": 262.07,
+        "end": 263.95,
+        "confidence": 0.6451
+      }
+    ]
+  },
+  {
+    "line_idx": 33,
+    "text": "മഹത്വത്തിന്റെ ഫലങ്ങൾ അവൻ നൽകീടും!",
+    "start": 264.41,
+    "end": 269.03,
+    "avg_confidence": 0.6013,
+    "flags": [],
+    "words": [
+      {
+        "word": "മഹത്വത്തിന്റെ",
+        "start": 264.41,
+        "end": 266.15,
+        "confidence": 0.6926
+      },
+      {
+        "word": "ഫലങ്ങൾ",
+        "start": 266.25,
+        "end": 267.19,
+        "confidence": 0.7162
+      },
+      {
+        "word": "അവൻ",
+        "start": 267.27,
+        "end": 267.59,
+        "confidence": 0.4903
+      },
+      {
+        "word": "നൽകീടും!",
+        "start": 267.71,
+        "end": 269.03,
+        "confidence": 0.5062
+      }
+    ]
+  },
+  {
+    "line_idx": 34,
+    "text": "ദൈവത്തിൻ പുകഴ്ചയ്ക്കായ് വാഴ്ന്നിടാം,",
+    "start": 270.85,
+    "end": 276.57,
+    "avg_confidence": 0.4928,
+    "flags": [
+      "LOW_CONFIDENCE (0.493)"
+    ],
+    "words": [
+      {
+        "word": "ദൈവത്തിൻ",
+        "start": 270.85,
+        "end": 271.91,
+        "confidence": 0.6642
+      },
+      {
+        "word": "പുകഴ്ചയ്ക്കായ്",
+        "start": 272.09,
+        "end": 274.17,
+        "confidence": 0.4529
+      },
+      {
+        "word": "വാഴ്ന്നിടാം,",
+        "start": 274.39,
+        "end": 276.57,
+        "confidence": 0.3613
+      }
+    ]
+  },
+  {
+    "line_idx": 35,
+    "text": "ക്രിസ്തുവിൻ നീതിയിൽ നിലനിൽക്കാം!",
+    "start": 277.95,
+    "end": 283.35,
+    "avg_confidence": 0.4492,
+    "flags": [
+      "LOW_CONFIDENCE (0.449)"
+    ],
+    "words": [
+      {
+        "word": "ക്രിസ്തുവിൻ",
+        "start": 277.95,
+        "end": 278.87,
+        "confidence": 0.595
+      },
+      {
+        "word": "നീതിയിൽ",
+        "start": 278.87,
+        "end": 280.09,
+        "confidence": 0.2721
+      },
+      {
+        "word": "നിലനിൽക്കാം!",
+        "start": 281.07,
+        "end": 283.35,
+        "confidence": 0.4806
+      }
+    ]
+  }
+]

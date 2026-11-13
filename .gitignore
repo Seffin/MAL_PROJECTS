@@ -1,0 +1,59 @@
+﻿# ==========================================
+# .gitignore for Malayalam Scripture Songs
+# (MAL_RAP and MAL_SLOW)
+# ==========================================
+
+# ── Virtual Environments ───────────────────
+.venv/
+venv/
+align_venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ── Python Bytecode & Cache ────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+
+# ── Audio & Video Media Files ──────────────
+# (Track code, lyrics, YAML configs & timings only)
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.wav
+*.mp3
+*.m4a
+*.aac
+*.ogg
+*.flac
+
+# ── Cache & Export Directories ─────────────
+.cache/
+**/.cache/
+**/YouTube_Upload_Package/
+separated/
+**/separated/
+
+# ── Operating System & Editor Files ────────
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ── Temp / Scratch Files ───────────────────
+*.log
+*.tmp
+test.txt

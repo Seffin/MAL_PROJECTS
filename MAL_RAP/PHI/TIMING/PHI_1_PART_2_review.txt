@@ -1,0 +1,50 @@
+# REVIEW REPORT — align_song.py
+# Audio duration: 234.76s
+
+Line   3: ധൈര്യത്തോടെ മുന്നോട്ട്, ഇതാണ് പൗലോസിന്റെ ഗാനം!
+         start=14.86s  end=19.70s  conf=0.474
+         ⚠  LOW_CONFIDENCE (0.474)
+
+Line   6: ജീവൻ എനിക്കു ക്രിസ്തു, മരണം അതൊരു ലാഭം!
+         start=29.68s  end=33.92s  conf=0.055
+         ⚠  LOW_CONFIDENCE (0.055)
+
+Line   7: രണ്ടിനുമിടയിൽ ഞാൻ നിൽക്കുന്നു, ക്രിസ്തുവിലാണെൻ ലക്ഷ്യം!
+         start=34.64s  end=38.88s  conf=0.116
+         ⚠  LOW_CONFIDENCE (0.116)
+
+Line   8: എതിരിടുന്നവരെ ഭയക്കരുത്, ദൈവത്തിൽ നിന്നു രക്ഷ വരും!
+         start=39.68s  end=44.16s  conf=0.196
+         ⚠  LOW_CONFIDENCE (0.196)
+
+Line   9: വിശ്വസിക്കാൻ മാത്രമല്ല, അവനായി കഷ്ടപ്പെടാനും വിളിച്ചല്ലോ!
+         start=44.58s  end=57.22s  conf=0.146
+         ⚠  LOW_CONFIDENCE (0.146)
+
+Line  12: എന്റെ രക്ഷ അടുത്തെത്തും, ഞാൻ ലജ്ജിക്കില്ലൊരിക്കലും!
+         start=66.46s  end=71.20s  conf=0.406
+         ⚠  LOW_CONFIDENCE (0.406)
+
+Line  13: മടിയേതുമില്ലാതെ ധൈര്യം ഉള്ളിൽ വർദ്ധിക്കും,
+         start=71.50s  end=75.70s  conf=0.474
+         ⚠  LOW_CONFIDENCE (0.474)
+
+Line  23: ജീവൻ എനിക്കു ക്രിസ്തു, മരണം അതൊരു ലാഭം!
+         start=116.33s  end=120.59s  conf=0.068
+         ⚠  LOW_CONFIDENCE (0.068)
+
+Line  24: രണ്ടിനുമിടയിൽ ഞാൻ നിൽക്കുന്നു, ക്രിസ്തുവിലാണെൻ ലക്ഷ്യം!
+         start=121.31s  end=125.55s  conf=0.275
+         ⚠  LOW_CONFIDENCE (0.275)
+
+Line  32: എതിരാളികളെ കണ്ടു ഒട്ടും പതറരുത് നെഞ്ചകം,
+         start=168.19s  end=172.79s  conf=0.432
+         ⚠  LOW_CONFIDENCE (0.432)
+
+Line  33: അത് അവർക്ക് നാശത്തിന്റെ അടയാളം, നിങ്ങൾക്കോ രക്ഷ ഉറപ്പ്!
+         start=173.11s  end=178.05s  conf=0.391
+         ⚠  LOW_CONFIDENCE (0.391)
+
+Line  44: ക്രിസ്തുവിനായ് ജീവിക്കാം.
+         start=229.17s  end=231.51s  conf=0.079
+         ⚠  LOW_CONFIDENCE (0.079)
